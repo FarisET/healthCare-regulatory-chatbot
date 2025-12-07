@@ -1,0 +1,17 @@
+// Find generic single-word concepts with high mention counts
+MATCH (co:Concept)<-[m:MENTIONS]-()
+WHERE NOT co.name CONTAINS '-'  // single-word only
+WITH co, count(m) AS mentions
+WHERE mentions > 5
+WITH collect(co.name) AS generic_list
+
+// For each clause, if it has both generic AND specific concepts, remove generic
+MATCH (cl:Clause)-[m:MENTIONS]->(co:Concept)
+WHERE co.name IN generic_list
+WITH cl, co, m,
+     [(cl)-[:MENTIONS]->(other:Concept) 
+      WHERE NOT other.name IN generic_list | other] AS specific_concepts
+WHERE size(specific_concepts) > 0
+DELETE m
+
+RETURN count(*) AS removed_relationships

@@ -1,0 +1,35 @@
+text: "All patients are seen within fifteen minutes of arrival for initial assessment and treatment prioritisation."
+false_positive: ["arrival", "minute"]
+
+text: "Patients are examined in privacy by a doctor of the same sex as the patient (if available), or have the service of a chaperone if desired."
+false_positive: ["sex"]
+true_positive: ["same sex"]
+
+text: "The type and extent of minor surgery to be undertaken is defined and is consistent with the facilities, equipment and skills available on site."
+true_positive: ["sex"]
+
+text: "The type and extent of minor surgery to be undertaken is defined and is consistent with the facilities, equipment and skills available on site."
+false_positive: ["extent", "site"]
+true_positive: ["minor surgery"]
+
+text: "An agreed policy is followed which defines under what circumstances, if any, nurses may issue or administer specific drugs (including tetanus toxoid) without a specific doctor’s order."
+false_positive: ["specific-order"]
+true_positive: ["specific-drug", "tetanus"]
+false_negitive: ["drug-issuance"]
+
+text: "All patients are seen within fifteen minutes of arrival for initial assessment and treatment prioritisation."
+false_positive: ["arrival", "minute"]
+true_positive: ["treatment-prioritisation", "initial-assessment"]
+
+text: "Patients being transferred to other facilities are provided with necessary resources such as transport, walking aids and documentation."
+false_positive: ["aids", "minute"]
+true_positive: ["name: "necessary-resource""]
+false_negitive: ["patient-transfer"]
+
+text: "The casualty department is managed at all times by a suitably qualified and experienced nurse, doctor or senior casualty department assistant."
+false_positive: [""senior-department-assistant"]
+true_positive: ["senior-casualty-department-assistant""]
+
+text: "Data available for clinical review includes: Number of attendances Repeat visits Patients who died in the casualty department."
+false_positive: ["number","attendance","repeate-visits"] # these are descriptions of clinical-review
+true_positive: ["clinical-review"]

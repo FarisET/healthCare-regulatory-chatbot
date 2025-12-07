@@ -1,0 +1,4341 @@
+Part A:Management
+
+Part B:Service Delivery
+
+Part C:Auxiliary Services
+
+Part D:Infection Control, Hygiene and Waste Management
+
+Part E:Safe and Appropriate Environment
+
+The standards and their criteria have been specifically developed for the specific setup of hospitals in Sindh by the Clinical Governance Committee of SHCC.  Each section consists of “standards” and “measurable criteria”. Whereas “standards” are broad statements of the expected level of performance, the “measurable criteria” deal with the operational aspects of the standards and provide details on structures and processes necessary to ensure high quality of care. In preparation of the SSDS, it has been ensured that the requirements mentioned in the standards are relevant, important, understandable, measurable and achievable in Sindh context. Annex-A and Annex -B are added as informative in the SSDS.
+
+Sindh Service Delivery Standards for Hospitals
+
+1. SCOPE
+
+The Pakistan Hospital Standards prescribe the service management and service provision standards for hospitals and are applicable to secondary as well as tertiary care hospitals.   These standards provide the basis for organizational assessment of the delivery of quality patient care and services, and utilization of available resources. These standards are applicable to all types of hospitals – public and private, large and small, urban and rural.
+
+2. NORMATIVE REFERENCES
+
+SSDS: 01-2017Sindh Service Delivery Standards for Hospitals
+
+3. TERMS AND DEFINITIONS 
+
+For terms and definitions SSDS: 02-2017 (Sindh Service Delivery Standards for Hospitals – Terms and Definitions) is applicable.
+
+PART A: MANAGEMENT
+
+4. MANAGING THE ORGANISATION
+
+4.1 Mission and Strategic Planning
+
+The hospital is directed and managed effectively and efficiently, in accordance with its objectives and mission statement.
+
+No.
+
+Measurable Criteria
+
+4.1.1
+
+There is a universal mission statement for the Hospital, which sets out the principal aims of the Hospital and which is developed together with staff, patients’ representatives, representatives of the owners and other relevant stakeholders. 
+
+4.1.2
+
+The mission and values are available and disseminated to the staff and general public in languages and forms appropriate to the local population and their needs.
+
+4.1.3
+
+A strategic plan developed in consultation with the staff and other relevant stakeholder’s sets out the long-term goals, objectives and strategies for the hospital and its services.
+
+4.1.4
+
+An annual plan is developed in line with the strategic plan and contains objectives, planned actions, staffing, trainings and financial and physical resources to meet the planned actions. 
+
+4.2 General Management
+
+Responsibilities for operating the organization, managing its resources and for complying with applicable laws and regulations are clearly documented.
+
+No.
+
+Measurable Criteria
+
+4.2.1
+
+The hospital is overseen by a Governing Board (Board of Directors/Governors or Representatives of Government Department). 
+
+4.2.2
+
+The Governing Board provides leadership and is responsible for:
+
+- establishing and reviewing the mission, values and strategic direction of the hospital
+
+- fostering a culture of quality improvement
+
+- ensuring the hospital is adequately resourced to meet its objectives
+
+- ensuring compliance with all relevant legislative requirements
+
+- monitoring and evaluating the achievement of strategic and annual results.
+
+4.2.3
+
+The Hospital is managed by a Hospital in-charge with appropriate qualifications and experience. 
+
+4.2.4
+
+The job description of the Hospital in-charge clearly defines responsibility and accountability for the efficient and effective operation of the hospital, including responsibility for risk and quality management, infection control and health and safety.
+
+4.2.5
+
+A current organizational chart identifies the lines of accountability and reporting for all staff and the governing authority/owners
+
+4.2.6
+
+The organizational chart is regularly reviewed and clearly communicated to all staff within the Hospital and other relevant persons.
+
+4.2.7
+
+Clear and effective mechanisms exist for internal and external communication. These include:
+
+Two-way communication among staff and between staff and management
+
+Communication between different departments and wards of hospital
+
+Communications with the press and media
+
+Communication with patients and attendants
+
+Cross-sectoral Communications with external organizations and governmental departments
+
+4.2.8
+
+Staff follows a clear policy on confidentiality and release of information, which complies with the local acts and rules.
+
+4.2.9
+
+The scope and limits, roles and functions of each clinical service units and departments are clearly defined and known to staff and are determined with the input of staff.
+
+4.2.10
+
+Each service within the hospital is led by an identified manager or supervisor with appropriate qualifications and experience who is responsible for the organization and management of this service. 
+
+4.2.11
+
+Duty rotas reflect the appropriate skill mix and management requirements and are available at least a week in advance.
+
+4.3 Risk and Quality Management
+
+The hospital prevents and manages risk factors; identifies opportunities to continuously improve its processes and services; makes improvements and evaluates their effectiveness.
+
+No.
+
+Measurable Criteria
+
+4.3.1
+
+A risk management plan for the Hospital:
+
+is based on information from operational planning, patient feedback, clinical indicators and events, staffing and resource provision, and environmental data;
+
+identifies, assesses and prioritizes all risks in terms of likelihood and consequences of damage;
+
+risks include both patients as well as health care providers i.e. bed sores/ ulcers, patient falls, wrong patient identification errors, wrong side surgery, needle stick injuries, blood reaction, drug reactions, exposure to radiations etc.
+
+includes strategies to manage those risks; and
+
+is available and disseminated to relevant staff.
+
+4.3.2
+
+Incidents, accidents, near misses and adverse events are:
+
+reported to risk management committee notified by the Medical Superintendent;
+
+investigated promptly according to a set procedure;
+
+used to make improvements in line with any findings; and 
+
+communicated to relevant staff.
+
+4.3.3
+
+There is a quality committee, which meets on a regular, documented basis to analyze reports, and to monitor, support, advise and lead on quality improvement. All staff members have inputs into this committee.
+
+4.3.4
+
+The quality committee develops a quality plan that defines roles and responsibilities and sets priorities for continuous quality improvement (CQI).
+
+4.3.5
+
+Key Performance indicators patient safety includes number of accidental injuries, bed ulcers, drug reactions, drug accidents, wrong surgeries, pin prick injuries reported from the patients and health care providers to the risk management committee or CQI on monthly and yearly basis.
+
+4.3.6
+
+The hospital regularly assesses patients’ satisfaction from the 3rd party (neutral forum) in order to improve service provision. 
+
+4.3.7
+
+Staff follows documented policies and procedures for the key functions and processes in each service and department.
+
+4.3.8
+
+Policies and procedures are:
+
+-up-to-date;
+
+-developed through inputs of staff
+
+-readily available with staff in their service units and departments
+
+-formally reviewed at least every year or as circumstances change and revised as necessary.
+
+4.3.9
+
+Appropriate and evidence-based clinical guidelines are developed or adopted and made available to all staff within the hospital.
+
+4.3.10
+
+Staff is trained to follow the guidelines and there is evidence of using these guidelines.
+
+4.3.11
+
+A clinical audit schedule is agreed between management and clinical staff, and is implemented by the CQI committee.
+
+4.3.12
+
+Improvements are planned, appropriate action is taken, the effectiveness of the action is evaluated and the results are fed back to staff and patients/attendants by the chairperson of CQI committee.
+
+4.3.13
+
+Sufficient financial resources to implement the ‘quality improvement plan’ are available and all relevant staff are allocated time for quality improvement activities. 
+
+4.3.14
+
+Other Audits – Non Clinical are to be carried out as per the hospital documented policies and procedures. The standards followed may be any External certification – Accreditation body
+
+4.4Financial Management
+
+Financial resources are managed efficiently and effectively in order to optimize services that can be provided and results that can be achieved.
+
+No.
+
+Measurable Criteria
+
+4.4.1
+
+A qualified financial manager or qualified accountant is responsible for financial management and ensure that rules and procedures are followed and monitored.
+
+4.4.2
+
+The hospital in-charge and departmental heads are involved in setting annual targets and budgets for the following financial year.
+
+4.4.3
+
+The accounting system produces reliable financial information regarding all sources of revenues (line budget, grant in aid, user fees, zakat, donations, health insurance fees or others) and all expenditure, and provides timely and accurate financial reports for decision-making. 
+
+4.4.4
+
+An internal control and audit system is in place.
+
+4.4.5
+
+An external financial audit is undertaken annually.
+
+4.4.6
+
+A mechanism is used to control the acquisition, use, disposal and safeguarding of assets in accordance with financial rules and regulations.
+
+4.5Human Resources Management
+
+Staff is appointed, trained and evaluated in accordance with documented procedures, job descriptions and service needs.
+
+No.
+
+Measurable Criteria
+
+4.5.1
+
+The hospital develops and implements policies and procedures for the management of staff, which includes recruitment, selection, appointment, training, appraisal, promotion, and retention of appropriately qualified staff to meet the service objectives of the hospital. 
+
+4.5.2
+
+Staff availability and skill mix are consistent with the on-going role and functions of each unit
+
+4.5.3
+
+Records are available showing:
+
+Staff levels, qualifications and skill mix
+
+Workload and complexity
+
+Sickness and absence
+
+Trainings
+
+4.5.4
+
+Staff appointments are made in line with the required qualification and experience specific for the job.
+
+4.5.5
+
+Staff is treated in accordance with an equal opportunities policy and as per Government rules and regulation.
+
+4.5.6
+
+Current job descriptions and responsibilities for all staff are available and all staff has a copy of their job description.  
+
+4.5.7
+
+Staff has their professional registration papers checked on appointment and regularly thereafter to ensure employees have a current valid registration with the relevant professional accreditation body. 
+
+4.5.8
+
+Staff is oriented to the hospital and their specific positions through a documented induction program or orientation.
+
+4.5.9
+
+The staff induction training programme includes: 
+
+The hospital’s mission, values, goals and relevant planned actions
+
+The detail of Services provided 
+
+Roles and responsibilities
+
+Relevant policies and procedures
+
+Use of equipment
+
+Safety measures
+
+Risk mitigation measures
+
+Emergency preparedness
+
+Quality improvement actions.
+
+4.5.10
+
+Every staff member in the hospital can be identified by appropriate mechanisms, e.g., uniforms, name tags, Hospital display card.
+
+4.5.11
+
+Staff performance is evaluated annually for each staff member, against their job description and agreed targets. This should be used to identify strengths, areas for improvement and training needs.
+
+4.5.13
+
+The hospital identifies staff authorised as competent to undertake admissions, carry out assessments, provide treatment in different services and manage waiting lists.
+
+4.5.14
+
+Students of medicine, nursing or other health professionals are supervised by a qualified doctor, nurse, or other health professional as appropriate.
+
+4.5.15
+
+There are appropriate facilities for staff.
+
+4.5.16
+
+A training needs assessment exercise is conducted every year with the objective of developing training plans for all staff groups in order to meet the development needs of individual health professionals and the service needs of the organisation. 
+
+4.5.17
+
+A continuing education programme – like on-job training, refresher courses, medical internship programme – is accessible to all staff. Participation is encouraged and monitored by the hospital management. 
+
+4.5.18
+
+There is a training budget, which is calculated to allow appropriate trainings to take place. 
+
+4.5.19
+
+Accurate and complete personnel records, including records of training, are kept in a secure location and treated as confidential.
+
+4.5.20
+
+Key indicators such as absenteeism and staff turnover are measured and the results are analyzed and used for improvement.
+
+5. PATIENT RIGHTS
+
+5.1 Information for Patients
+
+Patients have the right to receive all information relevant to their care management to enable them to make informed decisions. 
+
+Measurable Criteria
+
+5.1.1
+
+A patient rights and responsibilities charter is developed and displayed in all patient areas. 
+
+5.1.2
+
+The hospital uses a documented process for those patients not able to understand written information to inform them of their rights and responsibilities. 
+
+5.1.3
+
+Guidance and advice is provided to the patients at the registration point/counter.
+
+5.1.4
+
+The reception area and wards display information about the hospital, including:
+
+Rights and responsibilities of the patients;
+
+Services and facilities available in the hospital;
+
+Costs of services; and
+
+Feedback and complaint mechanisms.
+
+5.1.5
+
+Information about the hospital services and how best to use them is made available to the public and displayed at prominent place (reception lobbies, waiting languages or service provision areas etc.).
+
+5.1.6
+
+Patients and their attendants are fully informed about the patient’s health status, including the clinical facts about their condition, unless they explicitly request not to be informed.
+
+5.1.7
+
+Appropriate information is provided to patients and their attendants, in a way that they can understand it regarding the proposed treatment, costs, risks and benefits of the proposed treatment and/or investigation as well as the alternatives available, if any.
+
+5.1.8
+
+Patient consent is obtained for the proposed care or treatment. Written consent is obtained for any invasive procedures or operations.
+
+5.1.9
+
+Up-to-date and evidence based information and education are given on:
+
+-Disease prevention
+
+-Health promotion
+
+5.1.10
+
+Relevant written and graphic health messages in vernacular are prominently displayed within the hospital and written information is available for patients to take home.
+
+5.1.11
+
+The hospital has determined its level of responsibility for patients’ possessions and patients receive information about the hospital’s responsibility for protecting personal belongings. 
+
+5.2Patients’Feedback on Services
+
+Patients have the right to complain about the services and treatment and their complaints are investigated in a fair and timely manner.
+
+Measurable Criteria
+
+5.2.1
+
+Patients are informed of their right to express their concerns or complain either verbally or in writing.
+
+5.2.2
+
+There is a documented process for collecting, prioritizing, reporting and investigating complaints, which is fair and timely.
+
+5.2.3
+
+Patients are informed of the progress of the investigation at regular intervals and are informed of the outcome.
+
+5.2.4
+
+The results of the complaints investigations are used as part of the quality improvement process
+
+5.3 Privacy and Dignity of Patients
+
+Patients’ privacy and dignity are respected throughout the entire care process.
+
+Measurable Criteria
+
+5.3.1
+
+Each patient has (a right to) individual bed.
+
+5.3.2
+
+Consultation, treatment rooms and washing facilities allow privacy and there are separate toilets for female patients.
+
+5.3.3
+
+Appropriate in-patient and changing facilities for patients allow privacy and dignity to be maintained.
+
+5.3.4
+
+A given intervention may be carried out only in the presence of those persons who are necessary for the intervention unless the patient consents or requests otherwise.
+
+5.3.5
+
+There is a process to identify and respect the patient’s values and beliefs.
+
+5.3.6
+
+Patients are relieved of pain and suffering according to the current state of knowledge.
+
+5.3.7
+
+Staff is made aware of the needs of dying patients and provide respectful and compassionate care and services to dying patients and their attendants. 
+
+PART B: SERVICE DELIVERY
+
+6. CARE CONTINUUM
+
+6.1Access to health services
+
+Services are continuously available and the hospital minimises physical, economic, social, religious, cultural, organisational or linguistic barriers to avail services.
+
+Measurable Criteria
+
+6.1.1
+
+Hospital access ways and passageways are kept clear at all times.
+
+6.1.2
+
+Functional wheel chairs and stretchers are available at the gate/reception for patients.
+
+6.1.3
+
+All patient areas of the hospital are easily accessible by wheelchair. 
+
+6.1.4
+
+Multi-storey buildings have ramps or functional lifts with an operator.
+
+6.1.5
+
+Hospital and all its departments are clearly signposted and a site plan is displayed at a central place for orientation of staff and patients.
+
+6.1.6
+
+A reception with a receptionist to guide the patients is open during operating hours.
+
+6.1.7
+
+Hospital specifies visiting hours (and communicates these to the public).
+
+6.1.8
+
+Rules for visiting hours, number and kind of visitors/attendants are clearly defined and visibly posted. Wherever needed, facilities are provided for relatives to sit at the bedside and to stay overnight. 
+
+6.1.9
+
+Documented policies and procedures for the following processes are developed and followed by the staff:
+
+- Prioritizing patients with emergency needs
+
+- Examination and treatment of emergency patients and elderly patients 
+
+- Management of patients when bed space is not available on the desired ward
+
+- Patient referral mechanism 
+
+- Managing waiting time
+
+- Support to disadvantaged patients, such as unaccompanied and poor patients.
+
+-Mechanism of user charges waivers and local purchase sanctions
+
+6.1.10
+
+On admission to hospital, patients are introduced to the nurse-on-duty and given an orientation to the unit/department to which they are admitted including the location of toilets, pantry and other facilities and services.
+
+6.1.11
+
+Patients admitted to the hospital have access to an allotted bed with fresh linen and do not have to double up with other patients.
+
+6.1.12
+
+Elective admissions, including waiting list management, vetting, appointments and cancellations are managed in accordance with documented policies and procedures that are based on patient needs. 
+
+6.2Continuity of Care
+
+Patients have the right to continuity of care, including cooperation between all health care providers and/or establishments, which may be involved in their diagnosis, treatment and care.
+
+Measurable Criteria
+
+6.2.1
+
+Every patient seeking treatment or care at the hospital is registered and issued appropriate form for the patient with recording of various details of symptoms, diagnosis, treatment and services being provided.
+
+6.2.2
+
+All patients and visitors to the hospital receive courteous and prompt attention from the staff at reception and inwards or departments.
+
+6.2.3
+
+The doctor-on-duty has primary responsibility for the clinical care of any patient until a specialist takes over.
+
+6.2.4
+
+The nurse-on-duty is responsible for coordinating patient assessment, care planning and evaluation of care with other care providers and services.
+
+6.2.5
+
+Stock of essential drugs is available at all times in each treatment area.
+
+6.2.6
+
+Doctors, nurses and appropriate support staff are available on-site 24 hours a day.
+
+6.2.7
+
+Nursing staff can summon urgent medical help of general or specialist doctor, as per need.
+
+6.2.8
+
+Patient care is formally handed over with the transfer of all relevant information when staff changes duties. 
+
+6.2.9
+
+Patient’s record is available to all care providers at all times.
+
+6.3 Assessment and Investigations
+
+All patients have their health care needs identified through an established assessment process.
+
+Measurable Criteria
+
+6.3.1
+
+Assessments are carried out by qualified professionals identified by the hospital as competent to do assessments.
+
+6.3.2
+
+Criteria to prioritise emergency patients exist and are implemented.
+
+6.3.3
+
+Female patients’ choice regarding examination by a male or female is respected as far as possible.
+
+6.3.4
+
+An attendant is available when female patients are being examined by members of the opposite sex.
+
+6.3.5
+
+An assessment of patient’s needs is systematically completed on a form including, for example, medical, psychological, social, physical, environmental, educational, spiritual and cultural needs.
+
+6.3.6
+
+The initial assessment includes recording of vital signs, weight, height and significant findings.
+
+6.3.7
+
+The patient’s attendants are included in the assessment by providing information wherever possible.
+
+6.3.8
+
+A history and full medical examination is entered in the patient records by a designated member of the medical staff as soon as possible but within 4hours of admission.
+
+All patient assessments should preferably be reviewed and approved by the attending consultant within 24 hours of admission.
+
+6.3.9
+
+After examining the patient, the doctor legibly endorses the assessment findings, records The provisional diagnoses and the course of action on the OPD corridor the patient’s record and sign it with date.
+
+6.3.10
+
+Except in an emergency, admission notes are completed prior to any surgical procedure. 
+
+6.3.11
+
+Following examination, written as well as verbal information is provided for patients regarding future visits, treatment and medication.
+
+6.3.12
+
+Patients are re-assessed at certain intervals to determine their response to treatment and to plan for continued treatment or discharge and re-assessment. These results are documented in the patient’s record.
+
+6.4 Care Planning, Monitoring and Evaluation
+
+Hospital develops and implements a written, up to date plan of care/service for each patient and monitor the care provided against this plan.
+
+Measurable Criteria
+
+6.4.1
+
+A written care plan for each patient is prepared in collaboration with the patient, their attendants and other appropriate health professionals. 
+
+6.4.2
+
+Care plans identify the goals of care and treatment and reflect the patient’s assessed needs, perceptions and priorities, agreed philosophy of care, current guidelines and evidence-based practice.
+
+6.4.3
+
+Care plan includes how the patient’s individual choices and preferences are to be addressed.
+
+6.4.4
+
+Care plan is evaluated and updated in accordance with the findings of re-assessment and progress in meeting identified goals.
+
+6.4.5
+
+Care plan is used by doctors, nurses and other health professionals to facilitate continuity of care and on-going appropriate treatment.
+
+6.4.6
+
+Poor outcome indicators, e.g. hospital acquired infections, leg ulcers, and patient complaints are systematically monitored, recorded, analysed and used to improve care.  
+
+6.5 Treatment
+
+Hospital delivers services to the patients that meet their individual assessed needs, reflect current good practice and are coordinated to minimise potential risks and interruptions in provision.
+
+No.
+
+Measurable Criteria
+
+6.5.1
+
+Clinical guidelines and treatment protocols are used to guide patient care processes.
+
+6.5.2
+
+Policies and procedures guide the care of high-risk patients, such as:
+
+emergency patients
+
+those who are comatose or on life support
+
+those with communicable diseases or Immuno-suppressed 
+
+patients on dialysis
+
+vulnerable elderly and children
+
+seriously ill patients.
+
+6.5.3
+
+Written procedures to ensure that the right dose of medication is administered to the right patient at the right time are followed and documented by staff and include:
+
+-Identification of the patient before medications are administered
+
+-Verification of the medication and the dosage amount with the prescription 
+
+-Verification of the routes of administration
+
+-Verification of the time of administration
+
+6.5.4
+
+Medication effects (including adverse effects) and medication errors are monitored, documented, reported and analysed.
+
+6.5.5
+
+Appropriate and sufficient support services are available to allow nursing staff to meet the care needs of patients. These include:
+
+-Availability around the clock
+
+-Availability and functionality of the relevant equipment
+
+6.5.6
+
+Patients are not disturbed unnecessarily except for medical reason
+
+6.6 Documentation of Care
+
+The patient record contains sufficient information to identify the patient, support the diagnosis, justify the treatment and care, document the course and results of the treatment and care, and promote continuity of care.
+
+No.
+
+Measurable Criteria
+
+6.6.1
+
+A clinical record is initiated for every patient admitted to the hospital and wherever possible there is only one set of case notes for each patient.
+
+6.6.2
+
+Patient records are maintained through the use of a unique number (alpha or numeric) or other form of identification unique to the patient.
+
+6.6.3
+
+Entries in the patient records are legible, dated, named, signed and identifiable.
+
+6.6.4
+
+The use of symbols and abbreviations is kept to a minimum in accordance with an agreed list of abbreviations within the hospital. 
+
+6.6.5
+
+There is an agreed format for filing of information within the patient record. 
+
+6.6.6
+
+The hospital respects information about a patient’s health status, medical condition, diagnosis, prognosis and treatment and all other information of a personal kind as confidential, even after death.  Confidential information is only disclosed if the patient gives explicit consent or if the law expressly provides for this.
+
+6.6.7
+
+The patients’ record can be used for research purposes only if the patient has given a written consent and/or if there is an approval by an ethics approval committee.
+
+6.6.8
+
+The original patient record may not be removed from the hospital premises, except by court order. Policies and procedures are in place to prevent the loss and/or misuse of patient record.
+
+6.6.9
+
+The patient record is sufficiently detailed to enable the patient to receive effective coordinated treatment and care and includes:
+
+Details of admission, date and time of arrival
+
+Patient assessment and medical examination
+
+Sheet containing history pertinent to the condition being treated including details of present and past history and family history
+
+Diagnosis by a doctor for each entry to the hospital
+
+Details of the patient care plan and follow-up plans
+
+Diagnostic test orders and results of these tests
+
+Progress notes written by medical, nursing and other health professionals to record all significant events such as alterations in the patient’s condition and responses to treatment and care
+
+Record of any near-misses, incidents or adverse events
+
+Medication sheet recording each dose given
+
+Treatment record/chart
+
+Observation charts, e.g. temperature chart, input and output chart, head injury chart, diabetic chart, etc.
+
+Specialist consultation reports
+
+Mode of discharge, e.g. cured, continue medical treatment at home, left against medical advice or discharge on will.
+
+-In case of death, details of circumstances leading to the death of patients
+
+6.6.10
+
+For surgical patients, the clinical record additionally includes:
+
+Consent form
+
+Anaesthetic notes
+
+Operation record
+
+6.6.11
+
+Where referrals have been made, the patient record includes the referral letter/slip and indications for referral
+
+6.6.12
+
+An ‘alert’ notation for conditions such as allergic responses to medications or food, adverse drug reactions, radioactive hazards and infection risks is prominently displayed in the record.  
+
+6.6.13
+
+A completed discharge summary signed by the doctor (full name and designation) who authorized the discharge is submitted to the records department within 72 hours of the patient’s discharge.
+
+6.6.14
+
+All diagnoses and procedures are coded and yearly summary report is prepared and used for planning. 
+
+6.6.15
+
+Patient records (hard copies) are retained for a minimum of 05 years and disposed off according to existing rules and legislation.
+
+6.6.16
+
+Appropriate policies and procedures are in place to govern access to and storage of patient records. 
+
+6.6.17
+
+There is a hospital policy, which allows patients access to their records.
+
+6.6.18
+
+All patient records are filed in a central medical records filing system. There is a provision of a separate storage area for keeping medico-legal case records. 
+
+6.6.19
+
+There is a system for easy retrieval of records.
+
+6.6.20
+
+The storage area for patient records is protected against fire, flooding and damage by insects, consistent with the governmental norms. 
+
+6.6.21
+
+A tracking system monitors the removal, movement and replacement of patient records between internal users and the medical records department. 
+
+6.7 Discharge, Transfer and Referral
+
+Safe and appropriate discharge, transfer or referral of patients is based on the patient’s health status and need for continuing care. 
+
+No.
+
+Measurable Criteria
+
+6.7.1
+
+A written procedure including criteria to determine readiness for discharge, transfer or referral of patients is used and specifies who is authorised to use it.
+
+6.7.2
+
+Reasonable time, preferably more than 04 hours, of notice of discharge or transfer is given to patients and attendants.
+
+6.7.3
+
+Follow up arrangements, agreed with the patient and/or attendants, and are noted in the patient record prior to discharge.
+
+6.7.4
+
+On discharge, the attending doctor summarises in the patient record the primary (and secondary) diagnosis, any complications, any operative procedures undertaken and any follow up arrangements agreed with the patient or/and their attendants.
+
+6.7.5
+
+A discharge card/slip containing relevant information such as reason for admission, findings, diagnosis, treatment, medication, condition at discharge, date of discharge and name of attending practitioner is written and given to the patients and/or their attendants prior to discharge, with a copy retained in the patient record.
+
+6.7.6
+
+The patient and/or attendant is advised on any necessary skills for care after discharge such as moving and handling techniques or catheter care.
+
+6.7.7
+
+If patients are transferred to another hospital or doctor, copies of their clinical notes and the discharge slip accompany them to provide sufficient information for continuity of care and feedback.
+
+6.7.8
+
+Patients being transferred to other facilities are provided with necessary resources such as transport, walking aids and documentation. 
+
+6.7.9
+
+Before transfer, the hospital or doctor to which the patient is being transferred is informed about receiving the patient, their status and the time of arrival and preferably, afterwards the hospital checks with the facility that the transfer has been safely made.
+
+6.7.10
+
+Leaving against medical advice (LAMA) - If the patient is unavoidable patient should be brief about all potential risk and be clear of what consequence could be faced ahead. Proper documentation may be done as per the hospital policy.
+
+7. OPERATION THEATRE DEPARTMENT
+
+7.1 Service Management
+
+Operating Theatres provide safe, hygienic and appropriate services for patients and are coordinated with other services of the hospital to provide continuity of care.  
+
+No.
+
+Measurable Criteria
+
+7.1.1
+
+The operating theatre and/or department is managed by a suitably qualified, registered and experienced nurse, doctor or senior operating department assistant.
+
+7.1.2
+
+A list of hospital approved surgical procedures based on an annual assessment of qualified staff, equipment and other inputs and processes is communicated to staff 
+
+7.1.3
+
+Anaesthetic services are provided by qualified, registered and experienced anaesthetists.  
+
+7.1.4
+
+An anaesthetist is present for all surgical procedures 24 hours a day. 
+
+7.1.5
+
+A designated, suitably trained member of staff (Operating Theatre Assistant, anaesthesia technician) is available to assist the anaesthetist at all times.
+
+7.1.6
+
+A visiting consultant surgeon or assistant provide surgery, assistance and advice through a signed agreement specifying the limits of their consultation.  
+
+7.1.7
+
+Regular documented audits of the operating theatre are carried out and the information is used by relevant management, safety and/or quality improvement committees.
+
+7.1.8
+
+Any changes required to practice, provision or organisation as a result of the audits are discussed with all staff concerned before implementation.
+
+7.1.9
+
+Coded data available to OT staff from audits includes:
+
+Admissions and discharges by specialty
+
+Diagnosis-specific bed utilisation
+
+Procedure-specific operating rates
+
+Post operative infections
+
+Post operative deaths
+
+Unplanned return to theatre
+
+Post operative pulmonary embolism
+
+Post-operative CVA
+
+Post operative cardiac myocardial infarction
+
+Unplanned re-admission within 28 days of discharge
+
+Unplanned transfer to ICU
+
+Unplanned transfer to another unit
+
+Unplanned second operation within 6 weeks of surgery
+
+Damaged organs following surgical procedure.
+
+7.2 Policies, Procedures and Records
+
+Operational policies and procedures clearly describe the key processes of the operating theatre and/or department, the responsibility of the staff and expected results.  Records provide accurate information for analysis and evaluation.  
+
+No.
+
+Measurable Criteria
+
+7.2.1
+
+Written up-to-date procedures are available, followed by staff and include but are not limited to the following:
+
+Signage of OT as a restricted area and identification of persons allowed in the OT
+
+Sterilisation and identification of sterilised OT equipment
+
+Separation and transport of dirty linen
+
+Pre-operative assessment and instructions
+
+Routine equipment check and preparation 
+
+Annual review of functioning equipment in line with the services offered by the OT
+
+Sending for and the transportation of patients from ward to OT
+
+Admission to the operating department
+
+Identification of patients
+
+Identification of operation site
+
+Recovery
+
+Inoculation injury
+
+Staff protection against exhaust from anaesthetic gases
+
+Post-operative care
+
+Handover procedures for pre-operative and post-operative patients
+
+Diathermy use
+
+Tourniquet use
+
+X-ray use
+
+Laser use
+
+Swab, needle and instrument count
+
+Infected patients.
+
+7.2.2
+
+The following formal documentation/records are available in the department:
+
+Theatre register (anaesthesia register and surgeons’ register)
+
+Prosthesis register
+
+Electro medical equipment register
+
+Record of correct swab/instrument count
+
+Controlled drugs
+
+Specimens register
+
+Record of weekly/monthly analyses of surgeries (including the ICD 10 code)
+
+Next-day schedule for operations
+
+Maintenance of stock levels of drugs and consumables
+
+Duty roster.
+
+7.2.3
+
+Specific safety rules and instructions are displayed and followed by staff  include:
+
+Storage and use of hazardous chemicals, e.g. glutaraldehyde, formalin
+
+Storage and use of compressed gases
+
+Appropriate shielding and protective clothing, e.g. for image intensification
+
+Emergency electrical power supply (UPS, inverters, generators and emergency electric lights)
+
+7.2.4
+
+Surgical patients are managed by surgeons, anaesthetists and nurses with paediatric qualifications and experience.
+
+7.2.5
+
+Children have (the right of) access to a parent prior to and during induction of anaesthesia, and during recovery.
+
+7.2.6
+
+All patients undergoing surgery are identified by a bracelet or other unique identification method secured to the patient. 
+
+7.2.7
+
+Full, non-abbreviated preoperative notes are kept for all patients and include but are not limited to:
+
+Signed evidence that informed consent to surgery has been obtained by a doctor for critical surgery and by the nurse for routine surgery
+
+Signed evidence that the correct procedure was followed when obtaining consent for children under the age of 18 years
+
+Details of the site and side of an operative procedure.
+
+7.2.8
+
+There is a separate fully functioning and equipped recovery room.
+
+7.2.9
+
+A trained recovery nurse is present for each anaesthetic session and remains in the recovery area until the last patient has been discharged back to the ward.
+
+7.2.10
+
+Sufficient, qualified and experienced staff monitors patients in the recovery room to ensure individual patient supervision at all times.
+
+7.2.11
+
+Documented discharge criteria are used to assess patients’ readiness to leave the recovery room.
+
+7.2.12
+
+The anaesthetist is available in the hospital until the patient has recovered from anaesthetic.
+
+7.2.13
+
+The anaesthetist provides the final authorization for the patient to leave the recovery area.
+
+7.2.14
+
+There are clear, formal instructions on how to contact a doctor in an emergency.
+
+7.2.15
+
+A documented visit is made to each in-patient at least once by the surgeon, anaesthetist or doctor between the first post-operative day and discharge.
+
+7.2.16
+
+A record of the operation for the patient record is made immediately following surgery and a copy is retained in the OT.  The record includes the following:
+
+Date and duration of operation
+
+Anatomical site/place where surgery is undertaken
+
+The name of the operating surgeon(s), operating assistants including scrub nurse and the name of the consultant responsible
+
+The coded diagnosis made and the procedure performed
+
+Description of the findings
+
+Details and serial numbers of prosthetics used
+
+Details of the sutures used
+
+Swab and equipment count 
+
+Immediate post-operative instructions
+
+The surgeon’s and scrub nurse’s signatures.
+
+7.2.17
+
+Anaesthetic records contain:
+
+Date and duration of anaesthesia
+
+Name of surgical operation performed
+
+The name of the anaesthetist, anaesthesia assistant and, where relevant, the name of the consultant anaesthetist responsible
+
+Pre-operative assessment by the anaesthetist
+
+Drugs and doses given during anaesthesia and route of administration
+
+Monitoring data
+
+Intravenous fluid therapy
+
+Post-anaesthetic instructions
+
+Any complications or incidents during anaesthesia
+
+Signatures of anaesthetist and anaesthesia assistant.
+
+7.3 Facilities and Equipment
+
+Safe and adequate facilities and equipment are provided to meet the needs and volume of patients undergoing procedures in the operating theatre(s).
+
+No.
+
+Measurable Criteria
+
+7.3.1
+
+Arrangements are made so that hospital OTs are situated separately from areas accessible to the general public.
+
+7.3.2
+
+Hazard and/or warning notices are clearly displayed before restricted and high-risk areas.
+
+7.3.3
+
+Changing facilities are provided for theatre staff to enable those entering the theatre to not cross “dirty” areas.
+
+7.3.4
+
+Separate male and female changing and rest rooms are available.
+
+7.3.5
+
+There is a clear separation of ‘dirty’ areas and OT (s) and only persons wearing theatre dress enter the OT(s).
+
+7.3.6
+
+Staff uses a separate space for maintaining records and other office activities. 
+
+7.3.7
+
+The anaesthetic induction area/room and operating theatre are equipped with safe and well maintained equipment specific for OT activities including but not restricted to the following:
+
+Anaesthetic machine and ventilator
+
+Laryngoscopes
+
+Endotracheal tubes/laryngeal masks
+
+Airways
+
+Nasal tubes
+
+Suction apparatus and connectors
+
+Oxygen
+
+Drugs and IVs required for planned anaesthesia
+
+Drugs for emergency situations
+
+Monitoring equipment including ECG, ETCO2, temperature monitoring, pulse oximeter and blood pressure
+
+Accessible defibrillator
+
+Anaesthetic gas scavenger system
+
+Tipping/tilting trolleys/beds
+
+Multi positioned table with radiolucent tops
+
+Suction machine
+
+Instrument cleaning/decontamination facilities
+
+Temperature and humidity control
+
+IV cannulas and CV lines in different sizes
+
+Blood warmer
+
+Adequate light sources 
+
+Special equipment for particular age groups, e.g. neonate resuscitation table.
+
+7.3.8
+
+A list of additional items needed for special procedures and surgeries carried out by the OT is available in the theatre. 
+
+7.3.9
+
+The recovery area is well lit and adjacent to the operating theatre.
+
+7.3.10
+
+Resuscitation equipment and drugs are immediately accessible in the recovery area. 
+
+7.3.11
+
+A list of functioning equipment available in the recovery room includes :-
+
+Airways (Ambu bags) and other intubation material and equipment
+
+Suction
+
+Oximeter
+
+ECG
+
+Tipping/tilting trolleys/beds
+
+Blood pressure measurement apparatus
+
+Defibrillator
+
+Anaesthesia machine
+
+Oxygen concentrator
+
+Emergency ventilator.
+
+8. emergency services /CASUALTY DEPARTMENT
+
+8.1 Service Management
+
+The Casualty Department provides safe, timely and efficient live-saving emergency care and minor treatment and surgery for patients.  
+
+No.
+
+Measurable Criteria
+
+8.1.1
+
+The casualty department is managed at all times by a suitably qualified and experienced nurse, doctor or senior casualty department assistant.
+
+8.1.2
+
+Deputising arrangements for suitably qualified and experienced deputies are documented and used. 
+
+8.1.3
+
+A signed agreement and close professional links with other emergency units offering more comprehensive services enables the provision of necessary emergency services.  
+
+8.1.4
+
+Data and outcome indicators are systematically recorded and aggregated for analysis.  These include a documented review of volume of activity, source and appropriateness of referrals and adverse events.
+
+8.1.5
+
+Data available for clinical review includes:
+
+Number of attendances
+
+Repeat visits
+
+Patients who died in the casualty department.
+
+8.2 Policies, Procedures and Records
+
+Operational policies and procedures clearly describe the key processes of the casualty department, the responsibility of the staff and expected results.  Records provide accurate information for analysis and evaluation.  
+
+No.
+
+Measurable Criteria
+
+8.2.1
+
+Written procedures and guidelines are used consistent with the policy for:
+
+Identifying which patients should be seen immediately by a doctor in the department
+
+How medical help is summoned in emergency
+
+Dealing with life threatening emergencies before medical help arrives
+
+The transfer of patients
+
+The transfer of records
+
+The use of telemedicine techniques
+
+8.2.2
+
+The hospital disaster plan clearly identifies the role, procedures and individual staff responsibilities within the casualty department in the event of a nearby major incident or disaster.
+
+8.2.3
+
+All patients are seen within fifteen minutes of arrival for initial assessment and treatment prioritisation.
+
+8.2.4
+
+Each patient is informed of the approximate waiting time after the need for treatment has been assessed.
+
+8.2.5
+
+A process is used to monitor patient waiting times.  
+
+8.2.6
+
+Patients are examined in privacy by a doctor of the same sex as the patient (if available), or have the service of a chaperone if desired.
+
+8.2.7
+
+Relatives are kept informed of the patient’s condition with the agreement of the patient where they are able to give such consent.
+
+8.2.8
+
+Locally agreed policies and procedures, consistent with local and/or national guidelines, are used for:
+
+All major acute emergencies commonly falling in the scope of hospital. 
+
+Road traffic accidents 
+
+Major incidents
+
+Assault
+
+Domestic violence
+
+Child protection
+
+Rape
+
+Psychiatric emergencies
+
+Drug abuse
+
+Suspected criminals
+
+Suspected victims of crime
+
+Police enquiries
+
+X-ray requests
+
+Requests for reports
+
+Tetanus immunisation
+
+Death in the unit.
+
+8.2.9
+
+An individual record of attendance is completed which contains:
+
+Name
+
+Address
+
+Age/Date of birth
+
+Next of kin
+
+Occupation/School
+
+Case number
+
+Telephone number 
+
+Date and time of arrival
+
+History taking
+
+Time of examination
+
+Diagnoses
+
+Treatment
+
+Minor surgery carried out
+
+Specimens taken
+
+Instructions for follow up
+
+Doctor’s or nurse’s names and signatures
+
+Medication given to/or taken away
+
+Next visit information
+
+Advice given on discharge.
+
+8.2.10
+
+A departmental register identifies all attendances, reason for attendance, diagnostic tests, treatment given and any referrals.
+
+8.2.11
+
+A formal mechanism (roster) known to all staff is used for identifying medical staff on duty and on call and is prominently displayed in the emergency care area.
+
+8.2.12
+
+A procedure exists for referral for specialist care if necessary.
+
+8.2.13
+
+An agreed policy is followed which defines under what circumstances, if any, nurses may issue or administer specific drugs (including tetanus toxoid) without a specific doctor’s order.
+
+8.2.14
+
+The type and extent of minor surgery to be undertaken is defined and is consistent with the facilities, equipment and skills available on site.
+
+8.2.15
+
+A written, dated, signed policy on the referral, selection and treatment of patients for minor surgery is followed.  
+
+8.3 Facilities and Equipment
+
+Safe and adequate facilities and equipment are provided to meet the needs and volume of patients attending the emergency services /casualty department.
+
+No.
+
+Measurable Criteria
+
+8.3.1
+
+A mechanism exists for regular review of the design and appropriateness of the treatment facilities and medical and surgical supplies to assess whether they are sufficient for the work undertaken in the unit.
+
+8.3.2
+
+The casualty entrance is clearly signposted from outside the hospital.
+
+8.3.3
+
+A call bell is available if the entrance to the unit is locked.
+
+8.3.4
+
+Parking is available for patients, including designated space for the disabled.
+
+8.3.5
+
+There is a canopy over the casualty entrance used by ambulances.
+
+8.3.6
+
+The doorways and access are suitable for wheelchairs and trolleys.
+
+8.3.7
+
+Emergency alarms are strategically sited within the unit to summon help.
+
+8.3.8
+
+Contemporary basic clinical textbooks and information are available for staff.
+
+8.3.9
+
+There is appropriate equipment for:
+
+Resuscitation 
+
+Monitoring
+
+Minor operations
+
+Sterilisation
+
+X-rays and other imaging (either locally or by referral).
+
+8.3.10
+
+Hallways, clinical and public areas are clear of equipment, beds or other obstructions.
+
+8.3.11
+
+Treatment areas afford the patients’ privacy.
+
+8.3.12
+
+A private area/room is available for interview and examination.
+
+8.3.13
+
+The waiting area:
+
+ drinking water facility has comfortable and adequate seating
+
+is clean and secure.
+
+8.3.14
+
+There are toilet facilities suitable and available for males, females and disabled.
+
+8.3.15
+
+A public telephone is available for the use of patients and relatives and Medico –legal case handling management and as per hospital policy & procedure.
+
+9. INTENSIVE CARE UNIT
+
+9.1 Service Management
+
+The Intensive Care Unit is managed by suitably qualified staff and organised to provide safe and efficient care for seriously ill patients who need to be continuously monitored.
+
+No.
+
+Measurable Criteria
+
+9.1.1
+
+A qualified professional with relevant training in intensive care is responsible for overall co-ordination of the unit and is accessible for specialist advice.
+
+9.1.2
+
+A designated deputy is responsible for the management of the ICU in the absence of the manager.
+
+9.1.3
+
+An appropriately qualified, registered and experienced nurse is responsible for the day-to-day management of nursing care in the unit.
+
+9.1.4
+
+Staff is allocated on the basis of a systematic analysis of patient dependency and number of patients.
+
+9.1.5
+
+All staff working in the unit are appropriately qualified and experienced for the work they do and have attended specialist high dependency care courses and continuous medical education for updating their skills.
+
+9.1.6
+
+Registered nurses in the unit have completed formal in-service training or a recognised course in intensive care and at least one is present on all shifts.
+
+9.1.7
+
+A suitably experienced doctor is immediately available at all times.
+
+9.1.8
+
+The Unit has a person who leads on infection control issues.
+
+9.1.9
+
+Relevant current texts are available for all staff for reference on the unit.
+
+9.1.10
+
+The expenditure/cost of procedures in the ICU are clearly defined, and available.
+
+9.2 Policies and Procedures
+
+Operational policies and procedures which clearly describe the key processes of the ICU, the responsibility of the staff and expected results are followed by staff.
+
+No.
+
+Measurable Criteria
+
+9.2.1
+
+Specific policies and procedures include emergency admission to ICU from:
+
+Theatres
+
+Wards
+
+Other departments
+
+Outside.
+
+9.2.2
+
+Management policies and procedures are available and followed by staff for the following:
+
+Airway management
+
+Conscious Sedation 
+
+Ventilators/respirators
+
+Central oxygen supply and oxygen cylinders
+
+CVP readings (central venous pressure)
+
+Infusion pump management
+
+Pulse oximeters
+
+Cardiac monitors
+
+Arterial lines
+
+X-ray and other imaging investigations
+
+Epidural care
+
+Recovery facilities for all surgical cases where there is no dedicated recovery unit
+
+Recovery care of major surgical cases.
+
+9.2.3
+
+Specific emergency procedures are available and followed for:
+
+Apnoea/respiratory arrest
+
+Cardiac arrest
+
+Laryngeal spasm/stridor.
+
+9.2.4
+
+There are written criteria defining who is authorised to perform the following emergency clinical activities:
+
+Intubation
+
+Tracheotomy
+
+Insertion of central lines
+
+Defibrillation.
+
+9.2.5
+
+There are written policies and procedures agreed and followed for the following:
+
+Clothing of staff and visitors
+
+Filtering of patients’ respired air
+
+Changing of catheters, humidifiers and ventilator tubing 
+
+Isolation of at-risk or infected patients
+
+Cleaning of the unit.
+
+9.2.6
+
+Regular meetings take place to review cases and patient management, both within the unit and in conjunction with other departments.
+
+9.2.7
+
+The Unit discourages open visiting.
+
+9.3 Facilities and Equipment
+
+Safe and adequate facilities and equipment are provided to meet the needs and volume of patients in the ICU.
+
+No.
+
+Measurable Criteria
+
+9.3.1
+
+There is sufficient space for storing disposable and consumable items.
+
+9.3.2
+
+A functional resuscitation trolley and defibrillator are available on the unit 
+
+9.3.3
+
+Within the Unit, a designated member of staff is responsible for checking and recording daily and after each use:
+
+Resuscitation equipment
+
+Stockholding and date of resuscitation drugs.
+
+9.3.4
+
+Each bed has a central line facility for:
+
+Oxygen
+
+Suction
+
+Compressed air
+
+Central ECG monitoring.
+
+9.3.5
+
+Beds in the unit are arranged to allow ready access for routine and emergency procedures and are within direct vision of supervising staff at all times.
+
+9.3.6
+
+Adequate (at least three) numbers of power sockets are available for each bed.
+
+9.3.7
+
+Facilities in the unit include:
+
+CVP monitoring
+
+Pulse oximetry
+
+Blood pressure monitoring (automatic)
+
+Urometry
+
+Ambient and patient temperature monitoring
+
+Arterial blood gases
+
+Glucometer
+
+Electrolyte machine
+
+10. RESUSCITATION
+
+10.1Service Management
+
+All professional staff is trained in resuscitation at least to basic life support levels.  Those working in higher risk areas, e.g. casualty department, operating theatres and ICU are trained in advanced life support.
+
+No.
+
+Measurable Criteria
+
+10.1.1
+
+There is a written, agreed description of the scope and operation of resuscitation services provided within the Hospital. 
+
+10.1.2
+
+A resuscitation training team exists within the Hospital and is responsible for the co-ordination of procedures, equipment and training of health staff, both in the hospital and in the community.
+
+10.1.3
+
+The provision of resuscitation conforms to the recommendations of the Health Department and/or international guidelines.
+
+10.1.4
+
+There is a formal mechanism for obtaining specialist clinical advice on resuscitation issues.
+
+10.1.5
+
+There is a programme for regular in-service training of clinical staff in handling equipment and procedures for resuscitation throughout the hospital.
+
+10.1.6
+
+Records on training status are maintained for individual staff members.
+
+10.1.7
+
+All medical staff has received advanced resuscitation training at least every three years, by a trainer who has undertaken a recognised course and documentation is provided to show evidence of this.
+
+10.2 Policies and Procedures
+
+Policies and procedures related to resuscitation exist and are known to the staff.
+
+No.
+
+Measurable Criteria
+
+10.2.1
+
+Policies and procedures are reviewed as necessary but at least once year.
+
+10.2.2
+
+An agreed, defined clinical procedure for resuscitation of adults (and children, if appropriate) exists and is followed by the staff.
+
+10.2.3
+
+An agreed, defined policy for when to use a defibrillator exists and is followed.
+
+10.2.4
+
+There is an agreed and written policy on the training of staff in the use of a defibrillator.
+
+10.2.5
+
+There is a policy for providing paramedic and medical assistance for resuscitation to the community
+
+10.3 Facilities and Equipment
+
+The Hospital provides adequate and functioning equipment for resuscitation in emergencies.
+
+No.
+
+Measurable Criteria
+
+10.3.1
+
+Within the hospital, a designated member of staff is responsible for the checking and recording daily and after each use:
+
+Resuscitation equipment
+
+Stockholding and date of resuscitation drugs
+
+10.3.2
+
+Facilities available for resuscitation include:
+
+Mechanical
+
+Resuscitation trolley containing equipment and medication for advanced life support
+
+Defibrillator
+
+Laryngoscopes (including for children, if appropriate)
+
+Suction apparatus
+
+Manual ventilation equipment e.g. bag, valve-mask, pocket mask
+
+ECG monitor and leads
+
+Supplies (including for children if relevant)
+
+Intravenous infusion sets
+
+Endotracheal tubes and/or laryngeal  masks
+
+Oral airways
+
+IV Cannula
+
+Medications
+
+Oxygen
+
+Intravenous fluid
+
+Resuscitation drugs.
+
+10.3.3
+
+All resuscitation equipment is checked on a daily basis and after each use, by suitably qualified staff.  Records of the checks are kept with the equipment and monitored.
+
+10.3.4
+
+Endotracheal Intubation, cricothyroidotomy set and chest drainage equipment is only used by those experienced and trained in their use.
+
+10.3.5
+
+Facilities (equipment) are conveniently located within the hospital to be accessible to highest risk patients.
+
+11.  MATERNITY SERVICES
+
+11.1 Service Management
+
+Maternity services provide safe, timely and efficient maternity care for patients.  
+
+No.
+
+Measurable Criteria
+
+11.1.1
+
+The maternity department is managed by a suitably qualified, registered and experienced.
+
+11.1.2
+
+Deputising arrangements for suitably qualified and experienced deputies are documented and used. 
+
+11.1.3
+
+A signed agreement and close professional links with a referral hospital offering more comprehensive services ensures provision of necessary emergency maternity services if these services are not available within the hospital.  
+
+11.1.4
+
+The maternity department has 24-hour on-site cover from qualified medical doctors and an anesthetist.
+
+11.1.5
+
+Consultant obstetricians provide assistance and advice through a signed agreement.
+
+11.1.6
+
+Data for clinical audits and reviews is collected, analyzed and used for quality improvement activities and includes:
+
+Relevant quality indicator.
+
+Number of women in ante-natal clinics
+
+Number of women with medical or surgical disorders in ante-natal clinics
+
+Number of women transferred to higher-level care during pregnancy 
+
+Number of deliveries
+
+Number of live and still births 
+
+Perinatal mortality figures
+
+Maternal mortality figures
+
+Number of transfers to specialist care during labour
+
+Number of still births
+
+Birth Registration records
+
+Number of Caesarean sections
+
+No. of difficult labour cases
+
+11.2 Policies, Procedures and Records
+
+Operational policies and procedures clearly describe the key processes of the maternity unit, the responsibility of the staff and expected results.  Records provide accurate information for analysis and evaluation.  
+
+No.
+
+Measurable Criteria
+
+11.2.1
+
+Written procedures and guidelines are used consistent with the hospital policies and functions for:
+
+Ante-natal care and booking/registration
+
+post-natal care
+
+peri-natal care
+
+counselling for parenthood (e.g. family planning, genetic referral,) including, for example, IEC material
+
+identifying high risk pregnancy 
+
+admission to labour room/ward
+
+planning, treatment and mode of delivery
+
+plan to manage pain during labour and delivery 
+
+delivery monitoring process
+
+referral 
+
+discharge including discharge summary
+
+birth record and certificate
+
+labour register
+
+immunization for mother and baby 
+
+infection control
+
+disposal of placentas
+
+11.2.2
+
+A paediatrician is involved in the team developing and reviewing policies and procedures to synchronise the newborn care.
+
+11.2.3
+
+Each woman accessing the maternity department is cared for by a suitably qualified, registered and experienced nurse, doctor or senior midwife who she can contact for advice and help throughout her pregnancy.
+
+11.2.4
+
+Anesthetists with relevant qualifications and experience available for mothers with epidural, C Section, emergency breech and instrumental deliveries, emergency resuscitation and women with Eclampsia.
+
+11.2.5
+
+A trained mid-wife/nurse is present at every birth.
+
+11.2.6
+
+A record of regular training in maternal and neonatal resuscitation is kept in the department for medical and nursing staff attending deliveries.
+
+11.2.7
+
+A guideline on requesting medical assistance at any time during labour is used by nurses and midwives.
+
+11.2.8
+
+A roster indicates 24-hour arrangements for on-site availability of a suitably qualified and experienced doctor and an anaesthetist in case of an emergency.
+
+11.2.9
+
+Separate records are initiated and used for each baby.
+
+11.2.10
+
+Records kept after discharge include the combined: 
+
+Maternity notes (including care plans)
+
+Birth registration(s)
+
+Labour register
+
+Admission register
+
+Neonatal and perinatal morbidity 
+
+Neonatal and perinatal mortality
+
+Maternal morbidity and mortality
+
+11.2.11
+
+Written procedures are followed by staff to arrange for consulting physicians, surgeons and pediatric physicians and surgeons for women or babies with medical or surgical needs such as multiple, high-risk deliveries, instrument deliveries or C-sections.  
+
+11.3 Facilities and Equipment
+
+Facilities and equipment are safe and adequate in design and number for the purpose and quantity of patient’s attending/in the maternity department.
+
+No.
+
+Measurable Criteria
+
+11.3.1
+
+The delivery room is equipped with functioning, safe and well maintained equipment specific for deliveries including but not restricted to the following:
+
+Fetoscope
+
+Ultrasound machine
+
+Delivery table which can be turned to the Trendelenburg position 
+
+An anaesthetic machine with emergency oxygen supplies
+
+Endotracheal tubes, laryngoscope
+
+An incubator, with temperature adjustable for infants in need 
+
+Separate oxygen supply to the incubator
+
+Resuscitation equipment and drugs for infants and for adults 
+
+Intravenous crystalloid and plasma expanders
+
+Weighing machine for the baby.
+
+11.3.2
+
+Privacy for mothers is possible, e.g. when breast-feeding.
+
+11.3.3
+
+A separate room for seriously ill or intensive patients e.g. Eclampsia, is available.
+
+11.3.4
+
+The area for labour provides for:
+
+Space for the woman and a female companion
+
+Alternative birthing methods
+
+Ambulation throughout labour
+
+Washing and toilet facilities for the comfort of the mother and companion
+
+11.3.5
+
+Lighting is versatile enough to provide a restful environment and allow birthing procedures to be performed.
+
+11.3.6
+
+The post-natal ward provides sufficient room for babies to room-in with mothers. 
+
+11.3.7
+
+Nursery facilities with an even temperature and humidity are available, and are adequate in size with appropriate supplies and equipment for teaching mothers about caring for their babies.
+
+PART C: AUXILIARY SERVICES
+
+12. LABORATORY SERVICES
+
+12.1Service Management
+
+The medical testing laboratory is managed and organised to provide efficient and effective laboratory care to patients and support services to clinicians.
+
+Measurable Criteria
+
+12.1.1
+
+The medical testing laboratory is managed by a suitably qualified and registered pathologist, experienced medical technologist or other suitably qualified and registered laboratory scientist.  
+
+12.1.2
+
+A suitably qualified deputy is designated in the temporary absence of the laboratory manager.
+
+12.1.3
+
+Sufficient and appropriately qualified staff is available to fulfil the job descriptions of the defined service.  
+
+12.1.4
+
+Laboratory staff participates in the health and safety committee, hospital quality committee and other relevant committees.  
+
+12.1.5
+
+Departmental staff attend meetings of appropriate advisory /consultative bodies and have input into decisions affecting the laboratory.
+
+12.1.6
+
+A pamphlet outlines the list and prices of services offered, the types of specimen required and approximate reporting time for tests.
+
+12.1.7
+
+Laboratory staff inform in writing the designated hospital infection control committee of any infection identified in in-patient samples that could provide a risk to the hospital staff or patients.  
+
+12.1.8
+
+The service has a continuing education programme for staff development enabling staff to meet the needs of; the hospital, the department, the individual and the patients.
+
+12.1.9
+
+Staff follows written policies and procedures for collection, transport and controlling, storing, reporting and disposing of all samples and tests in compliance with legal requirements.
+
+12.1.10
+
+Staff are involved on a regular basis in a quality management programme to monitor and improve the laboratory quality 
+
+12.1.11
+
+Any outstation laboratory equipment is subject to the same quality control procedures as in the main laboratory.
+
+12.1.12
+
+The department has planned and systematic activities for the monitoring and evaluation of its services. 
+
+12.2 Samples and Tests
+
+Laboratory samples and tests are managed to maximize accuracy of testing and minimise risks to patients and staff.   
+
+No.
+
+Measurable Criteria
+
+12.2.1
+
+A requisition form is used and includes the following:
+
+Patient information
+
+Patient location
+
+Investigations required 
+
+Type of sample
+
+Clinical 
+
+Probable diagnosis 
+
+Requesting physician
+
+Sample collection time
+
+Name of phlebotomist.
+
+12.2.2
+
+Staff follows and communicate to patients, verbally and in writing, procedures for the patients’ preparation for tests.
+
+12.2.3
+
+Samples collected are labelled with the patient’s name, registration number, date and time of collection.
+
+12.2.4
+
+Separate labels are used for high-risk samples.
+
+12.2.5
+
+Specimen trays are designed to enable safe transport.
+
+12.2.6
+
+The sample reception area receives, records, and verifies the samples or specimens.  
+
+12.2.7
+
+A laboratory register records:
+
+Patient name, location
+
+Identification of sample source(s)
+
+Full name of the investigation(s) 
+
+Number of investigations 
+
+Investigation results
+
+12.2.8
+
+Samples are safely and accurately distributed to the respective sections of the laboratory.  
+
+12.2.9
+
+Results are recorded in the laboratory register and on the reporting/result form.
+
+12.2.10
+
+Patient Results Registers are readily accessible to staff.
+
+12.2.11
+
+Results are made available to the main reception of the laboratory to enable picking up by OPD, wards or patients.  
+
+12.2.12
+
+Signed and dated SOPs for each test and patient preparation for each test are readily available to staff in the laboratory.
+
+12.2.13
+
+Staff follow written, dated and signed procedures for:
+
+Patient preparation for tests 
+
+Completion of test request forms
+
+Reporting of test results
+
+Reporting results verbally
+
+Dealing with out-of-hours test requests
+
+Investigating transfusion reactions
+
+Emergency and urgent requests
+
+Storage of specimens and blood on the wards and in other departments
+
+Dispatch of samples to other laboratories
+
+Posting of samples
+
+Acceptable parameters for response to test requests and reporting times.
+
+12.2.14
+
+Staff follow written procedures for samples:
+
+Sample collection
+
+Handling
+
+Labelling
+
+Transportation
+
+Retention
+
+Storage
+
+Disposal of samples, including blood and body fluids.
+
+12.2.15
+
+The service is able to give expert advice on:
+
+The appropriateness of tests
+
+The samples required
+
+The interpretation of results
+
+Further recommended tests.
+
+12.2.16
+
+Instructions are clearly displayed describing the safe disposal of clinical, toxic and radioactive waste.
+
+12.2.17
+
+Clearly labelled, separate containers are used for disposal of hazardous and infectious waste.
+
+12.2.18
+
+A written agreement exists, and staff follows this agreement, between the hospital and external laboratory covering all aspects of tests including time scales for reporting results.
+
+12.2.19
+
+A written policies/ procedures Critical or unexpected findings are discussed with the referring doctor.
+
+12.3 Safety
+
+All persons are protected from potential hazards in the laboratory.
+
+No.
+
+Measurable Criteria
+
+12.3.1
+
+A mechanism is in place to restrict access to the laboratory to authorised personnel only.
+
+12.3.2
+
+Health and safety policies, current relevant hazard notices and safety action bulletins are displayed as required or are readily available to staff, including but not limited to:
+
+Safety regulations
+
+Fire precautions
+
+AIDS/HIV/
+
+Hepatitis.
+
+12.3.3
+
+Appropriate equipment is used for the safe handling of hazardous materials.
+
+12.3.4
+
+Action to be taken in the event of an infection emergency is known to all staff and is clearly stated in writing.
+
+12.3.5
+
+Staff is offered immunisations relevant to their type of work and emergency immunisations based on written policies.
+
+12.4 Facilities and Equipment
+
+Safe and adequate facilities and equipment are provided to meet the needs and volume of patients served by the laboratory.
+
+No.
+
+Measurable Criteria
+
+12.4.1
+
+Laboratory and office space are sufficient to enable staff to carry out their jobs safely.
+
+12.4.2
+
+The laboratory environment is well lit ventilated. 
+
+12.4.3
+
+Staff has access to sufficient laboratory equipment to carry out their jobs safely. 
+
+12.4.4
+
+Storage facilities for specimens and reagents are sufficient to enable staff easy access.
+
+12.4.5
+
+Refrigerated storage facilities are used for specified samples, specimens, and blood samples.
+
+12.4.6
+
+Functioning emergency electrical supply for refrigerators is available and there is a procedure in place to regularly assess its readiness.
+
+12.4.7
+
+Inspection, calibration and maintenance schedules are completed and used for all laboratory equipment. 
+
+12.4.8
+
+Staff facilities include:
+
+Locker space
+
+Toilet and washing/shower facilities
+
+Staff rest room
+
+Overnight accommodation for on calls staff
+
+13. RADIOLOGY
+
+13.1 Service Management
+
+Radiology services are managed and organised to provide safe and efficient care for patients and support to clinical specialties.  
+
+Note:  Radiology services cover all services provided by a radiology department.  
+
+No.
+
+Measurable Criteria
+
+13.1.1
+
+A radiologist is responsible for the clinical direction of the department and the safety of the patients.
+
+13.1.2
+
+Radiology services are administered by an identified qualified, registered radiologist or radiographer with clearly defined responsibility for all non-clinical aspects of the department.
+
+13.1.3
+
+Trained, qualified radiographers, or in some cases radiologists, are the only staff who may take images.
+
+13.1.4
+
+There is on-call staff for mobile radiography and other imaging at all times.
+
+13.1.5
+
+Radiation protection is supervised by the radiologist and monitored by the Hospital in-charge and the Nuclear Regulatory Authority.
+
+13.1.6
+
+Staff follow written policies and procedures for all aspects of radiology services, including:
+
+Reception and registration of the patient
+
+Preparation of the patient for imaging
+
+Processing and interpreting the film or scan
+
+Reporting on the film or scan
+
+Documentation and dispatch.
+
+13.1.7
+
+Up to date reference manuals, radiation regulations and guidelines, radiation safety reports, are available within the department.
+
+13.1.8
+
+The department participates in the Hospital’s quality improvement system and monitors the quality of its services using an internal quality control programme which includes:
+
+Equipment utilisation review
+
+Performance checks on equipment, including processors
+
+A record of maintenance checks for all items of equipment
+
+Film and scan reject rates
+
+Clinical audit  
+
+-Turnaround times for the reporting of films and scans.
+
+13.1.9
+
+Radiology – the results of its quality control programme, take action on them in a radiology quality committee and participate in the hospital health and safety committee and other relevant committees.
+
+13.2 Service Provision
+
+Patients are systematically registered, receive radiological services in line with written requests and have their x-rays reported promptly and accurately.
+
+No.
+
+Measurable Criteria
+
+13.2.1
+
+Patients are registered, assigned a registration number and given special instructions in a systematic way. 
+
+13.2.2
+
+Request Forms are of a standard format and contain:
+
+Patient’s name
+
+Identification number 
+
+Date of birth (if not available, age)
+
+Examination requested
+
+Previous examinations
+
+Clinical diagnosis/indications/relevant history
+
+Information relating to the pregnancy rule in women of childbearing age
+
+Identity of requesting physician
+
+History of allergy For medico legal cases mark of identification of the patient and name of police official bringing the patient
+
+13.2.3
+
+Diagnostic imaging is performed only upon a signed written request from a qualified medical practitioner. 
+
+13.2.4
+
+Arrangements are in place for dealing within routine working hours and in emergency requisitions.
+
+13.2.5
+
+A written policy agreed with the radiologist defines the terms under which pregnant women may be subjected to radiological examination
+
+13.2.6
+
+All films are read by a radiologist and the written radiologists’ reports are received by the hospital within a defined time after examination.
+
+13.2.7
+
+Required reporting times are based on the urgency of the situation, e.g. films or scans for emergency patients are reported within one hour and routine reports are reported within 24 hours.
+
+13.2.8
+
+If a radiologist is unable to report on the film in a timely manner a written, signed interpretation of the radiograph is made by an appropriate clinician whose skills are relevant to the area radio graphed, e.g. chest radiography by a chest physician or bone/joint radiography by an orthopaedic surgeon.
+
+13.2.9
+
+Critical or unexpected findings are discussed with the referring doctor.
+
+13.2.10
+
+Radiology reports or copies of the reports are in in-patients’ medical files in the wards. 
+
+13.3 Safety
+
+Radiological services are provided in accordance with current radiation rules and regulations, risks are minimised and the safety of patients and staff are protected.
+
+No.
+
+Measurable Criteria
+
+13.3.1
+
+Signs warning women of childbearing age of the dangers of radiation in pregnancy are prominently displayed.
+
+13.3.2
+
+All examinations using ionising radiation are performed by suitably trained personnel.
+
+13.3.3
+
+Staff provide services in accordance with current ionising radiation regulations and statutory requirements
+
+13.3.4
+
+Emergency drugs and equipment including all resuscitation equipment are functioning, readily accessible and monitored.  
+
+13.3.5
+
+All staff working in radiology services attends update courses on resuscitation, current radiology trends and evidence-based practice.
+
+13.3.6
+
+Protective clothing is provided and used where biohazards or radiographic equipment are present.
+
+13.3.7
+
+The radiologist in charge is responsible for ensuring that compliance with national guidelines is monitored:
+
+Staff working with radiological equipment wear radiation monitoring devices
+
+These devices are assessed and maintained in accordance with statutory regulations
+
+Records of these tests are kept for the working lifetime of staff employed by the service.
+
+13.4 Facilities and Equipment
+
+Facilities and equipment are provided and maintained to maximise patient comfort and safety. 
+
+No.
+
+Measurable Criteria
+
+13.4.1
+
+A separate registration area for patients is provided and a toilet with washing facilities for special investigations is located adjacent to the examination room.
+
+13.4.2
+
+A separate waiting area for males and females with adequate seating and separate male and female toilets and washing facilities are provided for the comfort of patients waiting for services and for their families.
+
+13.4.3
+
+The appropriate hospital advisory committee (or its equivalent) with representation of radiology staff is consulted before any diagnostic equipment is installed.
+
+13.4.4
+
+All equipment is subject to tests on installation to ensure the equipment meets with contract specifications and confirms mechanical, electrical and radiation safety.
+
+13.4.5
+
+Records of these tests are kept in the department for reference.
+
+13.4.6
+
+The workload of each piece of diagnostic equipment and staff is defined and used for determining the resources needed for the department.
+
+13.4.7
+
+Radiology equipment is stable, functioning and installed only in properly lead protected rooms.
+
+13.4.8
+
+A planned preventative maintenance programme is followed to keep equipment in sound working order.
+
+13.4.9
+
+The radiation safety of essential equipment is regularly monitored and reported on by the Agency.
+
+14. PHARMACY SERVICES
+
+14.1 Management
+
+The pharmaceutical service is managed and organised to provide efficient and effective pharmaceutical services through rational use of drugs within the hospital.
+
+No.
+
+Measurable Criteria
+
+14.1.1
+
+The pharmaceutical service is managed by a qualified, graduate and registered pharmacist.
+
+14.1.2
+
+A suitably qualified deputy with specified duties and responsibilities is designated in the absence of the pharmacist.
+
+14.1.3
+
+Sufficient and appropriately qualified staff is available to fulfil the job descriptions and the defined services. 
+
+14.1.4
+
+A qualified pharmacist or designated deputy is on duty or on call outside normal working hours to provide a pharmaceutical service.
+
+14.1.5
+
+Staff follows written policies and procedures for ordering and purchasing, controlling, storing, dispensing and disposing of all medicines within the hospital in compliance with legal requirements.
+
+14.1.6
+
+The department monitors the quality of its services using an internal quality control program and staff participates in the Hospital’s quality improvement system.
+
+14.1.7
+
+The pharmacy service provides a regular prescription monitoring service, locally, to ensure the safe, effective and economic use of medicines.  This includes:
+
+Identifying inappropriate medication
+
+Monitoring adverse reactions
+
+Monitoring dispensing errors 
+
+Checking adequacy of labelling of drugs and information on package inserts
+
+Physical examination of drugs to assess their quality and expiry dates
+
+A mechanism to encourage prescription of cost-effective and economical drugs.
+
+14.1.8
+
+The pharmacist is a member of the purchase committee.
+
+14.1.9
+
+Role of pharmacist in the hospital, they monitor the patient's condition and assess how well their medications are working, and can recommend alternative treatments as per need of the patients.
+
+14.2 Selection, Ordering and Purchasing of Medication
+
+Selection and procurement of medication is appropriate to the scope of service, patient needs, and cost-effectiveness.
+
+No.
+
+Measurable Criteria
+
+14.2.1
+
+The hospital formulary is prepared in a collaborative process considering patient needs, services provided in the hospital, cost-effectiveness and evidence-based criteria. 
+
+14.2.2
+
+The hospital formulary is in accordance with existing provincial/national guidelines, e.g. National Essential Drugs List (NEDL), National Hospital Formulary etc.
+
+14.2.3
+
+Written policies and procedures exist and are implemented for the following processes: 
+
+Tendering
+
+Evaluation of tenders
+
+Selection 
+
+Ordering 
+
+The drug name
+
+The drug strength
+
+The dosage,
+
+The route,
+
+The dosage form,
+
+Intravenous diluents (if applicable)
+
+The directions for use
+
+Administration time or frequency
+
+The attending practitioner
+
+The quantity
+
+The start and stop date, or length of therapy
+
+The date drug was dispensed, refilled or discontinued
+
+Authentic Signature (by dispensing end
+
+Reception and physical examination of delivered drugs.
+
+14.2.4
+
+Evaluation of tenders and selection of the provider occurs through a transparent process based on specific criteria including quality and cost. 
+
+14.2.5
+
+The quality, quantity and expiry date of purchased medicines are checked upon receipt.
+
+14.2.6
+
+Ampoules of delivered drugs sent to the Provincial Drugs Testing Laboratory for quality check on regular basis before initiation of disbursements
+
+14.2.7
+
+The list of medications available in the hospital pharmacy is available to all units
+
+14.2.8
+
+A process exists to obtain required medications not stocked or normally available in the hospital pharmacy.
+
+14.3 Storage and Stock Management
+
+Stock is stored and managed to ensure that medications are current, kept safe and are continuously available to meet the needs of clinical staff and patients. 
+
+No.
+
+Measurable Criteria
+
+14.3.1
+
+Medicines are stored on shelves enabling:
+
+Protection from the adverse effects of light, dampness and temperature extremes
+
+Freedom from vermin and insects
+
+Adequate ventilation.
+
+14.3.2
+
+Medicines for emergency use are stored in sealed tamper evident containers in all patient areas.
+
+14.3.3
+
+Adequate and secure storage facilities provided include:
+
+A suitable cupboard or container for the storage of flammable and/or hazardous material
+
+A functioning pharmacy refrigerator.
+
+14.3.4
+
+Controlled drugs are stored separately in a cupboard, securely fixed to the wall or floor, to comply with drugs regulations.
+
+14.3.5
+
+Stocks of controlled medicines are ordered by an authorized 
+
+14.3.6
+
+A formal stock control system is used by the department and for the hospital.
+
+14.3.7
+
+There is a stock list with agreed par levels for all wards and departments.
+
+14.3.8
+
+Medicines required in an emergency are available and replaced promptly after use.
+
+14.3.9
+
+All expired or recalled medicines, including unwanted medicines returned by patients and unused controlled medicines, are safely disposed of in accordance with a written procedure.
+
+14.3.10
+
+A formal, written procedure is followed to action hazard warnings and medicine recalls.
+
+14.3.11
+
+A formal, written procedure is followed for retention of order forms, copy of delivery notes, stores receipt, and issue vouchers, and book of records (controlled drugs book/prescription drugs book) on the premises as provided for in the relevant laws.
+
+14.4 Prescribing, Administration and Dispensing of Medicines
+
+Prescribing, dispensing and administration of medications are safe, efficient and effective and promote best possible treatment outcome.
+
+No.
+
+Measurable Criteria
+
+14.4.1
+
+A system is in place to ensure that:
+
+Prescriptions are only issued by authorized prescribers
+
+Administration of medicine is done by, or under the supervision of, competent health personnel.
+
+14.4.2
+
+All prescriptions are legible and duly signed by a doctor, including the following:
+
+Name and additional identifier
+
+Age, Sex and weight (where applicable)
+
+Diagnosis
+
+Name of Medication, dose, route, frequency and duration
+
+Clear identification of Prescriber
+
+14.4.3
+
+Staff follows a written policy for the verbal ordering of medicines in emergencies, which has been agreed by medical, nursing and pharmacy staff.
+
+14.4.4
+
+Medicines are dispensed by or under the supervision of, a pharmacist in accordance with a written prescription from a qualified registered medical practitioner.
+
+14.4.5
+
+The patient is provided with written and verbal information on the prescribed medicine including:
+
+The costs
+
+The potential benefits and adverse effects
+
+14.4.6
+
+There is an approved hospital prescription/medication chart on which all medicines for an individual patient are prescribed and their administration recorded.
+
+14.4.7
+
+A pharmacy records:
+
+Patient name and registration number
+
+Date
+
+Diagnosis
+
+Medicine dispensed.
+
+14.4.8
+
+Staff follow written, dated and signed procedures on the following:
+
+What medicines may be administered without a prescription and under what circumstances
+
+Self medication
+
+Use of antibiotics
+
+Administration of IV drugs, narcotics, psychotropic and cytotoxic substances
+
+Obtaining medicines after hours from hospital pharmacy
+
+How to obtain medicines not available within the hospital pharmacy
+
+Dealing with patients’ own medicines.
+
+14.4.9
+
+Medical practitioners follow policies for antibiotic prescribing which include:
+
+Restricting the use of broad-spectrum agents to minimise the development of resistant viruses and bacteria
+
+Using prophylactic antibiotics only where their efficacy has been established.
+
+14.4.10
+
+Current editions of reference books, including pharmacopoeia, the copy of the National Essential Drugs List (NEDL)/hospital own formulary, standard treatment guidelines and other information booklets are available.
+
+14.5 Facilities
+
+Facilities and equipment are safe and adequate for the purpose and the number of patients attending the pharmacy.
+
+No.
+
+Measurable Criteria
+
+14.5.1
+
+All doors, windows and hatches within the pharmacy can be locked.
+
+14.5.2
+
+There is a designated area for:
+
+The receipt and unpacking of goods in wards
+
+Segregation of expired and recalled drugs
+
+Dispensing of medicines.
+
+14.5.3
+
+The pharmacy has a administrative area
+
+14.5.4
+
+There is a specific drug information/reference area for use by hospital staff.
+
+14.5.5
+
+There is a designated waiting area for patients.
+
+14.5.6
+
+A box or trolley containing those medicines which may be urgently required in the event of a cardiac arrest is available.
+
+14.5.7
+
+Where a medicine trolley is used to store medicines, it is lockable and secured when not in use.
+
+14.5.8
+
+Lockable medicine refrigerators with maximum and minimum thermometers are provided for medicines requiring cool storage.  They are used solely for this purpose.
+
+14.5.9
+
+Temperatures are regularly monitored and recorded and action is taken where a temperature varies from an acceptable range.
+
+PART D: INFECTION CONTROL, HYGIENE AND WASTE MANAGEMENT
+
+15. INFECTION CONTROL
+
+The organisation designs and implements a coordinated program to reduce the risks of infections in patients, visitors/attendants, contractors and staff.
+
+No.
+
+Measurable Criteria
+
+15.1
+
+The hospital establishes an infection control program designed to prevent or reduce the incidence of Hospital Acquired Infections (HAIs), based on current scientific knowledge and evidence based guidelines developed in collaboration with multidisciplinary team involvement.
+
+15.2
+
+The infection control program includes all areas of the hospital and describes the scope, objectives, annual activities, surveillance methods, resources and processes associated with infection risks, including respiratory tract, urinary tract and surgical wound infections, are identified and included in the infection control program...
+
+15.3
+
+Responsibility for coordinating the infection control program is assigned to an infection control committee with representatives of all relevant disciplines and departments including medical, nursing, microbiology/pathology, kitchen and laundry staff.
+
+15.4
+
+The infection control committee has clear written Terms of Reference that include the following responsibilities:
+
+Coordination of infection control activities
+
+Development, implementation and monitoring of the infection control program
+
+Approval of infection control policies and procedures
+
+Approval of surveillance activities
+
+Reviewing and analysing infection control data
+
+Following up identified infection control issues with relevant action
+
+Providing education to hospital staff on outbreaks epidemic, endemics
+
+Evaluating the effectiveness of actions taken.
+
+15.5
+
+The infection control committee is linked with Waste Management Control
+
+15.6
+
+The infection control program is adequately resourced and staffed with appropriately qualified health professionals (nurses and/or doctors) with responsibilities defined in a job description for:
+
+Implementing the infection control program in consultation with staff and patients
+
+Implementing policies
+
+Educating staff
+
+Providing infection control recommendations with developing and implementing methods of surveillance including audits.
+
+Developing and implementing methods of surveillance, including reviewing infection control practices
+
+Providing reports and making recommendations to the infection control committee.
+
+15.7
+
+Infection risks, rates and trends are tracked, analyzed and reported.
+
+15.8
+
+Surveillance of multiple resistant organisms and organisms associated with antimicrobial use is conducted as part of the infection control program.
+
+15.9
+
+There is evidence of regular infection control schedule of audits.
+
+15.10
+
+Cultures are obtained regularly from designated sites in the hospital with significant infection risks and action taken to minimise any identified infection. Taking Environmental Culture where required. 
+
+15.11
+
+ Relevant support  staff are appropriately inducted and trained in basic aspects of infection control direct and indirect care givers, aspects with concepts: proper hand hygiene, standards precautions, and isolation precautions/transmission based precautions to their work including:
+
+Basic concept of microbes
+
+Proper hand washing
+
+Employees Vaccination (i.e. Hep. B) etc
+
+Segregation of waste and hazards associated with waste.
+
+15.12
+
+Staff are appropriately inducted and trained in all aspects of infection control relevant to their work, including proper hand washing
+
+15.13
+
+Written and dated organisation wide infection control and waste management policies and procedures are used by staff. Procedures include, but are not limited to, the following topics:
+
+Use of standard precautions including hand washing techniques 
+
+Sterilisation and decontamination of equipment
+
+Food hygiene
+
+Laundry and linen management
+
+Identification and management of HAIs vaccination of health care workers
+
+Management of outbreaks of infection
+
+High risk and communicable diseases
+
+Operation of the mortuary, where applicable
+
+Collection, storage and disposal of infectious waste, body fluids, tissues, blood and blood products
+
+Disposal of sharps and needles
+
+Cleaning of all hospital surfaces, supplies and equipment, e.g. floor, walls, ceilings, beds and basins
+
+Management and cleaning of spillage
+
+Vaccination of staff.
+
+15.14
+
+Gloves, gowns, masks, soap and disinfectants are available and correctly used in situations where there is a risk of infection.
+
+15.15
+
+Isolation precautions are used for patients specific to the reason for isolation. 
+
+15.16
+
+There are procedures in place for identifying and treating patients admitted with MDRO (Multi Drug Resistance Organism).
+
+16. STERILE SUPPLIES
+
+Equipment and supplies are sterilised to minimise risk of infection in patients and staff.
+
+No.
+
+Measurable Criteria
+
+16.1
+
+The Infection Control Committee oversees the provision of sterile supplies.
+
+16.2
+
+There is a defined department or area for sterilisation, which physically separates the functions of cleaning, processing and sterile storage and distribution.
+
+16.3
+
+In all areas where instruments are cleaned there is airflow to prevent cross-contamination and to keep material within the area.
+
+16.4
+
+There is at least one functioning steriliser with a drying cycle
+
+16.5
+
+The responsibilities of relevant staff members managing the provision of sterile supplies are clearly defined and specified in writing.
+
+16.6
+
+Staff responsible for the decontamination, inspection, function testing, assembly and packaging, terminal processing, storage and distribution of supplies are adequately trained.
+
+16.7
+
+Current written policies and procedures covering the functions of sterilisation, including the following, are available with documented evidence of routine compliance:
+
+Receiving, cleaning and disinfection of used items
+
+Preparation and processing of sterile packs
+
+Storage of sterile supplies and expiry dates
+
+Availability of personal protective equipment e.g. heavy duty gloves, masks, caps, gowns sharp containers etc...
+
+Decontamination of instruments prior to sending for repair, maintenance or servicing
+
+Handling of instruments following an infected case
+
+Handling of equipment identified as “bio-hazard"
+
+Product labelling, batch numbering and identification
+
+Restricted personnel access to the clean production area
+
+Cleaning procedures, manual methods 
+
+Housekeeping procedures
+
+Infestation control
+
+Personal hygiene
+
+Microbiological and environmental monitoring
+
+Criteria for testing and replacing air filters
+
+Recall procedures.
+
+16.8
+
+Sterilisation procedures are based on existing provincial or national/international guidelines.
+
+16.9
+
+The sterilisation status of sterilised goods is assessed by the use of temperature sensitive tapes, using indicators as recommended by the manufacturer.
+
+16.10
+
+Reports of quality control tests on sterilisers are reported to the infection control committee at least quarterly.
+
+16.11
+
+The person using sterilised equipment checks that the decontamination of the equipment has been done before using that equipment.
+
+16.12
+
+Stock levels of sterilised goods are checked by an ongoing inventory management process.
+
+16.13
+
+Records are available for:
+
+Acceptance of load procedures
+
+Plant history and servicing records
+
+Sterile goods issued to wards/departments
+
+Sterilisers and autoclaves (history and servicing)
+
+Servicing and calibration.
+
+Quality control checks records
+
+16.14
+
+All trays/packs/containers are stored in conditions that preserve the integrity of their packaging to prevent damage and/or contamination.
+
+16.15
+
+All packs are marked with:
+
+Name of the article
+
+Contents of the pack
+
+Initials of the person who packed it
+
+Date and initials of the person who sterilised it.
+
+Expiry date
+
+16.16
+
+Each tray, container or pack of instruments has a complete checklist which is used at the time of packing, at the time of use in the OT, and at the time of return of the instruments for re-sterilisation.
+
+17. CLEANLINESS AND SANITATION
+
+All hospital facilities, equipment and supplies are kept clean and safe for patients, visitors/attendants and staff.
+
+No.
+
+Measurable Criteria
+
+17.1
+
+Staff follow written policies and procedures and schedules for:
+
+Disinfection and cleaning of all equipment, furniture, floors, walls, storage areas and other surfaces and areas
+
+Cleaning of all inpatient and outpatient, (OT, Labour Room, Emergency Ward, Dressing Room, Laboratory and ICU).
+
+17.2
+
+Hospital premises are free from litter and other refuse. 
+
+17.3
+
+Sufficient covered, clean dustbins are provided for patients, visitors/attendants and staff and the dustbins are emptied on a regular basis.
+
+17.4
+
+Equipment, floors and walls are free from bodily fluids, dust and grit and the masonry is intact.
+
+17.5
+
+Cleaners are trained and provided with sufficient appropriate equipment, chemical disinfectant and work according to cleanliness and sanitation policies and procedures.
+
+17.6
+
+Laundry staff are trained and work according to linen and laundry policies and procedures including but not restricted to the following:
+
+Collection of sluiced and dirty linen from the individual departments
+
+Transportation with clear separation of clean and dirty laundry
+
+Separate storage of clean and dirty linen
+
+Sorting of linen into soiled, infected and foul linen and washing processes and washing processes for this linen
+
+Removal of blood stains/sluicing
+
+Disinfection/autoclaving
+
+Washing / hydro extraction
+
+Drying
+
+Repairs of linen if required
+
+Pressing
+
+Distribution to individual departments
+
+Storage in individual departments 
+
+Record keeping for receipt and distribution of clean linen.
+
+17.7
+
+Kitchen staff and/or those handling food are trained and work according to policies and procedures including but not limited to the following:
+
+cleaning of all areas and surfaces on which food is stored and prepared, e.g. all preparation surfaces are cleaned and dried between uses for different activities
+
+food storage, e.g. all food is stored separately from non-foods, cooked food is stored separately from uncooked/raw food and the covering and labelling of food
+
+Use and cleaning of equipment for food preparation, handling and transport, e.g., separate cutting boards are used for raw and cooked foods
+
+testing and monitoring of safe temperatures for cooked food
+
+testing and monitoring of refrigerator temperatures for safe food storage, 
+
+17.8
+
+Access to the kitchen is restricted to only authorized working staff with safety precautions
+
+17.9
+
+All staff handling food has health checks prior to appointment and at regular intervals during their employment and records are kept.
+
+17.10
+
+A written Dress Code for those working in the kitchen is enforced including wearing of head cover for hair, clean uniforms, surgical mask, beard covers and appropriate footwear.
+
+17.11
+
+The kitchen and food stores have proper ventilation.
+
+17.12
+
+All windows in food preparation and storage areas have suitable fly screens and insectocutors (ultra-violet electric flying insect removers) are present in designated problem areas.
+
+17.13
+
+Kitchen walls are made of glazed impervious material and preferable tilled up to man-reach height
+
+17.14
+
+Kitchen waste is put in covered secure containers and removed immediately from places where food is prepared pending disposal.
+
+17.15
+
+Kitchens are arranged to be away from waste storage, ward areas, laboratories and other areas of risk of contamination and infection.  
+
+17.16
+
+Device to monitor humidity and temperature
+
+17.17
+
+Detector to detect gas leakage should be availableWaste management
+
+18. WASTE MANAGEMENT and Transportation
+
+Clinical and other infectious or injurious waste is handled, stored and disposed of to minimise harm and risk of infection /injury to patients, visitors, contractors, staff and the community.
+
+No.
+
+Measurable Criteria
+
+18.1
+
+The hospital has a written waste disposal plan specifying procedures, responsibilities, timetable for waste collection and necessary equipment such as bins and bags.
+
+18.2
+
+The waste disposal plan includes written guidelines for the regulation, identification, containment and storage, transport, treatment and subsequent disposal of different categories of infectious waste, including if appropriate:
+
+pathology waste
+
+cytotoxic and chemical liquid waste)
+
+heavy metals, radio-active or any other form of high-risk waste in accordance with the relevant national/provincial laws.
+
+18.3
+
+Infection control and waste management personnel use the personal protective measures that include
+
+Mask
+
+Specialized masks
+
+Goggle
+
+Rubber Apron
+
+Heavy Rubber Gloves
+
+Long Rubber Boots
+
+18.4
+
+Suitably qualified and experienced person(s) with designated responsibility lead the development and regular updating of plans and policies and procedures for waste management and the process is overseen by the Infection Control Committee and infection control personnel.
+
+18.5
+
+Responsibilities for waste management are defined in all job descriptions.
+
+18.6
+
+staff are trained in and use procedures for different types of waste:
+
+Collection
+
+Segregation at source
+
+Storage 
+
+Transportation
+
+Disposal.
+
+18.7
+
+All staff that work in areas where infectious waste is handled are trained on hazards of waste, management of waste and infection control.  
+
+18.8
+
+Incineration facilities, where provided, are certified as conforming to health and safety and environmental health requirements by the Local Authority.
+
+18.9
+
+If contractors are used for the removal and incineration of clinical waste, a written contractual agreement and consignment procedure is used which includes identification of the origin, contents and quantity of the waste.
+
+18.10
+
+All waste is protected from theft, vandalism or scavenging by persons or animals.
+
+18.11
+
+A clear guide for waste segregation and storage is visibly posted in area(s) where this waste is generated and includes waste segregation in clearly labelled coded bins in accordance with the relevant national/provincial laws.
+
+18.12
+
+Prior to collection and disposal, waste is kept in a suitable location which does not cause a hazard.
+
+18.13
+
+Records on the quantity of waste generation in each category of waste are maintained, analyzed and the resulting information is used for statistical and quality improvement activities by the Hospital.
+
+Part E. SAFE AND APPROPRIATE ENVIRONMENT
+
+19. HEALTH AND SAFETY
+
+Promotion of health and safety and the avoidance of risk to human life as well as to the property of the Hospital are integrated within the organisation and among all levels of staff.
+
+No.
+
+Measurable Criteria
+
+19.1
+
+The responsibility for health and safety of hospital management and other relevant staff is included in their job descriptions and performance reviews.
+
+19.2
+
+A Health and Safety Committee meets on a regular basis, includes representatives of management and staff from different departments and enables two-way communication between management and employees on issues of interest and concern related to health and safety.
+
+19.3
+
+Health and Safety Committee meetings follow a set agenda that includes follow-up from the last meeting, minutes of each meeting are kept and the agendas and minutes are readily available to all staff.
+
+19.4
+
+The Health and Safety Committee participates in the development of the Risk Management Plan.
+
+19.5
+
+All new employees are trained in Health and Safety procedures relevant to their duties within one month of taking up their post.
+
+19.6
+
+All staff attend continuing training for health and safety and records are kept of the trainings  
+
+19.7
+
+Each department uses a systematic process to:
+
+Regularly identify and record actual and potential hazards in a hazard register (at least annually)
+
+Assess identified hazards to determine which are significant
+
+Eliminate, isolate or minimise the impact of the significant hazards. 
+
+19.8
+
+Staff review significant hazards that have been isolated or minimised in accordance with a set timetable appropriate for the identified hazards.
+
+19.9
+
+All emergency telephone numbers concerned with Health and Safety are displayed prominently.
+
+19.10
+
+Health and Safety policies and procedures are followed by staff and include:
+
+Contamination incidents
+
+Sharps and needle-stick injuries
+
+Drug dependence
+
+HIV/AIDS
+
+Hepatitis B and C
+
+Lifting and manual handling of patients and equipment
+
+Basic life support.
+
+Employees Vaccination (i.e. Hep. B) etc
+
+19.11
+
+Organisation wide health and safety policies and procedures contain comprehensive information, instruction and safety protocols for:
+
+Control of waterborne diseases
+
+Storing and handling of inflammable liquid
+
+Personal protective equipment and clothing
+
+Review of pressure vessels and systems
+
+Body fluid spillage
+
+First aid procedures at work
+
+Violence and aggression towards staff
+
+Outbreak and prevention of fire 
+
+Other internal accidental events such as explosion
+
+Safe use of electrical equipment
+
+Safe disposal of clinical waste
+
+Safe handling of gas cylinders
+
+Safety precautions necessary when storing, handling and using liquefied gases, e.g. nitrogen and oxygen
+
+Control and prevention of spillage of hazardous substances, like mercury and gluteraldehyde
+
+Cytotoxic drugs
+
+Introduction of new technology.
+
+19.12
+
+Current health and safety notices, including hazard notices, and key extracts from the Health and Safety manual are prominently displayed in relevant areas and brought to the attention of staff.
+
+19.13
+
+There is a procedure for ensuring that all contractors are provided with relevant information regarding health and safety issues within the hospital.
+
+19.14
+
+A written policy and procedure on pest control including measures to prevent, detect and remove pests is available and implemented.
+
+20. FIRE SAFETYAND EMERGENCY PREPAREDNESS
+
+The organization minimises the risks of fire and protects patients, visitors and staff in case of fire and is prepared for disasters and emergencies
+
+No.
+
+Measurable Criteria
+
+20.1
+
+A fire safety plan exists including prevention/risk reduction, early detection, suppression, abatement, and safe exit from fire.
+
+20.2
+
+The hospital building, e.g. doors, exits and corridors, is constructed in a way to minimise the risk of fire and conform to fire safety rules, including:
+
+Doorways, corridors, ramps and stairways being wide enough for the evacuation of non-ambulatory patients
+
+Fire and smoke doors being able to be opened and closed manually or by an electric release system
+
+Doors to patient rooms and exit doors not being locked from the inside.
+
+20.3
+
+Access and exit ways are kept free of obstruction at all times to allow for safe evacuation in a fire or other emergency.
+
+20.4
+
+An annual inspection of fire safety in the Hospital results in identification of fire risks and strategies to minimise the risks and prevent fire.  
+
+20.5
+
+A person responsible for Hospital Safety carries out and records regular tests of alarm systems, fire extinguishers and other facilities and equipment for fire prevention and control.
+
+20.6
+
+Action is taken to address any recommendations made during inspections and testing.
+
+20.7
+
+All hospital have an alarm system 
+
+20.8
+
+Pictograms indicating fire exits and escape routes are properly illuminated, clearly visible, unobstructed and are displayed at appropriate locations.
+
+20.9
+
+Potentially explosive, flammable or highly combustible material are clearly identified, securely stored and storage areas are clearly signed.
+
+20.10
+
+Areas where smoking is dangerous, restricted and allowed are clearly signed and monitored. 
+
+20.11
+
+Hydrants are provided in new hospitals.
+
+20.12
+
+Staff is trained at least annually in fire safety and other emergency procedures.
+
+20.13
+
+Fire procedures and evacuations are tested and disaster and emergency drills are practiced regularly.
+
+20.14
+
+The Hospital develops a disaster plan with all departments/services and is reviewed and revised at least every two years. 
+
+20.15
+
+The plan outlines individual responsibilities, linkages with external institutions, resources required in the case of a disaster and individuals within the hospital who must be informed in the case of a disaster.
+
+20.16
+
+Rehearsals of the disaster plan are carried out in association with the emergency services and local authorities. 
+
+21. SAFE AND APPROPRIATE EQUIPMENT
+
+There are clear and documented responsibilities, policies and procedures for procurement, use, maintenance, repair and disposal of equipment to minimize the potential for harm.
+
+No.
+
+Measurable Criteria
+
+21.1
+
+Document with clearly defined roles meets as required and includes those in charge of the hospital, nursing, maintenance and stores and other relevant departmental representatives.
+
+21.2
+
+Basic responsibilities of the include:
+
+Assessment of need for new equipment 
+
+Consultation with the requesting department on their requirements and specifications for the equipment
+
+Procurement of equipment
+
+Assessment of utilization of equipment
+
+Condemnation of equipment
+
+Conducting regular equipment audits.
+
+21.3
+
+The procurement policy for equipment and supplies includes the criteria that equipment and supplies purchased are consistent in type and brand with others in the Hospital to facilitate maintenance and repair.
+
+21.4
+
+Placement of supply orders of equipment is done in accordance with the hospital rules or GFR (Government Financial Rules) in case of public hospitals and a copy of supply orders for equipment is kept in the Hospital records.
+
+21.5
+
+A written procedure is used for receiving ordered equipment and includes at least the following activities:
+
+At time of delivery the equipment is inspected as per specifications given in the supply order by the equipment committee/user department.
+
+On satisfactory receipt, installation and commissioning of the equipment a certificate to that effect is given by the equipment committee/user department.
+
+Payment of the supplier is only made on production of such a certificate
+
+Originals or a copy of the service contract and operational manual are kept in the maintenance department or other designated department.
+
+21.6
+
+Equipment is certified as conforming to health and safety requirements and regulations.
+
+21.7
+
+For costly equipment annual maintenance contracts are made including:
+
+Regular service and maintenance for at least five years after the warranty period
+
+Warranty with cost-free provision of spares
+
+Continuous supply of consumables
+
+Training of staff to handle the equipment
+
+Reliable and prompt after-sale service
+
+Penalty clause if any delay occurs due to the negligence of the supplier.
+
+21.8
+
+The suppliers contact details and emergency telephone number is available.
+
+21.9
+
+Staff allowed to operate equipment or machinery are appropriately trained
+
+21.10
+
+Records of equipment are kept including procurement, equipment defects and failures, maintenance, repair and disposal. 
+
+21.11
+
+A maintenance workshop with qualified and experienced persons having basic knowledge of physics and electronics has defined responsibilities for maintenance and repair of smaller equipment.
+
+21.12
+
+The equipment maintenance staff are trained by the suppliers in the following issues:
+
+Use and practice of equipment including proper handling of the equipment 
+
+Preventive maintenance and trouble shooting 
+
+Following the instruction manual in day-to-day use of the equipment
+
+Common and recurrent causes of break-down
+
+Common spare parts responsible for frequent break-downs
+
+Inspection and routine maintenance
+
+Calibration
+
+Testing and safety guidelines
+
+Technology up-gradation
+
+Documentation of procedures for maintenance (SOPs).
+
+21.13
+
+A list of all electrical equipment that requires routine testing is used and a record of maintenance and testing of this equipment is kept for three years, e.g. generator, emergency lighting.   
+
+21.14
+
+Regular and routine checks of equipment (equipment audit) are carried out in accordance with the operational manual, maintenance contract and/or a history sheet of the equipment by the Store in-charge.
+
+21.15
+
+Safeguards for electronic equipment are used such as:
+
+Voltage stabilizer
+
+Automatic switch over for emergency (generator).
+
+21.16
+
+A logbook for all critical equipment is kept and a record of incidence of defects and failures in equipment is maintained
+
+21.17
+
+There is a form known to all staff and used to request equipment repairs and defects.
+
+21.18
+
+An adequate and sufficiently large room and supplies are available for maintenance and minor repairs.  Supplies include but are not limited to:
+
+A bank of spare parts
+
+Toolkit.
+
+21.19
+
+A list of maintenance/backlog items is kept and reviewed regularly.
+
+21.20
+
+Written procedures exist for 
+
+Requests for repair from outside agencies if equipment cannot be repaired in-house
+
+Condemnation and disposal of obsolete equipment.
+
+21.21
+
+A list of approved external repair workshops is kept and regularly updated
+
+21.22
+
+All requests for repair, work carried out and response time to reported defects is monitored and documented.
+
+21.23
+
+The procedure for condemnation and disposal of obsolete equipment includes criteria for defining ‘condemned’ and ‘obsolete’ equipment, such as:
+
+Non-functional and beyond economical repair
+
+Non-functional and obsolete
+
+Functional but obsolete
+
+Functional but hazardous
+
+Functional but no longer required.
+
+21.24
+
+An annual budget is provided for the maintenance and scheduled replacement of equipment.
+
+22. FOOD/Catering Service
+
+Hospital shall provide food services in accordance to the policies set by the respective hospital and statutory requirements where applicable. Documented policies and procedures appropriate to the provision of quality and safe food services shall be made accessible to all staff.
+
+No.
+
+Measurable Criteria
+
+22.1
+
+There are written policies and procedures for the food services which are consistent with the overall policies of the hospital
+
+22.2
+
+Policies and procedures are developed in collaboration with ‘Dietician’,  medical staff, management, and other internal and external service providers; or sources involved
+
+22.3
+
+New and revised policies and procedures are communicated to relevant staff
+
+22.4
+
+There is evidence of compliance with policies and procedures
+
+22.5
+
+Stock control, ordering, and stock taking arrangements shall be in place to promote effective management of the Food Services and deter pilfering and theft
+
+22.6
+
+Documented policies for storage and handling of food shall be evident.
+
+22.7
+
+If food services are outsourced as cafeteria, then there shall be a formal contract agreement between the management and Cafeteria operator stating the requirements of the services
+
+Service provider has a valid license from the relevant local authority to operate the Cafeteria Services
+
+Sufficient numbers of trained personnel and support staff are employed to allow for the services to meet its documented purposes.
+
+All food handling staff shall undergo medical screening and immunisation as required by relevant authorities and regulations
+
+22.8
+
+Food for consumption and food not yet cooked shall be stored and handled separately.
+
+22.9
+
+Bulk preparation of food for long term holding such as freezing shall be carried out only if qualified staff are available to establish the standards and supervise the handling, preparation, and processing of food stuff
+
+22.10
+
+Menus shall be planned to provide meals that meet the needs of patients on an unrestricted or therapeutic diets. Menus shall also provide for the needs of staff.
+
+22.11
+
+There is an appropriate documented procedure to ensure safe provision of meals to infectious patients
+
+22.12
+
+Documented procedures shall be evident for the cleaning of all equipment.
+
+22.13
+
+Procedures for machine and hand dishwashing shall be documented and available
+
+22.14
+
+Garbage shall be held in covered containers and removed from the Food Services area at least daily
+
+22.15
+
+There is a proper procedure for the disposal of food refuse
+
+There is a continuing programme on pest and vermin control
+
+22.16
+
+There is evidence of inspection and certification by the District/Local Health Authority annually of at least 75% rating
+
+22.17
+
+Appropriate clean, protective clothing shall be worn by all staff and this clothing shall be changed daily and as required
+
+22.18
+
+Appropriate physical layout, mechanical and electrical facilities, and equipment shall be available for the efficient operations of the Food Services
+
+22.19
+
+The layout of food services areas shall ensure following
+
+storage of food ensuring adequate separation of dry ration from perishables and adequate separation of perishables by type;
+
+food handling prior to cooking with separate process areas for meat, fish and vegetables to prevent contamination;
+
+receiving of food stocks;
+
+holding of prepared food;
+
+preparation of food including cooking or reconstitution;
+
+distribution of food or meals;
+
+serving of meals;
+
+dishwashing and scullery activities;
+
+storage for other items;
+
+waste disposal;
+
+staff rest and changing areas;
+
+there shall be separation for salads, pastries and confectionaries;
+
+adequate hand washing facilities for staff, separate from those utilised for food preparation in the main kitchen area
+
+22.20
+
+Finishes including floors, walls and ceilings shall be easily cleaned.
+
+22.21
+
+Appropriate lighting to allow safe work practices shall be available.
+
+22.22
+
+Appropriate ventilation, temperature and humidity to provide comfortable working conditions and promote cleanliness
+
+22.23
+
+Refrigeration and storage of food in dry storage, refrigerated storage and in freezers shall comply with appropriate health regulations and standards of good practice. Where appropriate, cold room shall be made available.
+
+22.24
+
+There is evidence that the facilities and equipment are maintained in good working order and subject to ongoing maintenance and calibration.
+
+22.25
+
+Where specialised equipment is used, only appropriately qualified staff, approved by the facility, operate such equipment
+
+22.26
+
+There is evidence that the facilities and equipment are maintained in good working order and subject to ongoing maintenance and calibration
+
+23. SAFE AND APPROPRIATE FACILITIES
+
+The Hospital’s physical environment contributes to the safety and well being of patients, staff and visitors.
+
+No.
+
+Measurable Criteria
+
+23.1
+
+The hospital complies with relevant laws and regulations related to design and layout of the facility and inspection requirements are fulfilled. 
+
+23.2
+
+Corridors, storage areas, passageways and stairways are well lit. 
+
+23.3
+
+Access ways and exits are unobstructed at all times.
+
+23.4
+
+Signage allows safe passage through the hospital and exit from the facility in case of an emergency, disaster or fire.  
+
+23.5
+
+The environment in all patient areas is clean, well lit, ventilated with adjustable controls for lighting and heating, and decor is in good repair.
+
+23.6
+
+Floor surfaces are non-slip and even.
+
+23.7
+
+Facilities and equipment for the safety and comfort of patients and visitors are available and functioning and include:
+
+Refreshment facilities and canteen
+
+Quiet rooms for consultations
+
+A public telephone
+
+Baby changing/feeding facilities
+
+Wheel chair / stretcher
+
+Defined and understandable signage system
+
+Adequate Chairs
+
+Cooling device, fans 
+
+Separate queues for male and females wherever required
+
+Safe drinking water facilities
+
+Sheltered outside areas with planting and greenery.
+
+23.8
+
+A functional call bell system is available for use in private and isolated wards (single occupancy rooms); within easy reach of the patient.
+
+23.9
+
+Each nursing area has a clean storage and preparation space and is separate from soiled materials, domestic equipment and sluice areas.
+
+23.10
+
+Separate male and female toilets and bathrooms are available and adequate for the number of patients in the ward or department (at least one toilet for every twelve patients). The toilets and bathrooms:
+
+Are kept clean
+
+Are lockable by the patient from the inside but unlockable from the outside
+
+Have doors that open outwards
+
+Ensure privacy at all times
+
+Have a non-slip base
+
+Have grab rails positioned on either side of the toilet
+
+Have an alarm-call within easy reach of the bath and toilet.
+
+23.11
+
+Shower facilities are available, with warm water for winter months.
+
+23.12
+
+Separate male and female functioning, clean toilets are available for use by visitors/attendants.
+
+23.13
+
+Bed tables are available.
+
+23.14
+
+Potable water and electrical power are available 24 hours a day, seven days a week.
+
+23.15
+
+Alternate sources of water and power for heat and lighting in case of breakdown of the systems are identified, functioning and regularly tested.  Priority areas such as ICU and Operating Theatres are identified.
+
+23.16
+
+Electrical, water, ventilation, medical gas, and other key systems are regularly inspected, maintained and improved, if necessary.
+
+24. SECURITY services
+
+The Hospital’s must have the security services to provide secure and safe environment for the patients, newborn and the serving staff (medics, nurses and paramedics)
+
+No.
+
+Measurable Criteria
+
+24.1
+
+There must be written security plan and SOPs for the internal and external security measures for the patients, working staff and attendants during day and night.
+
+24.2
+
+The security plan must be communicated to all working staff, medics, nurses, paramedics and support staff.
+
+25.3
+
+An internal communication system connecting all units of the hospital enables a continuous flow of communication and immediate reporting of any incident.
+
+25.4
+
+External security measures must ensure that there is:
+
+Compound wall
+
+Proper control of Entry and Exit points
+
+Proper Issuance of gate pass to visitors
+
+Proper Parking of all type of vehicles
+
+Entry of vehicles should be monitored
+
+Stickers for Staff vehicles
+
+CCTV around hospital
+
+Proper identification of attendants staying with Patients
+
+25.5
+
+Internal security measures must ensure that there is:
+
+CCTV at key points and receptions 
+
+Patients Uniform
+
+Uniform for staff
+
+Name plates of staff
+
+Proper sign boards
+
+Set timing for visitors
+
+Gate pass for entry of Attendants
+
+Proper tagging of newly born children
+
+Special security for Emergency, Operation Theatres, Blood Banks, Laboratories, ICU and Stores
+
+25.6
+
+General security measures must ensure that there is:
+
+Regular training of security staff
+
+Regular drill of staff to handle emergency
+
+Proper supervision of telephone exchange, casualty, nurses and doctors hostels
+
+25.7
+
+A procedure ensures that all hospital keys are available at all times to the staff on duty.
+
+25. handling dead bodies
+
+Hospital shall ensure the safe dead body handling till it is handed over to the blood relatives/guardians with appropriate identification measures.
+
+No.
+
+Measurable Criteria
+
+25.1
+
+There will be written policies and scope of handling the dead bodies before handing over to the attendants or guardians. 
+
+25.2
+
+These services shall be under the organization of Casualty & Emergency (C&E) Department or the Management of the Facility or under the medico-legal services if applicable. The Mortuary Services shall include body reception, storage, documentation and handing over to the relatives or guardians.
+
+25.3
+
+The mortuary services are supervised by a trained and experienced health professional with a qualification equivalent or higher to that of a medical assistant and assisted by relevant categories of staff.
+
+25.4
+
+The duties and responsibilities of the staff engage handing of the dead bodies shall be displayed in the premises of the mortuary services
+
+25.6
+
+The person in charge of the Mortuary Services shall ensure that the staff of the Mortuary Services complete and forward feedback reports to the Chief Executive Officer or designate.
+
+25.7
+
+The person in charge is involved in the safety and quality improvement activities of the hospital, as appropriate. 
+
+25.8
+
+There are written safety procedures and manuals on hazards and safety precautions specific to the Storage/Mortuary Services. All staff shall practice Standard Precautions and Safety Guidelines.
+
+25.9
+
+There are adequate facilities and equipment for the safe and efficient provision of storage, mortuary and embalming services taking into consideration the potentially hazardous circumstances of the services. All equipment shall meet current safety standards.
+
+25.10
+
+Appropriate statistics and records shall be maintained and used for managing the services.
+
+25.11
+
+The storage/mortuary facility shall be directly accessible to an outside entrance of the facility and shall be located to avoid transfer of cadaver through public areas.
+
+25.12
+
+The hospital will ensure facilities for the reception of bodies and storage of the bodies that includes
+
+Body receiving area shall be of a suitable size and design to facilitate incoming and outgoing bodies in full view of the receiving counter. 
+
+Clean and dirty areas are clearly designated. 
+
+There is sufficient space and refrigeration for storage of bodies with provision for accurate identification of bodies. 
+
+The temperature of the body freezer shall be maintained, monitored and documented. 
+
+The storage of bodies meet local cultural and religious needs. 
+
+There are appropriate areas for autopsy suite, body cleansing, last rites and release. 
+
+There is suitable, adequate and safe provision for air conditioning, lighting, power, water, and drainage. 
+
+25.13
+
+There are designated areas for reception and handling of foul body or high-risk cases where appropriate. 
+
+25.14
+
+The health facility shall provide following guideline for the burial of highly infectious dead bodies
+
+Thick and long rubber gloves or double pair of surgical gloves should be used for washing the body for burial. 
+
+The dead body should be sprayed with 1:10 liquid bleach solution and then wrapped in the winding sheet.  
+
+The winding sheet should be sprayed with bleach solution.
+
+It should then be placed in a plastic bag, which should be sealed with adhesive tape.
+
+Disinfect the transport vehicle and burn all clothing of the deceased.
+
+Annex-A
+
+Applicable Technical Regulations
+
+The Public Health (Emergency Provisions) Ordinance, 1944
+
+The West Pakistan Epidemic Diseases Act, 1958
+
+The College of Physicians and Surgeons Pakistan Ordinance, 1962
+
+The Allopathic System (Prevention of Misuse) Ordinance 1962
+
+The Unani, Ayurvedic & Homoeopathic Practitioners Act (II of 1965)
+
+The Provincial (Sindh) Employees’ Social Security Ordinance, 1965
+
+The Pharmacy Act (XI of 1967)
+
+The  Drugs (Generic Names) Act,1972
+
+The Drugs Act (XXXI of 1976)
+
+Pakistan Medical and Dental Council Ordinance, 1962
+
+The National Institute of Cardiovascular Diseases (Administration) Ordinance, 1979
+
+The National Institute of  Health Ordinance (XLIII of 1980)
+
+The Medical & Dental Degrees Ordinance 1982
+
+Pakistan Environmental Protection Act, 1997
+
+The Mental Health Ordinance (VIII of 2001)
+
+Pakistan Nuclear Regulatory Authority Ordinance 2001 
+
+The Injured Persons (Medical Aid) Act 2004 
+
+The West Pakistan Pure Food Ordinance, 1960
+
+The Pakistan Environmental Protection Act, 1997
+
+Sindh Healthcare Commission Act,  2013
+
+Annex-B
+
+ABBREVIATIONS
+
+ANC: Antenatal Care
+
+BHUs: Basic Health units
+
+CHs: Civil Hospitals
+
+DHIS: District Health Information System
+
+DHO: District Health Officer
+
+DHQ: District Head Quarter Hospital
+
+EMNC: Essential Maternal and Newborn Care
+
+EmONC: Emergency Obstetrics and Neonatal Care
+
+EPI: Expanded Program on Immunization
+
+FLCFs First Level Care Facilities
+
+IMR: Infant Mortality Rate
+
+LHV: Lady Health Visitor
+
+LHWs: Lady Health Workers
+
+MCH: Maternal and Child Health 
+
+MMR: Maternal Mortality rate
+
+MNT: Maternal and Neonatal Tetanus
+
+MOs: Medical Officers
+
+MS: Medical Superintendent
+
+MTs: Medical Technicians
+
+RHCs: Rural Health Centres
+
+SIAs: Supplementary Immunization Activities
+
+SMOs: Senior Medical Officers
+
+THQ: Taluka Head Quarter
+
+TT: Tetanus Toxoid
+
+TBAs: Traditional Birth Attendants
+
+WHO: World Health Organization
+
+BIBLIOGRAPHY
+
+Pakistan Standards for Hospital (PS: 5257). 2013. Pakistan Standards and Quality Control Authority (PSQCA), Ministry of Science and Technology Pakistan.
+
+Standards for Independent Healthcare Organization (UK) published 2004 by Health Accreditation Programme (HAP) of United Kingdom Accreditation Form (UKAF).
+
+International Principles for Healthcare Standards. 3rd Edition. December 2007. Published by International Society for Quality in Healthcare (ISQua).
+
+Secondary Care Standards for Quality Health Services in KP. Department of Health Khyber Pakhtunkhwa.
+
+Waste Management Rules, EPA Rules 2005.

@@ -1,0 +1,935 @@
+--- Page 1 ---
+Joint Commission International
+Accreditation Standards for
+Hospitals
+Including Standards for Academic Medical Center Hospitals
+6th Edition | Effective 1 July 2017
+
+--- Page 2 ---
+Section I:
+Accreditation Participation
+Requirements
+
+--- Page 3 ---
+Accreditation Participation Requirements (APR)
+Requirement: APR.1
+The hospital meets all requirements for timely submissions of data and information to Joint Commission
+International (JCI).
+Requirement: APR.2
+The hospital provides JCI with accurate and complete information throughout all phases of the accreditation
+process.
+Requirement: APR.3
+The hospital reports within 30 days of the effective date of any change(s) in the hospital’s profile (electronic
+database) or information provided to JCI via the E-App before and between surveys.
+Requirement: APR.4
+The hospital permits on-site evaluations of standards and policy compliance or verification of quality and safety
+concerns, reports, or regulatory authority sanctions at the discretion of JCI.
+Requirement: APR.5
+The hospital allows JCI to request (from the hospital or outside agency) and review an original or authenticated
+copy of the results and reports of external evaluations from publicly recognized bodies.
+Requirement: APR.6
+Currently not in effect.
+Requirement: APR.7
+The hospital selects and uses measures as part of its quality improvement measurement system.
+3
+
+--- Page 4 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+Requirement: APR.8
+The hospital accurately represents its accreditation status and the programs and services to which JCI
+accreditation applies. Only hospitals with current JCI accreditation may display the Gold Seal.
+Requirement: APR.9
+Any individual hospital staff member (clinical or administrative) can report concerns about patient safety and
+quality of care to JCI without retaliatory action from the hospital.
+To support this culture of safety, the hospital must communicate to staff that such reporting is permitted. In
+addition, the hospital must make it clear to staff that no formal disciplinary actions (for example, demotions,
+reassignments, or change in working conditions or hours) or informal punitive actions (for example,
+harassment, isolation, or abuse) will be threatened or carried out in retaliation for reporting concerns to JCI.
+Requirement: APR.10
+Translation and interpretation services arranged by the hospital for an accreditation survey and any related
+activities are provided by qualified translation and interpretation professionals who have no relationship to the
+hospital.
+Qualified translators and interpreters provide to the hospital and JCI documentation of their experience in
+translation and interpretation. The documentation may include, but is not limited to, the following:
+• Evidence of advanced education in English and in the language of the host hospital
+• Evidence of translation and interpretation experience, preferably in the medical field
+• Evidence of employment as a professional translator or interpreter, preferably full-time
+• Evidence of continuing education in translation and interpretation, preferably in the medical field
+• Membership(s) in professional translation and interpretation associations
+• Translation and interpretation proficiency testing results, when applicable
+• Translation and interpretation certifications, when applicable
+• Other relevant translation and interpretation credentials
+In some cases, JCI can provide organizations with a list of translators and interpreters that meet the
+requirements listed above.
+Requirement: APR.11
+The hospital notifies the public it serves about how to contact its hospital management and JCI to report
+concerns about patient safety and quality of care.
+Methods of notice may include, but are not limited to, distribution of information about JCI, including
+contact information in published materials such as brochures and/or posting this information on the hospital’s
+website.
+The following link is provided to report a patient safety or quality of care concern to JCI:
+http://www.jointcommissioninternational.org/contact-us/report-a-quality-and-safety-issue/.
+Hospitals seeking initial accreditation should be prepared to discuss their plan on how compliance with this
+APR will be achieved once accredited.
+4
+
+--- Page 5 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+Requirement: APR.12
+The hospital provides patient care in an environment that poses no risk of an immediate threat to patient
+safety, public health, or staff safety.
+5
+
+--- Page 6 ---
+Section II:
+Patient-Centered
+Standards
+
+--- Page 7 ---
+International Patient
+Safety Goals (IPSG)
+Standards
+Goal 1: Identify Patients Correctly
+IPSG.1 The hospital develops and implements a process to improve accuracy of patient identifications. 𝖯
+Goal 2: Improve Effective Communication
+IPSG.2 The hospital develops and implements a process to improve the effectiveness of verbal and/or
+telephone communication among caregivers. 𝖯
+IPSG.2.1 The hospital develops and implements a process for reporting critical results of
+diagnostic tests. 𝖯
+IPSG.2.2 The hospital develops and implements a process for handover communication. 𝖯
+Goal 3: Improve the Safety of High-Alert Medications.
+IPSG.3 The hospital develops and implements a process to improve the safety of high-alert medications. 𝖯
+IPSG.3.1 The hospital develops and implements a process to manage the safe use of
+concentrated electrolytes. 𝖯
+Goal 4: Ensure Safe Surgery
+IPSG.4 The hospital develops and implements a process for the preoperative verification and surgical/
+invasive procedure site-marking. 𝖯
+IPSG.4.1 The hospital develops and implements a process for the time-out that is performed
+immediately prior to the start of the surgical/invasive procedure and the sign out that
+is conducted after the procedure. 𝖯
+Goal 5: Reduce the Risk of Health Care-Associated Infections
+IPSG.5 The hospital adopts and implements evidence-based hand-hygiene guidelines to reduce the risk of
+health care–associated infections. 𝖯
+Goal 6: Reduce the Risk of Patient Harm Resulting from Falls
+IPSG.6 The hospital develops and implements a process to reduce the risk of patient harm resulting from
+falls for the inpatient population. 𝖯
+IPSG.6.1 The hospital develops and implements a process to reduce the risk of patient harm
+resulting from falls for the outpatient population. 𝖯
+7
+
+--- Page 8 ---
+Access to Care and
+Continuity of Care
+(ACC)
+Standards
+Screening for Admission to the Hospital
+ACC.1 Patients who may be admitted to the hospital or who seek outpatient services are screened to
+identify if their health care needs match the hospital’s mission and resources. 𝖯
+ACC.1.1 Patients with emergent, urgent, or immediate needs are given priority for assessment
+and treatment.
+ACC.1.2 The hospital considers the clinical needs of patients and informs patients when there
+are unusual delays for diagnostic and/or treatment services. 𝖯
+Admission to the Hospital
+ACC.2 The hospital has a process for admitting inpatients and for registering outpatients. 𝖯
+ACC.2.1 Patient needs for preventive, palliative, curative, and rehabilitative services are
+prioritized based on the patient’s condition at the time of admission as an inpatient to
+the hospital.
+ACC.2.2 At admission as an inpatient, the patient and family receive education and orientation
+to the inpatient ward, information on the proposed care and any expected costs for
+care, and the expected outcomes of care.
+ACC.2.2.1 The hospital develops a process to manage the flow of patients
+throughout the hospital. 𝖯
+ACC.2.3 Admission to departments/wards providing intensive or specialized services is
+determined by established criteria. 𝖯
+ACC.2.3.1 Discharge from departments/wards providing intensive or specialized
+services is determined by established criteria. 𝖯
+Continuity of Care
+ACC.3 The hospital designs and carries out processes to provide continuity of patient care services in the
+hospital and coordination among health care practitioners. 𝖯
+ACC.3.1 During all phases of inpatient care, there is a qualified individual identified as
+responsible for the patient’s care. 𝖯
+ACC.3.2 Information related to the patient’s care is transferred with the patient.
+Discharge, Referral, and Follow-Up
+ACC.4 There is a process for the referral or discharge of patients that is based on the patient’s health status
+and the need for continuing care or services. 𝖯
+8
+
+--- Page 9 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+ACC.4.1 Patient and family education and instruction are related to the patient’s continuing
+care needs.
+ACC.4.2 The hospital cooperates with health care practitioners and outside agencies to ensure
+timely referrals.
+ACC.4.3 The complete discharge summary is prepared for all inpatients.
+ACC.4.3.1 Patient education and follow-up instructions are given in a form and
+language the patient can understand.
+ACC.4.3.2 The medical records of inpatients contain a copy of the discharge
+summary. 𝖯
+ACC.4.4 The records of outpatients requiring complex care or with complex diagnoses contain
+profiles of the medical care and are made available to health care practitioners
+providing care to those patients. 𝖯
+ACC.4.5 The hospital has a process for the management and follow-up of patients who notify
+hospital staff that they intend to leave against medical advice.
+ACC.4.5.1 The hospital has a process for the management of patients who leave the
+hospital against medical advice without notifying hospital staff.
+Transfer of Patients
+ACC.5 Patients are transferred to other organizations based on status, the need to meet their continuing
+care needs, and the ability of the receiving organization to meet patients’ needs.
+ACC.5.1 The referring hospital develops a transfer process to ensure that patients are transferred
+safely.
+ACC.5.2 The receiving organization is given a written summary of the patient’s clinical
+condition and the interventions provided by the referring hospital.
+ACC.5.3 The transfer process is documented in the patient’s medical record. 𝖯
+Transportation
+ACC.6 The hospital’s transportation services comply with relevant laws and regulations and meet
+requirements for quality and safe transport. 𝖯
+9
+
+--- Page 10 ---
+Patient and Family
+Rights (PFR)
+Standards
+PFR.1 The hospital is responsible for providing processes that support patients’ and families’ rights during
+care. 𝖯
+PFR.1.1 The hospital seeks to reduce physical, language, cultural, and other barriers to access
+and delivery of services.
+PFR.1.2 The hospital provides care that supports patient dignity, is respectful of the patient’s
+personal values and beliefs, and responds to requests for spiritual and religious
+observance.
+PFR.1.3 The patient’s rights to privacy and confidentiality of care and information are
+respected. 𝖯
+PFR.1.4 The hospital takes measures to protect patients’ possessions from theft or loss.
+PFR.1.5 Patients are protected from physical assault, and populations at risk are identified and
+protected from additional vulnerabilities.
+PFR.2 Patients are informed about all aspects of their medical care and treatment and participate in care
+and treatment decisions. 𝖯
+PFR.2.1 The hospital informs patients and families about their rights and responsibilities to
+refuse or discontinue treatment, withhold resuscitative services, and forgo or withdraw
+life-sustaining treatments. 𝖯
+PFR.2.2 The hospital supports the patient’s right to assessment and management of pain and
+respectful compassionate care at the end of life.
+PFR.3 The hospital informs patients and families about its process to receive and to act on complaints,
+conflicts, and differences of opinion about patient care and the patient’s right to participate in these
+processes. 𝖯
+PFR.4 All patients are informed about their rights and responsibilities in a manner and language they can
+understand.
+General Consent
+PFR.5 General consent for treatment, if obtained when a patient is admitted as an inpatient or is registered
+for the first time as an outpatient, is clear in its scope and limits. 𝖯
+Informed Consent
+PFR.5.1 Patient informed consent is obtained through a process defined by the hospital and
+carried out by trained staff in a manner and language the patient can understand. 𝖯
+10
+
+--- Page 11 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+PFR.5.2 Informed consent is obtained before surgery, anesthesia, procedural sedation, use of
+blood and blood products, and other high-risk treatments and procedures. 𝖯
+PFR.5.3 Patients and families receive adequate information about the patient’s condition,
+proposed treatment(s) or procedure(s), and health care practitioners so that they can
+grant consent and make care decisions.
+PFR.5.4 The hospital establishes a process, within the context of existing law and culture, for
+when others can grant consent.
+Organ and Tissue Donation
+PFR.6 The hospital informs patients and families about how to choose to donate organs and other tissues.
+PFR.6.1 The hospital provides oversight for the process of organ and tissue procurement. 𝖯
+11
+
+--- Page 12 ---
+Assessment of
+Patients (AOP)
+Standards
+AOP.1 All patients cared for by the hospital have their health care needs identified through an assessment
+process that has been defined by the hospital. 𝖯
+AOP.1.1 Each patient’s initial assessment includes a physical examination and health history as
+well as an evaluation of psychological, spiritual/cultural (as appropriate), social, and
+economic factors.
+AOP.1.2 The patient’s medical and nursing needs are identified from the initial assessments,
+which are completed and documented in the medical record within the first 24 hours
+after admission as an inpatient or earlier as indicated by the patient’s condition. 𝖯
+AOP.1.2.1 The initial medical and nursing assessments of emergency patients are
+based on their needs and conditions. 𝖯
+AOP.1.3 The hospital has a process for accepting initial medical assessments conducted in a
+physician’s private office or other outpatient setting prior to admission or outpatient
+procedure.
+AOP.1.3.1 A preoperative medical assessment is documented before anesthesia
+or surgical treatment and includes the patient’s medical, physical,
+psychological, social, economic, and discharge needs.
+AOP.1.4 Patients are screened for nutritional status, functional needs, and other special needs
+and are referred for further assessment and treatment when necessary.
+AOP.1.5 All inpatients and outpatients are screened for pain and assessed when pain is present.
+AOP.1.6 Individualized medical and nursing initial assessments are performed for special
+populations cared for by the hospital. 𝖯
+AOP.1.7 Dying patients and their families are assessed and reassessed according to their
+individualized needs.
+AOP.1.8 The initial assessment includes determining the need for discharge planning. 𝖯
+AOP.2 All patients are reassessed at intervals based on their condition and treatment to determine their
+response to treatment and to plan for continued treatment or discharge. 𝖯
+AOP.3 Qualified individuals conduct the assessments and reassessments. 𝖯
+AOP.4 Medical, nursing, and other individuals and services responsible for patient care collaborate to
+analyze and integrate patient assessments and prioritize the most urgent/important patient care
+needs.
+12
+
+--- Page 13 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+Laboratory Services
+AOP.5 Laboratory services are available to meet patient needs, and all such services meet applicable local
+and national standards, laws, and regulations.
+AOP.5.1 A qualified individual(s) is responsible for managing the clinical laboratory service or
+pathology service. 𝖯
+AOP.5.1.1 A qualified individual is responsible for the oversight and supervision of
+the point-of-care testing program. 𝖯
+AOP.5.2 All laboratory staff have the required education, training, qualifications, and
+experience to administer and perform the tests and interpret the results.
+AOP.5.3 A laboratory safety program is in place, followed, and documented, and compliance
+with the facility management and infection control programs is maintained. 𝖯
+AOP.5.3.1 The laboratory uses a coordinated process to reduce the risks of
+infection as a result of exposure to infectious diseases and biohazardous
+materials and waste. 𝖯
+AOP.5.4 Laboratory results are available in a timely way as defined by the hospital. 𝖯
+AOP.5.5 All equipment used for laboratory testing is regularly inspected, maintained, and
+calibrated, and appropriate records are maintained for these activities. 𝖯
+AOP.5.6 Essential reagents and supplies are available and all reagents are evaluated to ensure
+accuracy and precision of results. 𝖯
+AOP.5.7 Procedures for collecting, identifying, handling, safely transporting, and disposing of
+specimens are established and implemented. 𝖯
+AOP.5.8 Established norms and ranges are used to interpret and to report clinical laboratory
+results.
+AOP.5.9 Quality control procedures for laboratory services are in place, followed, and
+documented. 𝖯
+AOP.5.9.1 There is a process for proficiency testing of laboratory services. 𝖯
+AOP.5.10 Reference/contract laboratories used by the hospital are licensed and accredited or
+certified by a recognized authority.
+AOP.5.10.1 The hospital identifies measures for monitoring the quality of the
+services to be provided by the reference/contract laboratory.
+Blood Bank and/or Transfusion Services
+AOP.5.11 A qualified individual is responsible for blood bank and/or transfusion services and
+ensures that services adhere to laws and regulations and recognized standards of
+practice. 𝖯
+Radiology and Diagnostic Imaging Services
+AOP.6 Radiology and diagnostic imaging services are available to meet patient needs, and all such services
+meet applicable local and national standards, laws, and regulations.
+AOP.6.1 A qualified individual(s) is responsible for managing the radiology and diagnostic
+imaging services. 𝖯
+AOP.6.2 Individuals with proper qualifications and experience perform diagnostic imaging
+studies, interpret the results, and report the results.
+13
+
+--- Page 14 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+AOP.6.3 A radiation safety program for staff and patients is in place, followed, and
+documented; and compliance with the facility management and infection control
+programs is maintained. 𝖯
+AOP.6.4 Radiology and diagnostic imaging study results are available in a timely way as defined
+by the hospital. 𝖯
+AOP.6.5 All equipment used to conduct radiology and diagnostic imaging studies is regularly
+inspected, maintained, and calibrated, and appropriate records are maintained for
+these activities. 𝖯
+AOP.6.6 X-ray film and the required supplies are available when the hospital uses film X-ray.
+AOP.6.7 Quality control procedures are in place, followed, validated, and documented. 𝖯
+AOP.6.8 The hospital regularly reviews quality control results for all outside contracted sources
+of diagnostic services.
+14
+
+--- Page 15 ---
+Care of Patients (COP)
+Standards
+Care Delivery for All Patients
+COP.1 Uniform care of all patients is provided and follows applicable laws and regulations. 𝖯
+COP.2 There is a process to integrate and to coordinate the care provided to each patient.
+COP.2.1 An individualized plan of care is developed and documented for each patient.
+COP.2.2 The hospital develops and implements a uniform process for prescribing patient
+orders. 𝖯
+COP.2.3 Clinical and diagnostic procedures and treatments are carried out and documented as
+ordered, and the results or outcomes, are recorded in the patient’s medical record.
+Care of High-Risk Patients and Provision of High-Risk Services
+COP.3 The care of high-risk patients and the provision of high-risk services are guided by professional
+practice guidelines, laws, and regulations. 𝖯
+Recognition of Changes to Patient Condition
+COP.3.1 Clinical staff are trained to recognize and respond to changes in a patient’s condition.
+Resuscitation Services
+COP.3.2 Resuscitation services are available throughout the hospital.
+COP.3.3 Clinical guidelines and procedures are established and implemented for the handling,
+use, and administration of blood and blood products. 𝖯
+Food and Nutrition Therapy
+COP.4 A variety of food choices, appropriate for the patient’s nutritional status and consistent with his or
+her clinical care, is available.
+COP.5 Patients at nutrition risk receive nutrition therapy.
+Pain Management
+COP.6 Patients are supported in managing pain effectively. 𝖯
+End-of-Life Care
+COP.7 The hospital provides end-of-life care for the dying patient that addresses the needs of the patient
+and family and optimizes the patient’s comfort and dignity.
+Hospitals Providing Organ and/or Tissue Transplant Services
+COP.8 The hospital’s leadership provides resources to support the organ/tissue transplant program.
+15
+
+--- Page 16 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+COP.8.1 A qualified transplant program leader is responsible for the transplant program.
+COP.8.2 The transplant program includes a multidisciplinary team that consists of people with
+expertise in the relevant organ-specific transplant programs.
+COP.8.3 There is a designated coordination mechanism for all transplant activities that involves
+physicians, nurses, and other health care practitioners.
+COP.8.4 The transplant program uses organ-specific transplant clinical eligibility, psychological,
+and social suitability criteria for transplant candidates.
+COP.8.5 The transplant program obtains informed consent specific to organ transplantation
+from the transplant candidate. 𝖯
+COP.8.6 The transplant program has documented protocols, clinical practice guidelines, or
+procedures for organ recovery and organ receipt to ensure the compatibility, safety,
+efficacy, and quality of human cells, tissues, and organs for transplantation. 𝖯
+COP.8.7 Individualized patient care plans guide the care of transplant patients.
+Transplant Programs Using Living Donor Organs
+COP.9 Transplant programs that perform living donor transplantation adhere to local and regional laws
+and regulation and protect the rights of prospective or actual living donors.
+COP.9.1 Transplant programs performing living donor transplants obtain informed consent
+specific to organ donation from the prospective living donor. 𝖯
+COP.9.2 Transplant programs that perform living donor transplants use clinical and
+psychological selection criteria to determine the suitability of potential living donors.
+COP.9.3 Individualized patient care plans guide the care of living donors.
+16
+
+--- Page 17 ---
+Anesthesia and
+Surgical Care (ASC)
+Standards
+Organization and Management
+ASC.1 Sedation and anesthesia services are available to meet patient needs, and all such services meet
+professional standards and applicable local and national standards, laws, and regulations.
+ASC.2 A qualified individual(s) is responsible for managing the sedation and anesthesia services.
+Sedation Care
+ASC.3 The administration of procedural sedation is standardized throughout the hospital. 𝖯
+ASC.3.1 Practitioners responsible for procedural sedation and individuals responsible for
+monitoring patients receiving procedural sedation are qualified. 𝖯
+ASC.3.2 Procedural sedation is administered and monitored according to professional practice
+guidelines. 𝖯
+ASC.3.3 The risks, benefits, and alternatives related to procedural sedation are discussed with
+the patient, his or her family, or those who make decisions for the patient.
+Anesthesia Care
+ASC.4 A qualified individual conducts a preanesthesia assessment and preinduction assessment.
+ASC.5 Each patient’s anesthesia care is planned and documented, and the anesthesia and technique used
+are documented in the patient’s medical record.
+ASC.5.1 The risks, benefits, and alternatives related to anesthesia and post-operative pain
+control are discussed with the patient and/or those who make decisions for the patient.
+ASC.6 Each patient’s physiological status during anesthesia and surgery is monitored according to
+professional practice guidelines and documented in the patient’s medical record. 𝖯
+ASC.6.1 Each patient’s postanesthesia status is monitored and documented, and the patient
+is discharged from the recovery area by a qualified individual or by using established
+criteria. 𝖯
+Surgical Care
+ASC.7 Each patient’s surgical care is planned and documented based on the results of the assessment.
+ASC.7.1 The risks, benefits, and alternatives are discussed with the patient and his or her family
+or those who make decisions for the patient.
+ASC.7.2 Information about the surgical procedure is documented in the patient’s medical
+record to facilitate continuing care.
+ASC.7.3 Patient care after surgery is planned and documented.
+17
+
+--- Page 18 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+ASC.7.4 Surgical care that includes the implanting of a medical device is planned with special
+consideration of how standard processes and procedures must be modified. 𝖯
+18
+
+--- Page 19 ---
+Medication Management
+and Use (MMU)
+Standards
+Organization and Management
+MMU.1 Medication use in the hospital is organized to meet patient needs, complies with applicable laws
+and regulations, and is under the direction and supervision of a licensed pharmacist or other
+qualified professional. 𝖯
+MMU.1.1 The hospital develops and implements a program for the prudent use of antibiotics
+based on the principle of antibiotic stewardship. 𝖯
+Selection and Procurement
+MMU.2 Medications for prescribing or ordering are stocked, and there is a process for medications not
+stocked or normally available to the hospital or for times when the pharmacy is closed. 𝖯
+MMU.2.1 There is a method for overseeing the hospital’s medication list and medication use.
+Storage
+MMU.3 Medications are properly and safely stored. 𝖯
+MMU.3.1 There is a process for the management of medications and nutritional products that
+require special handling. 𝖯
+MMU.3.2 Emergency medications are available, uniformly stored, monitored, and secure when
+stored out of the pharmacy. 𝖯
+MMU.3.3 The hospital has a medication recall system. 𝖯
+Ordering and Transcribing
+MMU.4 Prescribing, ordering, and transcribing are guided by policies and procedures. 𝖯
+MMU.4.1 The hospital defines the elements of a complete order or prescription. 𝖯
+MMU.4.2 The hospital identifies those qualified individuals permitted to prescribe or to order
+medications.
+MMU.4.3 Medications prescribed and administered are written in the patient’s medical record.
+Preparing and Dispensing
+MMU.5 Medications are prepared and dispensed in a safe and clean environment.
+MMU.5.1 Medication prescriptions or orders are reviewed for appropriateness. 𝖯
+MMU.5.2 A system is used to safely dispense medications in the right dose to the right patient at
+the right time.
+19
+
+--- Page 20 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+Administration
+MMU.6 The hospital identifies those qualified individuals permitted to administer medications.
+MMU.6.1 Medication administration includes a process to verify the medication is correct based
+on the medication prescription or order.
+MMU.6.2 Policies and procedures govern medications brought into the hospital for patient self-
+administration or as samples. 𝖯
+Monitoring
+MMU.7 Medication effects on patients are monitored. 𝖯
+MMU.7.1 The hospital establishes and implements a process for reporting and acting on
+medication errors and near misses. 𝖯
+20
+
+--- Page 21 ---
+Patient and Family
+Education (PFE)
+Standards
+PFE.1 The hospital provides education that supports patient and family participation in care decisions and
+care processes.
+PFE.2 Each patient’s educational needs are assessed and recorded in his or her medical record.
+PFE.2.1 The patient’s and family’s ability to learn and willingness to learn are assessed.
+PFE.3 Education methods take into account the patient’s and family’s values and preferences and allow
+sufficient interaction among the patient, family, and staff for learning to occur.
+PFE.4 Health care practitioners caring for the patient collaborate to provide education.
+21
+
+--- Page 22 ---
+Section III:
+Health Care Organization
+Management Standards
+sdradnatS
+tnemeganaM
+noitazinagrO
+eraC
+htlaeH
+:III
+noitceS
+
+--- Page 23 ---
+Quality Improvement
+and Patient Safety
+(QPS)
+Standards
+Management of Quality and Patient Safety Activities
+QPS.1 A qualified individual guides the implementation of the hospital’s program for quality improvement
+and patient safety and manages the activities needed to carry out an effective program of continuous
+quality improvement and patient safety within the hospital. 𝖯
+Measure Selection and Data Collection
+QPS.2 Quality and patient safety program staff support the measure selection process throughout the
+hospital and provide coordination and integration of measurement activities throughout the
+hospital.
+QPS.3 The quality and patient safety program uses current scientific and other information to support
+patient care, health professional education, clinical research, and management.
+Analysis and Validation of Measurement Data
+QPS.4 The quality and patient safety program includes the aggregation and analysis of data to support
+patient care, hospital management, and the quality management program and participation in
+external databases.
+QPS.4.1 Individuals with appropriate experience, knowledge, and skills systematically aggregate
+and analyze data in the hospital.
+QPS.5 The data analysis process includes at least one determination per year of the impact of hospitalwide
+priority improvements on cost and efficiency.
+QPS.6 The hospital uses an internal process to validate data. 𝖯
+QPS.7 The hospital uses a defined process for identifying and managing sentinel events. 𝖯
+QPS.8 Data are always analyzed when undesirable trends and variation are evident from the data. 𝖯
+QPS.9 The organization uses a defined process for the identification and analysis of near-miss events.
+Gaining and Sustaining Improvement
+QPS.10 Improvement in quality and safety is achieved and sustained.
+QPS.11 An ongoing program of risk management is used to identify and to proactively reduce unanticipated
+adverse events and other safety risks to patients and staff. 𝖯
+23
+
+--- Page 24 ---
+Prevention and Control
+of Infections (PCI)
+Standards
+Responsibilities
+PCI.1 One or more individuals oversee all infection prevention and control activities. This individual(s) is
+qualified in infection prevention and control practices through education, training, experience, or
+certification.
+PCI.2 There is a designated coordination mechanism for all infection prevention and control activities that
+involves physicians, nurses, and others based on the size and complexity of the hospital.
+Resources
+PCI.3 The infection prevention and control program is based on current scientific knowledge, accepted
+practice guidelines, applicable laws and regulations, and standards for sanitation and cleanliness.
+PCI.4 Hospital leadership provides resources to support the infection prevention and control program.
+Goals of the Infection Control Program
+PCI.5 The hospital designs and implements a comprehensive infection control program that identifies the
+procedures and processes associated with the risk of infection and implements strategies to reduce
+infection risk. 𝖯
+PCI.6 The hospital uses a risk-based approach in establishing the focus of the health care–associated
+infection prevention and reduction program. 𝖯
+PCI.6.1 The hospital tracks infection risks, infection rates, and trends in health care–associated
+infections to reduce the risks of those infections.
+Medical Equipment, Devices, and Supplies
+PCI.7 The hospital reduces the risk of infections associated with medical/surgical equipment, devices, and
+supplies by ensuring adequate cleaning, disinfection, sterilization, and storage; and implements a
+process for managing expired supplies. 𝖯
+PCI.7.1 The hospital identifies and implements a process for managing the reuse of single-use
+devices consistent with regional and local laws and regulations. 𝖯
+Infectious Waste
+PCI.7.2 The hospital reduces the risk of infections through proper disposal of waste.
+PCI.7.3 The hospital implements practices for safe handling and disposal of sharps and
+needles. 𝖯
+24
+
+--- Page 25 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+Food Services
+PCI.7.4 The hospital reduces the risk of infections associated with the operations of food
+services.
+Construction Risks
+PCI.7.5 The hospital reduces the risk of infection in the facility associated with mechanical and
+engineering controls and during demolition, construction, and renovation.
+Transmission of Infections
+PCI.8 The hospital provides barrier precautions and isolation procedures that protect patients, visitors,
+and staff from communicable diseases and protects immunosuppressed patients from acquiring
+infections to which they are uniquely prone. 𝖯
+PCI.8.1 The hospital develops and implements a process to manage a sudden influx of patients
+with airborne infections and when negative-pressure rooms are not available. 𝖯
+PCI.8.2 The hospital develops, implements, and tests an emergency preparedness program to
+respond to the presentation of global communicable diseases. 𝖯
+PCI.9 Gloves, masks, eye protection, other protective equipment, soap, and disinfectants are available and
+used correctly when required. 𝖯
+Quality Improvement and Program Education
+PCI.10 The infection prevention and control process is integrated with the hospital’s overall program for
+quality improvement and patient safety, using measures that are epidemiologically important to the
+hospital.
+PCI.11 The hospital provides education on infection prevention and control practices to staff, physicians,
+patients, families, and other caregivers when indicated by their involvement in care. 𝖯
+25
+
+--- Page 26 ---
+Governance,
+Leadership, and
+Direction (GLD)
+Standards
+Governance of the Hospital
+GLD.1 The structure and authority of the hospital’s governing entity are described in bylaws, policies and
+procedures, or similar documents. 𝖯
+GLD.1.1 The operational responsibilities and accountabilities of the governing entity are
+described in a written document(s). 𝖯
+GLD.1.2 The governing entity approves the hospital’s program for quality and patient safety and
+regularly receives and acts on reports of the quality and patient safety program. 𝖯
+Chief Executive(s) Accountabilities
+GLD.2 A chief executive(s) is responsible for operating the hospital and complying with applicable laws and
+regulations. 𝖯
+Hospital Leadership Accountabilities
+GLD.3 Hospital leadership is identified and is collectively responsible for defining the hospital’s mission
+and creating the programs and policies needed to fulfill the mission.
+GLD.3.1 Hospital leadership identifies and plans for the type of clinical services required to
+meet the needs of the patients served by the hospital. 𝖯
+GLD.3.2 Hospital leadership ensures effective communication throughout the hospital. 𝖯
+GLD.3.3 Hospital leadership ensures that there are uniform programs for the recruitment,
+retention, development, and continuing education of all staff.
+Hospital Leadership for Quality and Patient Safety
+GLD.4 Hospital leadership plans, develops, and implements a quality improvement and patient safety
+program.
+GLD.4.1 Hospital leadership communicates quality improvement and patient safety
+information to the governing entity and hospital staff on a regular basis.
+GLD.5 The chief executive and hospital leadership prioritize which hospitalwide processes will be measured,
+which hospitalwide improvement and patient safety activities will be implemented, and how success
+of these hospitalwide efforts will be measured.
+Hospital Leadership for Contracts
+GLD.6 Hospital leadership is accountable for the review, selection, and monitoring of clinical or
+nonclinical contracts. 𝖯
+26
+
+--- Page 27 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+GLD.6.1 Hospital leadership ensures that contracts and other arrangements are included as part
+of the hospital’s quality improvement and patient safety program.
+GLD.6.2 Hospital leadership ensures that independent practitioners not employed by the
+hospital have the right credentials and are privileged for the services provided to the
+hospital’s patients. 𝖯
+Hospital Leadership for Resource Decisions
+GLD.7 Hospital leadership makes decisions related to the purchase or use of resources—human and
+technical—with an understanding of the quality and safety implications of those decisions.
+GLD.7.1 Hospital leadership seeks and uses data and information on the safety of the supply
+chain to protect patients and staff from unstable, contaminated, defective, and
+counterfeit supplies.
+Clinical Staff Organization and Accountabilities
+GLD.8 Medical, nursing, and other leaders of departments and clinical services plan and implement a
+professional staff structure to support their responsibilities and authority. 𝖯
+Direction of Hospital Departments and Services
+GLD.9 One or more qualified individuals provide direction for each department or service in the hospital.
+𝖯
+GLD.10 Each department/service leader identifies, in writing, the services to be provided by the department,
+and integrates or coordinates those services with the services of other departments. 𝖯
+GLD.11 Department/service leaders improve quality and patient safety by participating in hospitalwide
+improvement priorities and in monitoring and improving patient care specific to the department/
+service.
+GLD.11.1 Measures selected by the department/service leaders that are applicable to evaluating
+the performance of physicians, nurses, and other professional staff participating in the
+clinical care processes, are used in the staff’s performance evaluation.
+GLD.11.2 Department/service leaders select and implement clinical practice guidelines, and
+related clinical pathways, and/or clinical protocols, to guide clinical care. 𝖯
+Organizational and Clinical Ethics
+GLD.12 Hospital leadership establishes a framework for ethical management that promotes a culture of
+ethical practices and decision making to ensure that patient care is provided within business,
+financial, ethical, and legal norms and protects patients and their rights. 𝖯
+GLD.12.1 The hospital’s framework for ethical management addresses operational and business
+issues, including marketing, admissions, transfer, discharge, and disclosure of
+ownership and any business and professional conflicts that may not be in patients’ best
+interests. 𝖯
+GLD.12.2 The hospital’s framework for ethical management addresses ethical issues and decision
+making in clinical care. 𝖯
+GLD.13 Hospital leadership creates and supports a culture of safety program throughout the hospital. 𝖯
+GLD.13.1 Hospital leadership implements, monitors, and takes action to improve the program
+for a culture of safety throughout the hospital.
+27
+
+--- Page 28 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+Health Professional Education
+GLD.14 Health professional education, when provided within the hospital, is guided by the educational
+parameters defined by the sponsoring academic program and the hospital’s leadership.
+Human Subjects Research
+GLD.15 Human subjects research, when provided within the hospital, is guided by laws, regulations, and
+hospital leadership. 𝖯
+GLD.16 Patients and families are informed about how to gain access to clinical research, clinical
+investigations, or clinical trials involving human subjects. 𝖯
+GLD.17 Patients and families are informed about how patients who choose to participate in clinical research,
+clinical investigations, or clinical trials are protected.
+GLD.18 Informed consent is obtained before a patient participates in clinical research, clinical investigations,
+or clinical trials. 𝖯
+GLD.19 The hospital has a committee or another way to oversee all research in the hospital involving human
+subjects. 𝖯
+28
+
+--- Page 29 ---
+Facility Management
+and Safety (FMS)
+Standards
+Leadership and Planning
+FMS.1 The hospital complies with relevant laws, regulations, building and fire safety codes and facility
+inspection requirements.
+FMS.2 The hospital develops and maintains a written program(s) describing the processes to manage risks
+to patients, families, visitors, and staff. 𝖯
+FMS.3 One or more qualified individuals oversee the planning and implementation of the facility
+management program to reduce and control risks in the care environment.
+Safety and Security
+FMS.4 The hospital plans and implements a program to provide a safe physical facility through inspection
+and planning to reduce risks. 𝖯
+FMS.4.1 The hospital plans and implements a program to provide a secure environment for
+patients, families, staff, and visitors. 𝖯
+FMS.4.2 The hospital plans and budgets for upgrading or replacing key systems, buildings, or
+components based on the facility inspection and in keeping with laws and regulations.
+FMS.4.2.1 When planning for demolition, construction, or renovation, the
+organizations conducts a pre-construction risk assessment. 𝖯
+Hazardous Materials
+FMS.5 The hospital has a program for the inventory, handling, storage, and use of hazardous materials and
+waste. 𝖯
+FMS.5.1 The hospital has a program for the control and disposal of hazardous materials and
+waste. 𝖯
+Disaster Preparedness
+FMS.6 The hospital develops, maintains, and tests an emergency management program to respond
+to emergencies and natural or other disasters that have the potential of occurring within the
+community. 𝖯
+Fire Safety
+FMS.7 The hospital establishes and implements a program for the prevention, early detection, suppression,
+abatement, and safe exit from the facility in response to fires and nonfire emergencies. 𝖯
+FMS.7.1 The hospital regularly tests its fire and smoke safety program, including any devices
+related to early detection and suppression, and documents the results. 𝖯
+29
+
+--- Page 30 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+FMS.7.2 The fire safety program includes limiting smoking by staff and patients to designated
+non–patient care areas of the facility. 𝖯
+Medical Equipment
+FMS.8 The hospital establishes and implements a program for inspecting, testing, and maintaining medical
+equipment and documenting the results. 𝖯
+FMS.8.1 The hospital has a system in place for monitoring and acting on medical equipment
+hazard notices, recalls, reportable incidents, problems, and failures. 𝖯
+Utility Systems
+FMS.9 The hospital establishes and implements a program to ensure that all utility systems operate
+effectively and efficiently.
+FMS.9.1 Utility systems are inspected, maintained, and improved.
+FMS.9.2 The hospital utility systems program ensures that potable water and electrical power
+are available at all times and establishes and implements alternative sources of water
+and power during system disruption, contamination, or failure.
+FMS.9.2.1 The hospital tests its emergency water and electrical systems and
+documents the results.
+FMS.9.3 Designated individuals or authorities monitor water quality regularly.
+Facility Management and Safety Program Monitoring
+FMS.10 The hospital collects and analyzes data from each of the facility management and safety programs
+to support planning for replacing or upgrading medical equipment, technology and systems, and
+reducing risks in the environment.
+Staff Education
+FMS.11 The hospital educates, trains, and tests all staff about their roles in providing a safe and effective
+patient care facility.
+FMS.11.1 Staff members are trained and knowledgeable about their roles in the hospital’s
+programs for fire safety, security, hazardous materials, and emergencies.
+FMS.11.2 Staff are trained to operate and to maintain medical equipment and utility systems.
+30
+
+--- Page 31 ---
+Staff Qualifications
+and Education (SQE)
+Standards
+Planning
+SQE.1 Leaders of hospital departments and services define the desired education, skills, knowledge, and
+other requirements of all staff members.
+SQE.1.1 Each staff member’s responsibilities are defined in a current job description. 𝖯
+SQE.2 Leaders of hospital departments and services develop and implement processes for recruiting,
+evaluating, and appointing staff as well as other related procedures identified by the hospital.
+SQE.3 The hospital uses a defined process to ensure that clinical staff knowledge and skills are consistent
+with patient needs.
+SQE.4 The hospital uses a defined process to ensure that nonclinical staff knowledge and skills are
+consistent with hospital needs and the requirements of the position.
+SQE.5 There is documented personnel information for each staff member. 𝖯
+SQE.6 A staffing strategy for the hospital, developed by the leaders of hospital departments and services,
+identifies the number, types, and desired qualifications of staff. 𝖯
+SQE.6.1 The staffing strategy is reviewed on an ongoing basis and updated as necessary.
+SQE.7 All clinical and nonclinical staff members are oriented to the hospital, the department or unit to
+which they are assigned, and to their specific job responsibilities at appointment to the staff.
+SQE.8 Each staff member receives ongoing in-service and other education and training to maintain or to
+advance his or her skills and knowledge.
+SQE.8.1 Staff members who provide patient care and other staff identified by the hospital are
+trained and can demonstrate appropriate competence in resuscitative techniques.
+SQE.8.2 The hospital provides a staff health and safety program that addresses staff physical and
+mental health and safe working conditions. 𝖯
+SQE.8.2.1 The hospital identifies staff who are at risk for exposure to and possible
+transmission of vaccine-preventable diseases and implements a staff
+vaccination and immunization program. 𝖯
+Determining Medical Staff Membership
+SQE.9 The hospital has a uniform process for gathering the credentials of those medical staff members
+permitted to provide patient care without supervision. 𝖯
+SQE.9.1 Medical staff members’ education, licensure/registration, and other credentials
+required by law or regulation and the hospital are verified and kept current. 𝖯
+31
+
+--- Page 32 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+SQE.9.2 There is a uniform, transparent decision process for the initial appointment of medical
+staff members. 𝖯
+The Assignment of Medical Staff Clinical Privileges
+SQE.10 The hospital has a standardized, objective, evidence-based procedure to authorize medical staff
+members to admit and to treat patients and/or to provide other clinical services consistent with
+their qualifications. 𝖯
+Ongoing Monitoring and Evaluation of Medical Staff Members
+SQE.11 The hospital uses an ongoing standardized process to evaluate the quality and safety of the patient
+care provided by each medical staff member. 𝖯
+Medical Staff Reappointment and Renewal of Clinical Privileges
+SQE.12 At least every three years, the hospital determines, from the ongoing monitoring and evaluation of
+each medical staff member, if medical staff membership and clinical privileges are to continue with
+or without modification. 𝖯
+Nursing Staff
+SQE.13 The hospital has a uniform process to gather, to verify, and to evaluate the nursing staff’s credentials
+(license, education, training, and experience). 𝖯
+SQE.14 The hospital has a standardized process to identify job responsibilities and to make clinical work
+assignments based on the nursing staff member’s credentials and any regulatory requirements.
+SQE.14.1 The hospital has a standardized process for nursing staff participation in the hospital’s
+quality improvement activities, including evaluating individual performance when
+indicated.
+Other Health Care Practitioners
+SQE.15 The hospital has a uniform process to gather, to verify, and to evaluate other health care
+practitioners’ credentials (license, education, training, and experience). 𝖯
+SQE.16 The hospital has a uniform process to identify job responsibilities and to make clinical work
+assignments based on other health care practitioners’ credentials and any regulatory requirements.
+SQE.16.1 The hospital has a uniform process for other health care practitioners’ participation in
+the hospital’s quality improvement activities.
+32
+
+--- Page 33 ---
+Management of
+Information (MOI)
+Standards
+Information Management
+MOI.1 The hospital plans and designs information management processes to meet internal and external
+information needs.
+MOI.2 Information privacy, confidentiality, and security—including data integrity—are maintained. 𝖯
+MOI.3 The hospital determines the retention time of records, data, and information. 𝖯
+MOI.4 The hospital uses standardized diagnosis and procedure codes and ensures the standardized use of
+approved symbols and abbreviations across the hospital.
+MOI.5 The data and information needs of those in and outside the hospital are met on a timely basis in a
+format that meets user expectations and with the desired frequency.
+MOI.6 Records and information are protected from loss, destruction, tampering, and unauthorized access
+or use. 𝖯
+MOI.7 Decision makers and other staff members are educated and trained in the principles of information
+use and management.
+Management and Implementation of Documents
+MOI.8 Written documents, including policies, procedures, and programs, are managed in a consistent and
+uniform manner. 𝖯
+MOI.8.1 The policies, procedures, plans, and other documents that guide consistent and
+uniform clinical and nonclinical processes and practices are fully implemented. 𝖯
+Medical Record
+MOI.9 The hospital initiates and maintains a standardized medical record for every patient assessed or
+treated and determines the record’s content, format, and location of entries. 𝖯
+MOI.9.1 The medical record contains sufficient information to identify the patient (also see
+IPSG.1), to support the diagnosis, to justify the treatment, and to document the
+course and results of treatment.
+MOI.10 The medical records of patients receiving emergency care include the time of arrival and departure,
+the conclusions at termination of treatment, the patient’s condition at discharge, and follow-up care
+instructions.
+MOI.11 The hospital identifies those authorized to make entries in the patient medical record. 𝖯
+33
+
+--- Page 34 ---
+Joint Commission international aCCreditation standards for Hospitals, 6tH edition
+MOI.11.1 Every patient medical record entry identifies its author and when the entry was made
+in the medical record.
+MOI.11.1.1 The hospital has a process to address the proper use of the copy-and-
+paste function when electronic medical records are used. 𝖯
+MOI.12 As part of its monitoring and performance improvement activities, the hospital regularly assesses
+patient medical record content and the completeness of patient medical records.
+Information Technology in Health Care
+MOI.13 Health information technology systems are assessed and tested prior to implementation within the
+hospital and evaluated for quality and patient safety following implementation.
+MOI.14 The hospital develops, maintains, and tests a program for response to planned and unplanned
+downtime of data systems. 𝖯
+34
+
+--- Page 35 ---
+Section IV:
+Academic Medical
+Center Hospital
+Standards
+
+--- Page 36 ---
+Medical Professional
+Education (MPE)
+Standards
+MPE.1 The hospital’s governing body and leadership of the hospital approve and monitor the participation
+of the hospital in providing medical education.
+MPE.2 The hospital’s clinical staff, patient population, technology, and facility are consistent with the goals
+and objectives of the education program.
+MPE.3 Clinical teaching staff are identified, and each staff member’s role and relationship to the academic
+institution is defined.
+MPE.4 The hospital understands and provides the required frequency and intensity of medical supervision
+for each type and level of medical student and trainee. 𝖯
+MPE.5 Medical education provided in the hospital is coordinated and managed through a defined
+operational mechanism and management structure.
+MPE.6 Medical students and trainees comply with all hospital policies and procedures, and all care is
+provided within the quality and patient safety parameters of the hospital. 𝖯
+MPE.7 Medical trainees who provide care or services within the hospital—outside of the parameters of
+their academic program—are granted permission to provide those services through the hospital’s
+established credentialing, privileging, job specification, or other relevant processes.
+36
+
+--- Page 37 ---
+Human Subjects
+Research Programs
+(HRP)
+Standards
+HRP.1 Hospital leadership is accountable for the protection of human research subjects.
+HRP.1.1 Hospital leadership complies with all regulatory and professional requirements and
+provides adequate resources for effective operation of the research program.
+HRP.2 Hospital leadership establishes the scope of the research program.
+HRP.3 Hospital leadership establishes requirements for sponsors of research to ensure their commitment to
+the conduct of ethical research. 𝖯
+HRP.3.1 When one or more of the research-related duties and functions of the sponsor are
+provided through an outside commercial or academic contract research organization,
+the accountabilities of the outside contract research organization are clearly defined. 𝖯
+HRP.4 Hospital leadership creates or contracts for a process to provide the initial and ongoing review of all
+human subjects research. 𝖯
+HRP.5 The hospital identifies and manages conflicts of interest with research conducted at the hospital. 𝖯
+HRP.6 The hospital integrates the human subjects research program into the quality and patient safety
+program of the hospital.
+HRP.7 The hospital establishes and implements an informed consent process that enables patients to make
+informed and voluntary decisions about participating in clinical research, clinical investigations, or
+clinical trials.
+HRP.7.1 The hospital informs patients and families about how to gain access to clinical
+research, clinical investigations, or clinical trials and includes protections for
+vulnerable populations to minimize potential coercion or undue influence. 𝖯
+37

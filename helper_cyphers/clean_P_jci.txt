@@ -1,0 +1,28 @@
+// STEP 1: Preview (should show ~35 JCI clauses)
+MATCH (c:Clause)
+WHERE c.framework = 'JCI' 
+  AND c.text CONTAINS '𝖯 '
+RETURN c.id, 
+       c.code,
+       c.text AS before,
+       trim(split(c.text, '𝖯 ')[0]) AS after
+LIMIT 10;
+
+// STEP 2: Count
+MATCH (c:Clause)
+WHERE c.framework = 'JCI' 
+  AND c.text CONTAINS '𝖯 '
+RETURN count(c) AS total;
+
+// STEP 3: Clean (if preview looks good)
+MATCH (c:Clause)
+WHERE c.framework = 'JCI' 
+  AND c.text CONTAINS '𝖯 '
+SET c.text = trim(split(c.text, '𝖯 ')[0])
+RETURN count(c) AS cleaned;
+
+// STEP 4: Verify
+MATCH (c:Clause)
+WHERE c.framework = 'JCI' 
+  AND c.text CONTAINS '𝖯'
+RETURN count(c) AS should_be_zero;
