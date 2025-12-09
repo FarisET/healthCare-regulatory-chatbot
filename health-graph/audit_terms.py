@@ -6,8 +6,15 @@
 HIGH_VALUE_TERMS = [
     #True Positives
     {"label": "AUDIT_TERM", "pattern": "patient education"},
-    {"label": "AUDIT_TERM", "pattern": "senior-casualty-department-assistant"},
-        {"label": "AUDIT_TERM", "pattern": "patient transfer"},
+    {"label": "AUDIT_TERM", "pattern": "senior casualty department assistant"},
+    {"label": "AUDIT_TERM", "pattern": "patient transfer"},
+        # Specific terms from your TPs
+    {"label": "AUDIT_TERM", "pattern": "same sex"},
+    {"label": "AUDIT_TERM", "pattern": "tetanus toxoid"},
+    {"label": "AUDIT_TERM", "pattern": "walking aids"},
+    {"label": "AUDIT_TERM", "pattern": "necessary resource"},
+    {"label": "AUDIT_TERM", "pattern": "casualty department"},
+    {"label": "AUDIT_TERM", "pattern": "drug issuance"},
 
     # ========================================
     # SECTION HEADINGS & MAJOR CATEGORIES

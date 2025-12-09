@@ -1,0 +1,11 @@
+#return clause via code
+MATCH (c:Clause {code: "6.3.5"})
+OPTIONAL MATCH (c)-[r]-(n)
+RETURN c, r, n;
+
+
+# 2 clauses with same findings
+        MATCH (f:AuditFinding {id: 'NC #16'})
+        MATCH (ci:ClauseInstance)-[:HAS_FINDING]->(f)
+        MATCH (ci)-[:INSTANCE_OF]->(c:Clause)
+        RETURN f.text, c.code, c.framework

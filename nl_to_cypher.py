@@ -57,11 +57,11 @@ class NLToCypherQuery:
         self.schema = """
         Nodes:
         - Clause: {code: string, text: string, framework: string, full_text: string}
-        - CONCEPT: {name: string}
+        - Concept: {name: string}
         
         Relationships:
         - (Clause)-[:SIMILAR_TO {score: float}]->(Clause)
-        - (Clause)-[:MENTIONS]->(CONCEPT)
+        - (Clause)-[:MENTIONS]->(Concept)
         
         Examples:
         - JCI clauses have codes like: IPSG.3, ACC.1, PFR.5.1
@@ -164,12 +164,11 @@ class NLToCypherQuery:
 if __name__ == "__main__":
     
     # ===== CONFIGURATION (Use your actual details) =====
-    NEO4J_URI = "neo4j://127.0.0.1:7687"
-    NEO4J_USER = "neo4j"
-    NEO4J_PASSWORD = "Faris@24470"   # <<<<<<< REPLACE
-    
+    NEO4J_URI = os.environ.get("NEO4J_URI")
+    NEO4J_USER = os.environ.get("NEO4J_USER")
+    NEO4J_PASSWORD = os.environ.get("NEO4J_PASSWORD")
+    GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
     # Use GEMINI_API_KEY
-    GOOGLE_API_KEY = "AIzaSyDuD3NYquSHLuBU0WF2pQTJJtmha4TyYZs"  # <<<<<<< REPLACE
     
     # --- Check and Test LLM ---
     # if GOOGLE_API_KEY == "your_gemini_api_key":

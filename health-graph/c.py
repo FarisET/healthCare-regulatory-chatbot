@@ -6,14 +6,13 @@ from neo4j import GraphDatabase
 from collections import defaultdict
 from math import log
 import audit_terms
-
 load_dotenv()
 
 # ============================================
 # CONFIGURATION
 # ============================================
 
-# STRICT CONFIG (tune if needed)
+# STRICT CONFIG
 MAX_TOKENS = 6
 MAX_CHARS = 60
 MIN_CHARS = 3
@@ -31,7 +30,15 @@ EXCLUDE_WORDS = {
     "evidence","individual","decision","response","condition",
     "responsibility","accordance","experience","access",
     "management","education","training","charge","compliance",
-    "skill","resource","process", "health care"
+    "skill","resource","process"
+}
+
+# NEW: Strict filter for problematic single nouns
+EXCLUDE_SINGLE_NOUNS = {
+    "minute", "arrival", "sex", "extent", "site", "order", 
+    "aids", "number", "attendance", "visit", "visits",
+    "date", "name", "age", "address", "telephone", "occupation",
+    "school", "history", "finding", "detail", "record"
 }
 
 STOP_POS = {"VERB", "AUX", "ADV", "DET", "ADP"}
@@ -44,6 +51,11 @@ MIN_IDF = 0.5
 MIN_TOKEN_COUNT_FOR_KEEP = 2
 
 # ============================================
+# HIGH-VALUE AUDIT TERMS
+# ============================================
+
+
+# ============================================
 # SPACY PIPELINE WITH ENTITYRULER
 # ============================================
 
@@ -51,7 +63,6 @@ def get_nlp_pipeline():
     """Sets up the spaCy pipeline including the EntityRuler."""
     nlp = spacy.load("en_core_web_md")
     
-    # Add EntityRuler before NER for high-priority matching
     if 'entity_ruler' not in nlp.pipe_names:
         ruler = nlp.add_pipe("entity_ruler", before="ner")
         ruler.add_patterns(audit_terms.HIGH_VALUE_TERMS)
@@ -62,49 +73,64 @@ def get_nlp_pipeline():
 nlp = get_nlp_pipeline()
 
 # ============================================
-# CONCEPT EXTRACTION (ENHANCED)
+# DEFINITION PATTERN EXTRACTION
 # ============================================
+
 def extract_concept_and_description(clause_text):
     """
-    Looks for the pattern: [Concept phrase] + [includes/is/etc]: + [Description/List]
-    If found, returns the primary concept and the description, preventing list items from becoming FPs.
+    Detects definition patterns like "Clinical review includes: X, Y, Z"
+    Returns the primary concept and prevents list items from becoming FPs.
     """
-    # Pattern: (Concept phrase ending in Noun/Verb) + (Cue Phrase) + (Colon/Semicolon) + (Remaining Text)
-    # The (?:...) creates a non-capturing group for the cue phrase.
-    pattern = r"^(.*?)(?:includes|is defined as|are defined as|must include|refer to|covers|consists of|are|is|such as|for example|eg|e\.g\.)\s*[:;](.+)$"
     
-    # Use re.DOTALL to match across newlines in case the list is multi-line
+    # Pattern: Concept phrase + cue word + colon/semicolon + description
+    pattern = r"^(.*?)(?:\s+includes?|\s+is defined as|\s+are defined as|\s+must include|\s+refers? to|\s+covers?|\s+consists? of|\s+are|\s+is|\s+such as|for example|e\.?g\.?)\s*[:;]\s*(.+)$"
+    
     match = re.search(pattern, clause_text, re.DOTALL | re.IGNORECASE)
     
     if match:
-        # Group 1: The concept phrase (e.g., "Data available for clinical review")
         primary_phrase = match.group(1).strip()
-        # Group 2: The descriptive list/enumeration
         description_list = match.group(2).strip()
         
-        # 2. Validate the Primary Phrase (Ensures we didn't capture the entire sentence)
+        # Validate: phrase should be 2+ words and end with noun/adjective
         doc = nlp(primary_phrase)
         
-        # Check if the phrase is reasonably short and ends with a noun/adjective
-        if len(doc) > 2 and doc[-1].pos_ in ["NOUN", "PROPN", "ADJ"]:
+        if len(doc) >= 2 and doc[-1].pos_ in ["NOUN", "PROPN", "ADJ"]:
+            # Clean description
+            description_list = re.sub(r'(\s*[-•*]|\d+\.)\s*', ' ', description_list)
+            description_list = re.sub(r'\s{2,}', ' ', description_list).strip()
             
-            # Simple cleanup of the description list
-            description_list = re.sub(r'(\s*\-|\d+\.|\*)\s*', ' ', description_list).strip()
-            description_list = re.sub(r'\s{2,}', ' ', description_list) # Normalize whitespace
+            # Extract canonical form of primary concept
+            lemmas = []
+            for tok in doc:
+                if tok.is_stop or tok.is_punct:
+                    continue
+                if tok.text.isupper():
+                    lemmas.append(tok.text)
+                else:
+                    lemmas.append(tok.lemma_.lower())
             
-            return {
-                "primary_concept": primary_phrase,
-                "description": description_list
-            }
-            
+            if lemmas:
+                canonical = "-".join(lemmas)
+                return {
+                    "primary_concept": canonical,
+                    "label": primary_phrase,
+                    "description": description_list
+                }
+    
     return None
+
+# ============================================
+# CONCEPT EXTRACTION (ENHANCED)
+# ============================================
 
 def extract_domain_concepts(text):
     """
-    High-precision concept extraction using:
-    1. EntityRuler for known high-value audit terms
-    2. Dependency parsing for discovering new terms
-    Returns list of dicts: [{name: canonical, label: human_readable}]
+    High-precision concept extraction with:
+    1. Definition pattern detection (highest priority)
+    2. EntityRuler for known audit terms
+    3. Dependency parsing for new terms
+    4. Strict single-word filtering
+    5. Substring deduplication
     """
     
     # -------------------------------------------------------
@@ -113,31 +139,24 @@ def extract_domain_concepts(text):
     definition_match = extract_concept_and_description(text)
     
     if definition_match:
-        # If definition found, ONLY return the primary concept and its description
-        # This fixes FP: ["number","attendance","repeate-visits"] from the list.
-        return [
-            {
-                "name": definition_match["primary_concept"], 
-                "label": definition_match["primary_concept"],
-                "description": definition_match["description"] 
-            }
-        ]
-        
+        # Only return the primary concept with its description
+        return [definition_match]
+    
+    # --- If no definition pattern, proceed with standard extraction ---
+    
     doc = nlp(text)
     raw_candidates = set()
     high_priority_candidates = set()
 
     # -------------------------------------------------------
-    # 1) ENTITY RULER (HIGH PRECISION BOOSTER) - NEW!
+    # 1) ENTITY RULER (HIGH PRECISION BOOSTER)
     # -------------------------------------------------------
     for ent in doc.ents:
         if ent.label_ == "AUDIT_TERM":
-            # High-priority terms from our dictionary
             phrase = ent.text.strip().lower()
             high_priority_candidates.add(phrase)
             raw_candidates.add(phrase)
         elif ent.label_ in ["PRODUCT", "ORG", "GPE", "FACILITY"]:
-            # Also capture standard NER entities that might be relevant
             phrase = ent.text.strip().lower()
             raw_candidates.add(phrase)
 
@@ -147,18 +166,16 @@ def extract_domain_concepts(text):
     for chunk in doc.noun_chunks:
         phrase = chunk.text.strip().lower()
 
-        # Skip trivial chunks or long multi-clauses
         if any(tok.pos_ in STOP_POS for tok in chunk):
             continue
 
-        # Skip if root is generic
         if chunk.root.text.lower() in EXCLUDE_WORDS:
             continue
 
         raw_candidates.add(phrase)
 
     # -------------------------------------------------------
-    # 3) COMPOUND NOUNS (e.g., high-alert medication)
+    # 3) COMPOUND NOUNS
     # -------------------------------------------------------
     for token in doc:
         if token.pos_ == "NOUN" and token.text.lower() not in EXCLUDE_WORDS:
@@ -171,7 +188,7 @@ def extract_domain_concepts(text):
                 raw_candidates.add(phrase)
 
     # -------------------------------------------------------
-    # 4) LIST SPLITTING (e.g., oral airways / iv cannula / oxygen)
+    # 4) LIST SPLITTING
     # -------------------------------------------------------
     split_candidates = set()
     for c in raw_candidates:
@@ -179,7 +196,6 @@ def extract_domain_concepts(text):
         for p in parts:
             p = p.strip()
             if p:
-                # Preserve high-priority status through splits
                 if c in high_priority_candidates:
                     high_priority_candidates.add(p)
                 split_candidates.add(p)
@@ -189,15 +205,12 @@ def extract_domain_concepts(text):
     # 5) CLEANUP AND VALIDATION
     # -------------------------------------------------------
     cleaned = set()
-    EXCLUDE_SINGLE_NOUNS = {"minute", "arrival", "sex", "extent", "site", "order", "aids"}
 
     for c in raw_candidates:
         c = c.strip().lower()
 
-        # Remove punctuation around edges
+        # Remove punctuation
         c = re.sub(r"^[\W_]+|[\W_]+$", "", c)
-
-        # Remove duplicate whitespace
         c = re.sub(r"\s+", " ", c)
 
         # Remove leading determiners
@@ -209,33 +222,31 @@ def extract_domain_concepts(text):
             else:
                 break
 
-        # Remove trailing noise tokens
+        # Remove trailing noise
         parts = c.split()
         while parts and parts[-1] in EXCLUDE_WORDS:
             parts.pop()
         c = " ".join(parts)
 
-        # Remove empty or very short fragments
         if not c or len(c) < MIN_CHARS:
             continue
 
-        # HIGH PRIORITY: Skip validation for EntityRuler matches
+        # **NEW: STRICT SINGLE-WORD FILTER**
+        tokens = c.split()
+        if len(tokens) == 1 and c in EXCLUDE_SINGLE_NOUNS:
+            continue
+
+        # HIGH PRIORITY: Skip validation
         if c in high_priority_candidates:
             cleaned.add(c)
             continue
 
-        # Reject if contains verb/determiner/etc.
+        # Validation for normal priority
         doc2 = nlp(c)
         if any(tok.pos_ in STOP_POS for tok in doc2):
             continue
-        
-        # **NEW/MODIFIED STRICTURE SINGLE-WORD FILTER**
-        # Target: Filters out simple words like 'minute', 'sex', 'arrival' UNLESS they are compounds (e.g., 'same sex')
-        if len(c.split()) == 1 and c in EXCLUDE_SINGLE_NOUNS:
-            continue
 
         # Token length enforcement
-        tokens = c.split()
         if len(tokens) > MAX_TOKENS:
             tokens = tokens[-MAX_TOKENS:]
             c = " ".join(tokens)
@@ -246,28 +257,26 @@ def extract_domain_concepts(text):
         cleaned.add(c)
 
     # -------------------------------------------------------
-    # 6) CANONICALIZATION (PRESERVE WORD ORDER - FIXED!)
+    # 6) CANONICALIZATION
     # -------------------------------------------------------
     final_concepts = {}
-    concept_priorities = {}  # Track which concepts are high-priority
+    concept_priorities = {}
     
     for label in cleaned:
         doc3 = nlp(label)
-
-        # Check if this was a high-priority EntityRuler match
         is_high_priority = label in high_priority_candidates
 
-        # Lemmatize while preserving order
+        # Lemmatize
         lemmas = []
         for tok in doc3:
             if tok.is_stop or tok.is_punct:
                 continue
             if tok.text.isupper():
-                lemmas.append(tok.text)  # Preserve acronyms
+                lemmas.append(tok.text)
             else:
                 lemmas.append(tok.lemma_.lower())
 
-        # Remove duplicates while preserving order
+        # Deduplicate while preserving order
         seen = set()
         dedup = []
         for l in lemmas:
@@ -278,16 +287,13 @@ def extract_domain_concepts(text):
         if not dedup:
             continue
 
-        # PRESERVE WORD ORDER - Don't sort!
         canonical = "-".join(dedup)
 
-        # Keep shortest label for display, but prioritize high-priority terms
+        # Prioritize high-priority terms
         if canonical not in final_concepts:
             final_concepts[canonical] = label
             concept_priorities[canonical] = is_high_priority
         else:
-            # Replace if this is high-priority and existing isn't
-            # OR if both same priority and this label is shorter
             existing_priority = concept_priorities.get(canonical, False)
             if is_high_priority and not existing_priority:
                 final_concepts[canonical] = label
@@ -296,9 +302,8 @@ def extract_domain_concepts(text):
                 final_concepts[canonical] = label
 
     # -------------------------------------------------------
-    # 7) REMOVE SUBSTRING DUPLICATES (NEW!)
+    # 7) REMOVE SUBSTRING DUPLICATES
     # -------------------------------------------------------
-    # Sort by token count (descending) to process longer terms first
     sorted_concepts = sorted(
         final_concepts.items(), 
         key=lambda x: len(x[0].split('-')), 
@@ -310,58 +315,53 @@ def extract_domain_concepts(text):
     
     for canonical, label in sorted_concepts:
         tokens = set(canonical.split('-'))
-        
-        # Check if this is a high-priority term
         is_priority = concept_priorities.get(canonical, False)
         
-        # For high-priority terms, always keep them and mark tokens as seen
+        # Always keep high-priority
         if is_priority:
             filtered_concepts[canonical] = label
             seen_tokens.update(tokens)
             continue
         
-        # For non-priority terms, check if it's a subset of an existing concept
-        # Skip if ALL tokens are already seen (it's likely a substring)
+        # Skip if ALL tokens seen and < 3 tokens (likely substring)
         if tokens.issubset(seen_tokens) and len(tokens) < 3:
-            # It's a 1-2 token phrase that's fully contained in a larger term
             continue
         
-        # Keep this concept
         filtered_concepts[canonical] = label
         seen_tokens.update(tokens)
 
     # -------------------------------------------------------
-    # 8) HANDLE HYPHENATION VARIATIONS (OPTIONAL)
+    # 8) HANDLE HYPHENATION VARIATIONS
     # -------------------------------------------------------
-    # Merge variations like "health-care" and "healthcare"
     hyphen_normalized = {}
     for canonical, label in filtered_concepts.items():
-        # Create a normalized key without hyphens for comparison
         normalized_key = canonical.replace('-', '')
         
         if normalized_key not in hyphen_normalized:
             hyphen_normalized[normalized_key] = (canonical, label)
         else:
-            # Keep the version that was high-priority
             existing_canonical, existing_label = hyphen_normalized[normalized_key]
             existing_priority = concept_priorities.get(existing_canonical, False)
             current_priority = concept_priorities.get(canonical, False)
             
             if current_priority and not existing_priority:
                 hyphen_normalized[normalized_key] = (canonical, label)
-            elif current_priority == existing_priority:
-                # Keep shorter version
-                if len(label) < len(existing_label):
-                    hyphen_normalized[normalized_key] = (canonical, label)
+            elif current_priority == existing_priority and len(label) < len(existing_label):
+                hyphen_normalized[normalized_key] = (canonical, label)
     
-    # Final filtered list
     final_filtered = {canon: lbl for canon, lbl in hyphen_normalized.values()}
     
-    return [{"name": canon, "label": lbl, "description": None} for canon, lbl in final_filtered.items()]
-
+    return [
+        {
+            "name": canon, 
+            "label": lbl,
+            "description": None
+        } 
+        for canon, lbl in final_filtered.items()
+    ]
 
 # ============================================
-# GRAPH BUILDER (Neo4j) - UNCHANGED
+# GRAPH BUILDER (Neo4j)
 # ============================================
 
 class KnowledgeGraphUpdater:
@@ -372,24 +372,21 @@ class KnowledgeGraphUpdater:
         self.driver.close()
     
     def clear_concept_data(self):
-        """Clears existing Concept nodes and MENTIONS relationships."""
         with self.driver.session() as session:
             session.run("MATCH (c:Concept) DETACH DELETE c")
             print("Cleared existing Concept nodes and MENTIONS relationships.")
 
     def fetch_all_clauses_from_graph(self):
-        """Fetches all Clause IDs and Text from Neo4j."""
         with self.driver.session() as session:
             print("Fetching Clause data from Neo4j...")
             result = session.run("MATCH (c:Clause) RETURN c.id, c.text")
             return [dict(record) for record in result]
 
     def create_concept_nodes_and_relationships(self, clause_data):
-        """Creates Concept nodes and MENTIONS relationships with IDF filtering."""
         all_concepts_map = {}
         clause_to_concept_names = defaultdict(list)
 
-        # 1) Extraction
+        # Extract concepts
         print("Extracting concepts from clauses...")
         for clause in clause_data:
             clause_id = clause.get('c.id') or clause.get('id')
@@ -404,14 +401,16 @@ class KnowledgeGraphUpdater:
             for c in concepts:
                 name = c.get('name')
                 label = c.get('label') or name
+                description = c.get('description')
+                
                 if not name:
                     continue
                 
                 if name in all_concepts_map:
-                    if len(label) < len(all_concepts_map[name]):
-                        all_concepts_map[name] = label
+                    if len(label) < len(all_concepts_map[name]['label']):
+                        all_concepts_map[name] = {'label': label, 'description': description}
                 else:
-                    all_concepts_map[name] = label
+                    all_concepts_map[name] = {'label': label, 'description': description}
                 
                 names_for_clause.append(name)
             
@@ -419,7 +418,7 @@ class KnowledgeGraphUpdater:
 
         print(f"Total unique canonical concepts extracted: {len(all_concepts_map)}")
         
-        # 2) IDF Filtering
+        # IDF Filtering
         print("Applying IDF filtering...")
         N_clauses = len(clause_to_concept_names)
         df = {}
@@ -430,34 +429,40 @@ class KnowledgeGraphUpdater:
         filtered_concepts = {}
         filtered_out = 0
         
-        for cname, label in all_concepts_map.items():
+        for cname, info in all_concepts_map.items():
             tokens = cname.replace('-', ' ').split()
             doc_freq = df.get(cname, 0)
             idf = log((N_clauses + 1) / (doc_freq + 1))
             
-            # Filter rule: single-token + high frequency + low IDF = generic
             if len(tokens) == 1 and (doc_freq / N_clauses) > DF_RATIO_THRESHOLD and idf < MIN_IDF:
                 filtered_out += 1
                 continue
             
-            filtered_concepts[cname] = {'label': label}
+            filtered_concepts[cname] = info
 
         print(f"Filtered out {filtered_out} generic concepts")
         print(f"Keeping {len(filtered_concepts)} concepts")
 
-        # 3) Persist to Neo4j
+        # Persist to Neo4j
         with self.driver.session() as session:
             session.run("CREATE CONSTRAINT IF NOT EXISTS FOR (co:Concept) REQUIRE co.name IS UNIQUE")
 
             print("Creating Concept nodes...")
-            concept_items = [{"name": k, "label": v['label']} for k, v in filtered_concepts.items()]
+            concept_items = [
+                {
+                    "name": k, 
+                    "label": v['label'],
+                    "description": v['description']
+                } 
+                for k, v in filtered_concepts.items()
+            ]
             session.execute_write(self._create_concepts_tx, concept_items)
 
             print("Creating MENTIONS relationships...")
             mention_count = 0
             for clause_id, concept_names in clause_to_concept_names.items():
                 for cname in concept_names:
-                    if cname in filtered_concepts:  # Only create if not filtered
+                    if cname in filtered_concepts:
                         session.run("""
                             MATCH (cl:Clause {id: $clause_id})
                             MATCH (co:Concept {name: $concept_name})
@@ -469,14 +474,13 @@ class KnowledgeGraphUpdater:
 
     @staticmethod
     def _create_concepts_tx(tx, concepts):
-        """Transaction function to batch create concept nodes."""
         query = """
         UNWIND $concepts AS concept
         MERGE (c:Concept {name: concept.name})
-        SET c.label = concept.label
+        SET c.label = concept.label,
+            c.description = concept.description
         """
         tx.run(query, concepts=concepts)
-
 
 # ============================================
 # MAIN EXECUTION
@@ -491,7 +495,6 @@ if __name__ == "__main__":
     
     try:
         kg_updater.clear_concept_data()
-        
         clauses_from_graph = kg_updater.fetch_all_clauses_from_graph()
         
         if not clauses_from_graph:
@@ -500,12 +503,11 @@ if __name__ == "__main__":
             kg_updater.create_concept_nodes_and_relationships(clauses_from_graph)
             
             print("\n=== Concept Extraction Complete ===")
-            print(f"✓ EntityRuler applied with {len(audit_terms.HIGH_VALUE_TERMS)} high-value patterns")
+            print("✓ Definition pattern detection applied")
+            print("✓ EntityRuler applied with high-value patterns")
+            print("✓ Strict single-word filtering")
+            print("✓ Substring deduplication")
             print("✓ IDF filtering applied")
-            print("✓ Word order preserved in canonicalization")
-            print("\nRun this Cypher to inspect:")
-            print("MATCH (cl:Clause)-[:MENTIONS]->(co:Concept)")
-            print("RETURN cl.code, co.name, co.label LIMIT 25")
             
     except Exception as e:
         print(f"\nError: {e}")
