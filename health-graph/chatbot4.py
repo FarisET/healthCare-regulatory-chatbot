@@ -1,12 +1,7 @@
 #!/usr/bin/env python3
 """
 Refactored Graph RAG pipeline (read-only, safe, better prompts).
-Requirements:
- - python-dotenv
- - langchain_community (Neo4jGraph)
- - langchain_experimental.llms.ollama_functions (or adjust to your LLM wrapper)
- - langchain_ollama (if using embeddings later)
-Set env vars: NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
+FIXED: Removed deprecated 'id()' function and simplified fulltext query logic.
 """
 
 import os
@@ -14,7 +9,7 @@ import json
 from string import Template
 from dotenv import load_dotenv
 
-# Langchain/neoj4 wrappers you already used
+# Note: You should be using 'langchain_neo4j.Neo4jGraph' for the latest package
 from langchain_community.graphs import Neo4jGraph
 from langchain_experimental.llms.ollama_functions import OllamaFunctions
 from langchain_google_genai import ChatGoogleGenerativeAI
@@ -27,20 +22,20 @@ NEO4J_USER = os.environ.get("NEO4J_USER")
 NEO4J_PASSWORD = os.environ.get("NEO4J_PASSWORD")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 
-# Fulltext index name you must create in Neo4j if not present:
-# CALL db.index.fulltext.createNodeIndex("ConceptIndex", ["Concept"], ["name","label","aliases"])
 FULLTEXT_INDEX_NAME = "ConceptIndex"
 
 # Ollama LLMs: one for structured extraction (json) and one for synthesis
+# Reverting to the recommended Ollama models for a clean setup
 entity_llm = OllamaFunctions(model="llama3.1:8b", temperature=0, format="json")
 qa_llm = OllamaFunctions(model="llama3.1:8b", temperature=0)
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", google_api_key=GOOGLE_API_KEY)
 
 # Neo4j graph connection (read-only user recommended)
+# You should still address the LangChainDeprecationWarning by installing/importing langchain-neo4j
 graph = Neo4jGraph(url=NEO4J_URI, username=NEO4J_USER, password=NEO4J_PASSWORD, sanitize=True)
 
 
-# ----------------- UTIL: Robust LLM JSON parse -----------------
+# ----------------- UTIL: Robust LLM JSON parse (No changes needed) -----------------
 def call_and_parse_json(llm, prompt: str, fallback=None):
     """
     Call an LLM and attempt to extract JSON from its response robustly.
@@ -78,7 +73,7 @@ def call_and_parse_json(llm, prompt: str, fallback=None):
         return fallback if fallback is not None else {}
 
 
-# ----------------- PROMPT (Template to avoid brace-escaping) -----------------
+# ----------------- PROMPT (Template to avoid brace-escaping) (No changes needed) -----------------
 ENTITY_PROMPT_TMPL = Template("""
 Extract key information from this hospital audit question.
 
@@ -109,49 +104,52 @@ def extract_entities(question: str):
     return {"topics": topics, "frameworks": frameworks, "query_type": qtype}
 
 
-# ----------------- Neo4j Fulltext concept lookup -----------------
+# ----------------- Neo4j Fulltext concept lookup (FIXED) -----------------
 def find_concepts_for_topic(topic: str, limit=8):
     """
-    Uses Neo4j fulltext index for Concepts to get the best matching concept node IDs.
-    Falls back to a simple CONTAINS match if fulltext call fails.
+    Uses Neo4j fulltext index for Concepts to get the best matching concept node elementIds.
+    Uses elementId() instead of deprecated id().
     """
+    # FIX 1 & 2: Use elementId() and remove redundant WHERE clause
     cypher_fulltext = """
     CALL db.index.fulltext.queryNodes($index, $query) YIELD node, score
-    WHERE $label IN labels(node)
-    RETURN id(node) AS node_id, node.name AS name, node.label AS label, score
+    RETURN elementId(node) AS node_id, node.name AS name, node.label AS label, score
     ORDER BY score DESC
     LIMIT $limit
     """
-    params = {"index": FULLTEXT_INDEX_NAME, "query": topic, "label": "Concept", "limit": limit}
+    params = {"index": FULLTEXT_INDEX_NAME, "query": topic, "limit": limit} # Removed "label" param
     try:
         rows = graph.query(cypher_fulltext, params)
+        # We return the elementId string here
         return [r.get("node_id") for r in rows]
     except Exception as e:
         print("⚠️ Fulltext lookup failed:", e)
-        # fallback (slower) - case-insensitive contains
+        # FIX 2 (Fallback): Use elementId() instead of deprecated id()
         cy = """
         MATCH (c:Concept)
         WHERE toLower(coalesce(c.name,'')) CONTAINS toLower($q) OR toLower(coalesce(c.label,'')) CONTAINS toLower($q)
-        RETURN id(c) AS node_id LIMIT $limit
+        RETURN elementId(c) AS node_id LIMIT $limit
         """
         rows = graph.query(cy, {"q": topic, "limit": limit})
         return [r.get("node_id") for r in rows]
 
 
-# ----------------- Fetch clauses by concept ids (parameterized) -----------------
+# ----------------- Fetch clauses by concept element ids (FIXED) -----------------
 def fetch_clauses_for_concepts(concept_ids: list, frameworks: list = None, limit=200):
     """
-    Safe, parameterized Cypher to fetch clauses that mention given concept ids and match frameworks.
+    Safe, parameterized Cypher to fetch clauses that mention given concept element ids.
+    Uses elementId() instead of deprecated id().
     """
     if not concept_ids:
         return []
-    # ensure frameworks defaults
+    
     frameworks = frameworks or []
+    # FIX 3: Use elementId() for lookups and returns
     cypher = """
     MATCH (cl:Clause)-[:MENTIONS]->(co)
-    WHERE id(co) IN $concept_ids
+    WHERE elementId(co) IN $concept_ids
       AND ($frameworks_size = 0 OR cl.framework IN $frameworks)
-    RETURN DISTINCT cl.code AS code, cl.text AS text, cl.framework AS framework, id(co) AS concept_id
+    RETURN DISTINCT cl.code AS code, cl.text AS text, cl.framework AS framework, elementId(co) AS concept_id
     LIMIT $limit
     """
     params = {
@@ -168,7 +166,7 @@ def fetch_clauses_for_concepts(concept_ids: list, frameworks: list = None, limit
         return []
 
 
-# ----------------- Synthesize final answer using clauses + qa_llm -----------------
+# ----------------- Synthesize final answer using clauses + qa_llm (No changes needed) -----------------
 SYNTH_PROMPT_TMPL = Template("""
 You are an expert hospital compliance assistant.
 
@@ -201,7 +199,7 @@ def synthesize_answer(question: str, clauses: list, qtype: str):
     return getattr(resp, "content", str(resp))
 
 
-# ----------------- High-level pipeline -----------------
+# ----------------- High-level pipeline (No changes needed) -----------------
 def process_query(question: str, top_k_concepts=5):
     print("\n[1] Extracting entities from question...")
     entities = extract_entities(question)
@@ -209,12 +207,12 @@ def process_query(question: str, top_k_concepts=5):
     print("  → frameworks:", entities.get("frameworks"))
     print("  → query_type:", entities.get("query_type"))
 
-    # Collect concept ids by topic
+    # Collect concept element ids by topic
     all_concept_ids = []
     for t in entities.get("topics", []):
         ids = find_concepts_for_topic(t, limit=top_k_concepts)
         if ids:
-            print(f"  → topic='{t}' found concept ids: {ids}")
+            print(f"  → topic='{t}' found concept element ids: {ids}")
             all_concept_ids.extend(ids)
     # dedupe and preserve order
     seen = set()
@@ -228,7 +226,7 @@ def process_query(question: str, top_k_concepts=5):
         print("❌ No concepts found for the provided topics. Try broader terms.")
         return
 
-    print(f"[2] Fetching clauses for {len(concept_ids)} concept ids...")
+    print(f"[2] Fetching clauses for {len(concept_ids)} concept element ids...")
     clauses = fetch_clauses_for_concepts(concept_ids, frameworks=entities.get("frameworks") or [], limit=200)
     print(f"  → retrieved {len(clauses)} clause records.")
 
@@ -243,7 +241,7 @@ def process_query(question: str, top_k_concepts=5):
     print("\n---------------\n")
 
 
-# ----------------- Simple interactive loop -----------------
+# ----------------- Simple interactive loop (No changes needed) -----------------
 if __name__ == "__main__":
     print("🏥 Hospital Compliance Assistant (read-only mode). Type 'exit' to quit.")
     while True:
