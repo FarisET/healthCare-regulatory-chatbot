@@ -1,0 +1,26 @@
+// List of 75 unique clause codes extracted and normalized from your file
+WITH [
+    "IPSG.1", "IPSG.2.2", "IPSG.3", "IPSG.3.1", "IPSG.5", "IPSG.6.1", "ACC.2", "SHCC6.7.8", 
+    "8.1.1", "8.1.2", "8.1.3", "ACC.4.2", "ACC.4.3.1", "8.1.5", "ACC.5", "ACC.5.1", 
+    "8.2.3", "8.2.4", "8.2.5", "8.2.6", "8.2.7", "8.2.10", "8.2.12", "8.2.13", 
+    "8.2.14", "8.3.2", "8.3.5", "8.3.6", "8.3.9", "COP.3.3", "8.3.10", "8.3.11", 
+    "8.3.12", "8.3.13", "8.3.14", "8.3.15", "5.3.1", "5.3.4", "PCI 1.3", "5.3.5", 
+    "5.3.6", "PCC.1.4", "6.1.2", "6.1.3", "6.1.5", "6.2.1", "6.2.2", "6.2.3", 
+    "6.2.4", "6.2.5", "6.2.6", "6.2.7", "6.2.8", "6.2.9", "AOP.1.1", "6.3.5", 
+    "AOP.1.5", "ACC.1", "6.3.7", "6.3.8", "6.3.9", "6.3.10", "6.3.11", "6.3.12", 
+    "AOP.2", "6.3.2", "6.3.3", "6.3.4", "6.3.1", "6.3.6", "6.4.1", "COP 2.2", 
+    "6.5.5", "6.5.6", "6.6.1", "6.6.2", "6.6.3", "ACC.4.1", "6.7.5", "6.7.7"
+] AS clause_codes
+
+// 1. Ensure the Department node exists
+MERGE (d:Department {name: "Adult Emergency Department"})
+
+// 2. Match all existing Clause nodes from the provided list (ignores those not found)
+MATCH (c:Clause)
+WHERE c.code IN clause_codes
+
+// 3. Create the APPLIES_TO relationship, representing the checklist
+MERGE (c)-[:APPLIES_TO]->(d)
+
+// 4. Report back the number of Clauses successfully linked
+RETURN d.name AS Department, count(c) AS Linked_Clauses

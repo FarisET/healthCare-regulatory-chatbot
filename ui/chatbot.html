@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Chat (Markdown-enabled)</title>
+
+  <!-- Marked (markdown parser) and DOMPurify (sanitizer) -->
+  <script src="https://unpkg.com/marked@5.1.1/marked.min.js"></script>
+  <script src="https://unpkg.com/dompurify@2.4.0/dist/purify.min.js"></script>
+
+  <style>
+    #chat-container {
+      width: 100%;
+      max-width: 800px;
+      margin: 24px auto;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      height: 80vh;
+      font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      background: #fff;
+      overflow: hidden;
+    }
+    #chat-window {
+      flex: 1;
+      padding: 16px;
+      overflow-y: auto;
+      background: #fafafa;
+    }
+    .msg {
+      padding: 10px 14px;
+      margin-bottom: 12px;
+      border-radius: 10px;
+      max-width: 80%;
+      font-size: 14px;
+      line-height: 1.45;
+      box-shadow: 0 1px 0 rgba(0,0,0,0.03);
+      word-wrap: break-word;
+      white-space: pre-wrap;
+    }
+    .user { background: #0078d4; color: white; margin-left: auto; }
+    .bot { background: white; border: 1px solid #eee; margin-right: auto; color: #111; }
+
+    /* Markdown styles for bot messages */
+    .bot h1 { font-size: 18px; margin: 8px 0; }
+    .bot h2 { font-size: 16px; margin: 6px 0; }
+    .bot h3 { font-size: 15px; margin: 4px 0; }
+    .bot p { margin: 6px 0; }
+    .bot ul, .bot ol { margin: 6px 0 6px 18px; }
+    .bot pre { background: #111; color: #eee; padding: 10px; border-radius: 6px; overflow-x: auto; }
+    .bot code { background: #f5f5f5; padding: 2px 6px; border-radius: 4px; font-family: monospace; }
+    .bot blockquote { border-left: 3px solid #ddd; margin: 6px 0; padding-left: 10px; color: #555; }
+
+    #input-bar {
+      display: flex;
+      padding: 8px;
+      border-top: 1px solid #ddd;
+      background: white;
+    }
+    #chat-input {
+      flex: 1;
+      padding: 10px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      font-size: 14px;
+    }
+    button {
+      margin-left: 8px;
+      padding: 10px 16px;
+      background: #0078d4;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div id="chat-container">
+    <div id="chat-window"></div>
+
+    <div id="input-bar">
+      <input id="chat-input" placeholder="Hello, fellow auditor. Ask something" />
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <script>
+    const chatWindow = document.getElementById("chat-window");
+    const input = document.getElementById("chat-input");
+    const sendBtn = document.getElementById("send-btn");
+
+    sendBtn.addEventListener("click", sendMessage);
+    input.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && !e.shiftKey) {
+        e.preventDefault();
+        sendMessage();
+      }
+    });
+
+    async function sendMessage() {
+      const text = input.value.trim();
+      if (!text) return;
+
+      addMessage(text, "user");
+      input.value = "";
+      input.focus();
+
+      try {
+        const res = await fetch("http://localhost:8000/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ message: text }),
+        });
+
+        if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+
+        const data = await res.json();
+        console.log("Response data:", data);
+
+        let reply;
+        if (typeof data === "string") {
+          reply = data;
+        } else if (Array.isArray(data.reply) && data.reply.length > 0) {
+          reply = data.reply[0].text || JSON.stringify(data.reply[0]);
+        } else if (data.content) {
+          reply = data.content;
+        } else {
+          reply = JSON.stringify(data, null, 2);
+        }
+
+        addMessage(reply, "bot");
+      } catch (err) {
+        console.error(err);
+        addMessage("Error: Could not connect to chatbot server", "bot");
+      }
+    }
+
+    function addMessage(text, sender) {
+      const div = document.createElement("div");
+      div.className = "msg " + sender;
+
+      if (sender === "bot") {
+        try {
+          const rawHtml = marked.parse(text || "");
+
+          // ✅ FIX: Allow safe tags so markdown renders
+          const clean = DOMPurify.sanitize(rawHtml, {
+            USE_PROFILES: { html: true }
+          });
+
+          div.innerHTML = clean;
+        } catch (e) {
+          div.textContent = text;
+        }
+      } else {
+        div.textContent = text;
+      }
+
+      chatWindow.appendChild(div);
+      chatWindow.scrollTop = chatWindow.scrollHeight;
+    }
+
+    input.focus();
+  </script>
+</body>
+</html>

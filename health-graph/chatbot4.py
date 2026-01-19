@@ -24,12 +24,21 @@ GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 
 FULLTEXT_INDEX_NAME = "ConceptIndex"
 
-# Ollama LLMs: one for structured extraction (json) and one for synthesis
-# Reverting to the recommended Ollama models for a clean setup
-entity_llm = OllamaFunctions(model="llama3.1:8b", temperature=0, format="json")
-qa_llm = OllamaFunctions(model="llama3.1:8b", temperature=0)
-llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", google_api_key=GOOGLE_API_KEY)
 
+# entity_llm = OllamaFunctions(model="gemini-2.5-flash", temperature=0, format="json")
+# qa_llm = OllamaFunctions(model="gemini-2.5-flash", temperature=0)
+
+entity_llm = ChatGoogleGenerativeAI(
+    model="gemini-2.5-flash",  # Use 2.0 for better performance
+    temperature=0, 
+    google_api_key=GOOGLE_API_KEY
+)
+
+qa_llm = ChatGoogleGenerativeAI(
+    model="gemini-2.0-flash",  # Use 2.0 for better performance
+    temperature=2, 
+    google_api_key=GOOGLE_API_KEY
+)
 # Neo4j graph connection (read-only user recommended)
 # You should still address the LangChainDeprecationWarning by installing/importing langchain-neo4j
 graph = Neo4jGraph(url=NEO4J_URI, username=NEO4J_USER, password=NEO4J_PASSWORD, sanitize=True)
@@ -96,7 +105,7 @@ def extract_entities(question: str):
     Uses the entity_llm to extract structured JSON.
     """
     prompt = ENTITY_PROMPT_TMPL.substitute(question=question)
-    parsed = call_and_parse_json(llm, prompt, fallback={})
+    parsed = call_and_parse_json(qa_llm, prompt, fallback={})
     # normalization + defensive defaults
     topics = parsed.get("topics") or []
     frameworks = parsed.get("frameworks") or []
@@ -168,13 +177,17 @@ def fetch_clauses_for_concepts(concept_ids: list, frameworks: list = None, limit
 
 # ----------------- Synthesize final answer using clauses + qa_llm (No changes needed) -----------------
 SYNTH_PROMPT_TMPL = Template("""
-You are an expert hospital compliance assistant.
+You are an expert hospital QM audit & compliance assistant. You asisst auditors throughout
+the QM audit process cycle: Frameork requirements analysis (framework comparison), post
+audit analysis (findings, past remediation, and root-causes) and finally compliance statistics &
+audit trails.
 
 User question:
 $question
 
 Below are retrieved clause snippets (showing framework and code). Use them to produce:
 - A concise comparison between the frameworks (if comparison requested)
+-Enhance your lingo with the retrieved medical concepts. Use an assisstive tone.
 - Or a short list of relevant clauses and a short explanation (if search/specific)
 Be factual, cite clause codes and frameworks in the answer, and do NOT invent clause codes.
 
