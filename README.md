@@ -27,8 +27,8 @@
 2) Open another terminal and create a python HTTP server on a port
 3) Open the chatbot.html in the browser on the server port used on 2.
 
-# Chatbot6.py
-- LangGraph used to equip the chatbot with usecase specific tools
+# UseCases
+- LangGraph used to equip the chatbot6.py with usecase specific tools
 - Usecase 1: Multi-Framework comparitive analysis. 
     Qs: Compare SHCC & JCI for hand hygeine requirements
 - Usecase 2: Gap Analysis
